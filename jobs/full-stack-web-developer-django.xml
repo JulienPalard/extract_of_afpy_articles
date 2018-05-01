@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Full-stack web developer (Django)</title><link href="https://www.afpy.org/jobs/full-stack-web-developer-django" rel="alternate"></link><published>2016-04-26T12:06:37+02:00</published><updated>2016-04-26T12:08:07+02:00</updated><author><name>lajarre</name><email>jobs-tech@legalstart.fr</email></author><id>https://www.afpy.org/jobs/full-stack-web-developer-django</id><summary type="html">We are looking for an ambitious and autonomous full stack developer to work on improving our product and bring new ideas.
+</summary><content type="html">Legalstart is a legal-tech startup based in Paris.
+
+We are developing France 1st 100% online legal services platform. We give back to entrepreneurs full control over their legal life, through an online application that allows them to manage their legal documents and procedures in an automated fashion.
+
+Launched in the beginning of 2014 by its founders coming from the web industry, law and finance, legalstart.fr attracts thousands of clients.
+
+By joining Legalstart, you come into a highly growing project, lead by a experienced team, determined to disrupt the legal space through technologies and an innovative business.
+
+_______
+
+We are looking for an ambitious and autonomous full stack developer to work on improving our product and bring new ideas.
+
+Your responsibilities will span the whole engineering effort as well as help growing the technical team.
+
+Your work will notably include :
+
+- rewriting our dynamic forms front-end (using React/Redux)
+- implementing new features for automatisation, notably scraping (Python or Nodejs)
+- improve our documents app UX: document generation, online signing, collaboration
+- conceiving a new software for creating intelligent legal documents
+enhance our codebase and our infrastructure (notably scaling issues)
+
+Our stack today :
+
+- backend: Python/Django, Celery, Jython, Node, …
+- front-end: JQuery, React, Sass
+- data: Postgres, RabbitMQ, Redis
+- infra: Heroku, AWS, Docker
+- other: git, pytest &amp; nosetests, Distelli (CI), Jira, …
+
+Ideally, you:
+
+- have a strong programming experience (2+ years), with a good knowledge of web development
+- already have a good hands-on experience with Python and Javascript, in particular SPA (React/Redux, Angular, …)
+- use best practices in testing, versioning
+- have good bases of all what is Unix
+- are a good team-player, and know well how to communicate with non-tech people
+
+You’re not expected to master the whole stack, rather to be comfortable with working with it from day 1 and to develop related skills quickly.</content><company>Legalstart</company><address>46 rue du Faubourg Saint-Martin, 75010 Paris</address><contact>Alexandre Hajjar</contact><location></location><phone>0668081105</phone><link href="https://www.legalstart.fr" rel="about"></link><link href="http://www.jobsintech.io/jobs/full-stack-web-developer-python-legalstart " rel="via"></link></entry>

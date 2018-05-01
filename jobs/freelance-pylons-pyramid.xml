@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Freelance Pylons/Pyramid</title><link href="https://www.afpy.org/jobs/freelance-pylons-pyramid" rel="alternate"></link><published>2013-09-27T15:37:44+02:00</published><updated>2013-11-06T09:37:18+01:00</updated><author><name>rhc2c</name><email>nicolas.bessi@camptocamp.com </email></author><id>https://www.afpy.org/jobs/freelance-pylons-pyramid</id><summary type="html">Recherche freelance pour la réalisation d'un portail privé en Pylons/Pyramid</summary><content type="html">&lt;p&gt;Dans le cadre d'un projet d'intégration d'&lt;a class="external-link" href="http://www.openerp.com" target="_blank" title="OpenERP"&gt;OpenERP&lt;/a&gt;, nous devons créer un petit site/portail qui devra interagir avec OpenERP. Le portail sera principalement utilisé pour la saisie de prix et devrait compter environ une trentaine d'utilisateurs.&lt;/p&gt;
+&lt;p&gt;&lt;a class="external-link" href="http://www.camptocamp.com" target="_blank" title=""&gt;Camptocamp&lt;/a&gt; est à la recherche d'un freelance qui réalisera le portail, qui fournira du support pour le déploiement, de la documentation, et trois mois de garantie.&lt;/p&gt;
+&lt;p&gt;L'application devra être codée en Python 2.x Pylons/Pyramid, utilisant une base de données PostgreSQL 9.1. L'OS de production sera une Debian Stable mise à disposition et maintenue par notre équipe infrastructure.&lt;/p&gt;
+&lt;p&gt;La version test de l'application est à délivrer d'ici fin octobre 2013 et la mise en production est prévue pour mi-novembre 2013&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Compétences recherchées :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 2.x&lt;/li&gt;
+&lt;li&gt;Pylons/Pyramid&lt;/li&gt;
+&lt;li&gt;Buildout, un plus.&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;HTML-CSS&lt;/li&gt;
+&lt;li&gt;JavaScript (JQuery)&lt;/li&gt;
+&lt;li&gt;DVCS (Git/Bazaar)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si vous êtes intéressé(e) ou désirez des spécifications plus précises n'hésitez pas à nous contacter par e-mail!&lt;/p&gt;</content><company>Camptocamp</company><address>Quartier de l'Innovation EPFL, PSE-A
+1015 Lausanne
+Switzerland</address><contact>Nicolas Bessi</contact><location></location><phone>+41 21 619 10 26</phone><link href="http://www.camptocamp.com" rel="about"></link></entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeu|r|se Python (Paris)</title><link href="https://www.afpy.org/jobs/developpeu-r-se-python-paris" rel="alternate"></link><published>2017-05-09T17:36:03+02:00</published><updated>2017-05-10T09:14:59+02:00</updated><author><name>jvitard</name><email>rh@wallix.com</email></author><id>https://www.afpy.org/jobs/developpeu-r-se-python-paris</id><summary type="html">CDI dans Paris. WALLIX recherche un|e developpeu|r|se Python pour renforcer son équipe R&amp;D.
+</summary><content type="html">&lt;p&gt;&lt;strong&gt;&lt;span&gt;L’ENTREPRISE :&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Editeur de logiciels de cybersécurité, WALLIX Group est le spécialiste Européen de la gouvernance des comptes à privilèges.&lt;/p&gt;
+&lt;p&gt;A l’ère de la transformation numérique, les enjeux de cybersécurité touchent l'ensemble des entreprises, en particulier lorsque les données qu’elles traitent ont un caractère personnel ou sensible, et ce, qu’elles soient gérées en interne ou confiées à un prestataire externe. En outre, l'évolution récente des réglementations en Europe (NIS/RGPD) et en France (OIV) pousse les entreprises des secteurs sensibles à implémenter une véritable politique de cybersécurité au cœur de leur activité. La solution de type bastion WALLIX est une plateforme logicielle qui aide ces acteurs dans leur mise en conformité en s’adaptant à leurs enjeux. Elle constitue la première offre du marché certifiée CSPN par l’ANSSI et équipe déjà plus de 100 opérateurs dans ces secteurs.&lt;/p&gt;
+&lt;p&gt;WALLIX accompagne plus de 400 entreprises et organisations au quotidien dans leur gestion des accès à plus de 100 000 équipements et applications. Ses solutions sont distribuées à travers un réseau de plus de 90 revendeurs et intégrateurs formés et certifiés. Cotée sur EuroNext sous le code ALLIX, WALLIX Group est l’un des leaders du marché du PAM avec une forte présence sur toute la zone Europe et EMEA. Alain Afflelou, Dassault Aviation, Gulf Air, Maroc Telecom, McDonald's, Michelin, ou encore PSA Peugeot-Citroën lui font confiance au quotidien pour sécuriser leurs systèmes d'information. &lt;br /&gt;La solution Wallix AdminBastion Suite a été primée aux Computing Security Awards 2016 et élue « Best Buy » par SC Magazine. La société est membre de BPI Excellence, Champion du Pôle Systematic Paris Region et membre fondateur du Groupement Hexatrust.&lt;/p&gt;
+&lt;p&gt;Dans le cadre de sa forte croissance, WALLIX recherche un DEVELOPPEUR PYTHON H/F&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;LA MISSION :&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Venez goûter aux spécificités de notre produit :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;distribution Debian complète avec durcissement GRSEC&lt;/li&gt;
+&lt;li&gt;appliance physique et virtualisée (VMWare+Azure+Amazon)&lt;/li&gt;
+&lt;li&gt;modes Actif/Passif (HA), Actif/Actif&lt;/li&gt;
+&lt;li&gt;certifications régulières (CSPN, FSTEC, …)&lt;/li&gt;
+&lt;li&gt;API REST basée sur Falcon (OpenStack)&lt;/li&gt;
+&lt;li&gt;coffre-fort à mots de passe&lt;/li&gt;
+&lt;li&gt;authentifications LDAP/AD, Kerberos, Radius, TACACS, …&lt;/li&gt;
+&lt;li&gt;enregistrement et visualisation temps réel de sessions (proxy SSH/RDP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous rejoindrez la R&amp;amp;D, jeune et dynamique, organisée autour des valeurs agiles, vous échangerez avec le responsable produit et les leaders techniques.&lt;/p&gt;
+&lt;p&gt;Au sein de l'équipe Core, après avoir pris contact avec l'environnement et la gamme de produits, vous participerez à la vie et à l'évolution du WAB :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;amélioration de la base de code existante (tests, documentation, CI)&lt;/li&gt;
+&lt;li&gt;développement de nouvelles fonctionnalités&lt;/li&gt;
+&lt;li&gt;orientation Cloud : découpage en micro-services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les technos utilisées actuellement :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 2.7+&lt;/li&gt;
+&lt;li&gt;SQLAlchemy&lt;/li&gt;
+&lt;li&gt;Falcon&lt;/li&gt;
+&lt;li&gt;MySQL (et PostgreSQL)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les technos envisagées prochainement :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Celery&lt;/li&gt;
+&lt;li&gt;ZMQ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;LE PROFIL :&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Passionné(e) avant tout, vous avez acquis lors de vos expériences précédentes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;une pratique solide du langage Python&lt;/li&gt;
+&lt;li&gt;la maîtrise de Git&lt;/li&gt;
+&lt;li&gt;une aisance sous Linux&lt;/li&gt;
+&lt;li&gt;l'habitude de communiquer et de travailler en équipe&lt;/li&gt;
+&lt;li&gt;autonomie et curiosité&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les petits plus&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;connaissances Système et Réseau&lt;/li&gt;
+&lt;li&gt;connaissances en sécurité&lt;/li&gt;
+&lt;li&gt;participation à un projet open-source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous souhaitez participer à une aventure entrepreneuriale, humaine et technologique, adressez-nous votre candidature à : rh@wallix.com.&lt;/p&gt;</content><company>WALLIX</company><address>250 bis, rue du Faubourg Saint-Honoré
+75008 PARIS</address><contact>RH</contact><location></location><phone></phone><link href="http://www.wallix.com/" rel="about"></link></entry>

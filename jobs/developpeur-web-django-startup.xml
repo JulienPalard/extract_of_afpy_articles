@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur web Django / startup</title><link href="https://www.afpy.org/jobs/developpeur-web-django-startup" rel="alternate"></link><published>2013-04-11T15:03:00+02:00</published><updated>2013-04-11T16:33:31+02:00</updated><author><name>aauclair</name><email>aauclair@planorama.com</email></author><id>https://www.afpy.org/jobs/developpeur-web-django-startup</id><summary type="html">Planorama recrute un ingénieur pour intégrer son équipe de dev web. Le poste consiste à ajouter de nouvelles fonctionnalités à notre plate-forme cloud d'échanges de données sous Django. </summary><content type="html">&lt;p&gt;Cette plate forme est composée :&lt;/p&gt;
+&lt;ul style="text-align: left; "&gt;
+&lt;li&gt;d'un back-end avec : gestion de données, système de taches asynchrones en Celery/RabbitMQ (pour pré-calculer des stats, générer des rapports excel, générer des exports images, lancer des serveurs de reconnaissance d'images,...), API REST pour communiquer, d'un module de type BI (statistiques sur un grand volume de données)&lt;/li&gt;
+&lt;li&gt;d'un front-end client de consultation/edition/envoi de données&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left; "&gt;Et de manière plus large, les&lt;span class="Apple-converted-space"&gt; &lt;/span&gt;&lt;b&gt;technos&lt;/b&gt;&lt;span class="Apple-converted-space"&gt; &lt;/span&gt;utilisées sont :&lt;/p&gt;
+&lt;ul style="text-align: left; "&gt;
+&lt;li&gt;Django/Python&lt;/li&gt;
+&lt;li&gt;Celery / RabbitMQ&lt;/li&gt;
+&lt;li&gt;API REST&lt;/li&gt;
+&lt;li&gt;Apache / NGinx&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;HTML/CSS/Javascript&lt;/li&gt;
+&lt;li&gt;HTML5 (IndexedDB / API File...)&lt;/li&gt;
+&lt;li&gt;un Private Cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left; "&gt;Au niveau organisation, nous utilisons :&lt;/p&gt;
+&lt;ul style="text-align: left; "&gt;
+&lt;li&gt;Trello&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;GitHub pour les codes reviews&lt;/li&gt;
+&lt;li&gt;Fabric&lt;/li&gt;
+&lt;li&gt;CMake&lt;/li&gt;
+&lt;li&gt;Jenkins pour l'intégration continue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left; "&gt;Le poste est idéal pour un junior (ou personne avec une première expérience) avec un bon niveau qui souhaite monter en compétences sur une large palette de technologies parmi celles citées.&lt;/p&gt;
+&lt;p style="text-align: left; "&gt;L'équipe R&amp;amp;D fait aujourd'hui 7 personnes, mais devrait arriver rapidement à 9 personnes. Les profils sont divers (devs web, expert C++, juniors C++, PhD en reconnaissance d'images,...). Il y a une vrai émulation pour rester à la pointe des technologies/outils/méthodes actuels (utilisation de HTML5, passage à un framework JS, débats sur la technical Debt, passage à Trello, partage continue d'articles sur le dev,...).&lt;/p&gt;</content><company>Planorama</company><address>24 rue de l'Est
+75020 Paris</address><contact>Adrien Auclair</contact><location></location><phone>0182284143</phone><link href="http://www.planorama.com" rel="about"></link><link href="http://www.planorama.com/fr/ingenieur-developpement-web-django-en-cdi-hf/" rel="via"></link></entry>

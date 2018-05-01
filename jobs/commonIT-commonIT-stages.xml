@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>[STAGE] Développeur Python</title><link href="https://www.afpy.org/jobs/commonIT-commonIT-stages" rel="alternate"></link><published>2009-03-30T15:51:01+02:00</published><updated>2013-03-31T22:50:30+02:00</updated><author><name>admin</name><email>math@commonit.com</email></author><id>https://www.afpy.org/jobs/commonIT-commonIT-stages</id><summary type="html">Plusieurs offres de stages autour de python, twisted et django sont à pourvoir sur Lyon.</summary><content type="html">&lt;h3&gt;&lt;b&gt;Stage 1 - Développement d'un serveur X11 pour systèmes embarqués, étude de faisabilité&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;
+Le stage consistera à étudier la faisabilité d'implémentation un
+serveur X11 minimaliste, pouvant être utilisé (entre autres) sur des
+systèmes embarqués (smartphones, clients légers). L'étude comportera
+une part importante de réalisation d'une maquette en python.
+&lt;/p&gt;
+&lt;p&gt;
+Mots clés : X11, python, GUI
+&lt;/p&gt;
+
+&lt;h3&gt;&lt;b&gt;Stage 2 - Extension d'une interface d'administration web&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;
+Le stage consistera à étendre une interface web en y ajoutant de
+nouveaux composants :
+&lt;ul&gt;
+&lt;li&gt; Journaux
+&lt;li&gt; Collecte de statistiques et génération de graphiques (cpu, mémoire, ...)
+&lt;li&gt; Web services
+&lt;li&gt; ...
+&lt;/ul&gt;
+&lt;/p&gt;&lt;p&gt;
+Mots clés : python, django, rrdtool, html/css, javascript/jquery
+&lt;/p&gt;
+
+&lt;h3&gt;&lt;b&gt;Stage 3 - Mise en place d'une architecture de tests automatique&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;
+Le stage consistera à mettre en place une architecture de tests
+automatique sur certains composants et à créer les tests permettant
+d'avoir une couverture optimale
+&lt;/p&gt;
+&lt;p&gt;
+Mots clés : python, twisted, django, unittest
+&lt;/p&gt;
+
+&lt;h3&gt;Stage 4 - Développement d'un relais PKCS#11&lt;/h3&gt;
+&lt;p&gt;
+Le stage consistera à développer un relais PKCS#11 permettant à un
+programme s'exécutant à distance d'utiliser un équipement de sécurité
+(carte à puce, clé usb, ...) situé sur le poste de l'utilisateur à des
+fins de chiffrement/signature.
+&lt;/p&gt;&lt;p&gt;
+Mots clés : pkcs11, python, gecko
+&lt;/p&gt;</content><company>commonIT</company><address>33B rue de la république - 69002 Lyon</address><contact>Mathieu Lafon</contact><location></location><phone>04 72 16 33 41</phone><link href="http://commonit.com/" rel="about"></link></entry>

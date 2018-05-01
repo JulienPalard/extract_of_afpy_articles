@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingénieur de dév Python / infrastructure</title><link href="https://www.afpy.org/jobs/ingenieur-de-dev-python-infrastructure" rel="alternate"></link><published>2013-06-20T15:05:19+02:00</published><updated>2013-06-20T16:58:52+02:00</updated><author><name>jcksoftware</name><email>c.karrer@jcksoftware.fr</email></author><id>https://www.afpy.org/jobs/ingenieur-de-dev-python-infrastructure</id><summary type="html">Pour un Fournisseur d’accès Internet qui croît de façon solide et régulière, nous recherchons aujourd’hui un(e) développeur(euse) Python pour participer à la construction et à l’évolution des solutions techniques avec une forte composante système (Debian/Linux). </summary><content type="html">&lt;p class="Default"&gt;Notre client est un FAI spécialisé dans le service internet en résidence ( (hôtelières, étudiantes, de tourisme, foyers…)&lt;/p&gt;
+&lt;p class="Default"&gt;Celui-ci a mis en oeuvre une infrastructure suivante :&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;span&gt;Sur chacune de nos résidences, un LAN comportant entre autres développements internes:&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;une appliance de gestion QoS (Python/Linux)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;des outils de pilotage des équipements LAN (Python):  AP Wifi, switches, modems routeurs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;un portail captif embarqué (Python)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;En central, une plate-forme de services comportant entre autres développements internes:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;un framework temps réel de supervision technique et de la QoS (Python/Django)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;un framework de pilotage de l’ensemble des équipements actifs du parc&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="Default"&gt;&lt;span&gt;VOTRE MISSION&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;span&gt;Sous la responsabilité du responsable des développements infrastructures, vous aurez pour mission de porter ou de contribuer, à partir de spécifications fonctionnelles fournies par les Maîtrises d’ouvrage métier, au développement les projets suivants :&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt; Wibox : appliances de gestion de qualité de service intégrant un portail captif (Python)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Kiwi : framework temps réel pour la supervision technique (client Python, serveur Python/Django)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; boxAdmin: framework pour le pilotage des équipements LAN&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="Default"&gt;Impliqué(e) de bout en bout sur ces projets, votre rigueur, votre investissement et votre pragmatisme seront essentiels pour fournir un service de qualité correspondant à l’attente des clients.&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;strong&gt;VOTRE PROFIL &lt;/strong&gt;&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;strong&gt;Connaissances requises &lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Excellente maîtrise de Python (la pratique de Python/Django serait un plus)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Autonomie et excellente maîtrise de Linux / Debian (sysadmin, packaging, best practices)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Qualités attendues &lt;/strong&gt;&lt;span&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Expertise technique et rigueur&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Autonomie, motivation et appétit pour les défis technologiques&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Capacité d’apprentissage&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Esprit d’équipe et capacités de communication&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Démarrage : ASAP&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Profil : formation théorique et de terrain solide&lt;/p&gt;
+&lt;p&gt;statut : CDI, Indépendant&lt;/p&gt;
+&lt;p&gt;rémunération : selon profil et expérience&lt;/p&gt;
+&lt;p class="Default"&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</content><company>JCK-SOFTWARE</company><address>Immeuble les saisons
+4 Place des saisons
+LA DEFENSE
+92400 COURBEVOIE</address><contact>Jean Christophe Karrer</contact><location></location><phone>01 49 06 14 07 / 06 61 12 58 38</phone><link href="http://www.jcksoftware.fr" rel="about"></link></entry>

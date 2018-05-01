@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur Python</title><link href="https://www.afpy.org/jobs/developpeur-python-10" rel="alternate"></link><published>2017-09-08T17:25:47+02:00</published><updated>2017-09-08T17:31:30+02:00</updated><author><name>Cogiceo</name><email>cv@cogiceo.com</email></author><id>https://www.afpy.org/jobs/developpeur-python-10</id><summary type="html">Poste de développeur Python au sein de Cogiceo</summary><content type="html">&lt;p&gt;&lt;strong&gt;== Présentation de COGICEO ==&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;COGICEO est une TPE indépendante spécialisée dans le conseil en sécurité informatique. Fondée en 2012 par des consultants seniors de grandes entreprises françaises, forts de plus de 10 ans d'expérience dans le domaine. Son coeur de métier se réparti en 2 pôles d'activités :&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;- Audit : Analyser la robustesse d'un système face aux attaques en conditions réelles. (Test d'intrusion, Audit de configuration, Audit d'architecture, ...)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;- Formation : Transmettre des compétences techniques en sécurité grâce à des ateliers. (Sensibilisation DSI/COMEX/CODIR, Formation administrateurs Windows, ...)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;== Cadre contractuel ==&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Type de contrat : stage de pré-embauche, ou CDI&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Rémunération : à négocier selon profil&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Lieu de travail principal : 28 bis boulevard de Sébastopol - 75004 Paris&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;== Cadre technique ==&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Langage : Python2 / Python3&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;OS : Debian Linux&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Gestion de projet : git&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Éditeur : à votre choix (vim, emacs, eclipse, ...)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;== Profil recherché ==&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Nous recherchons une personne en dernière année d'étude ou déjà diplômée, appréciant les métiers du développement et capable de s'intégrer dans une équipe jeune et dynamique sans pour autant en oublier de réaliser ses tâches avec rigueur. Afin de réussir à ce poste, une bonne maîtrise du langage Python et une sensibilité accrue à la sécurisation de son code sont absolument nécessaires. Une capacité d'autonomie est également requise puisque le profil recherché sera l'unique à développer à temps plein au sein de l'entreprise (les autres membres de l'équipe étant consultants polyvalents). Des compétences en exploitation ou administration de systèmes Linux constitueraient un avantage.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;== Tâches à effectuer ==&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Votre rôle principal sera de participer au développement de nos outils internes. Actuellement, nos trois plus importants projets sont :&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;- Un système d'échange de fichiers sécurisé via HTTPS en WSGI avec double référentiel d'authentification (l'un interne accessible en SQL et l'autre externe accessible en LDAP).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;- Un framework de rédaction/génération de document libreoffice doté d'une interface web WSGI.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;- Un gros logiciel d'analyse de la sécurité de systèmes informatiques complexes (réseaux IP, domaines Microsoft, Internet, ...), disposant de plusieurs interfaces (cli, interface web, API web, ...)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Tout ces outils sont codés en Python et n'utilisent, autant que possible, que les librairies standards (pas de django, requests, ...).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Au grès des priorités définies par la direction, vous serez amené(e) à travailler sur ces 3 projets ou sur d'autres à venir. Vous ferez des ajouts de fonctionnalités, de la correction de bug sur fonctionnalités existantes et, potentiellement, vous participerez à définir des améliorations de nos processus de développements internes (mise en place de tests unitaires, etc.).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Selon votre profil et vos aspirations, vous pourrez également être amené(e) à travailler à l'administration de systèmes ou à la définition d'architectures sur notre réseau interne.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="justify"&gt; &lt;/p&gt;</content><company>Cogiceo</company><address>28 bis boulevard sebastopol</address><contact>Thibault Lengagne</contact><location>Paris, Châtelet</location><phone>0185081073</phone><link href="http://www.cogiceo.com" rel="about"></link><link href="developpeur-python-10.jpg" rel="image"></link></entry>

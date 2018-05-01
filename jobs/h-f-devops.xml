@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>H/F - DevOps</title><link href="https://www.afpy.org/jobs/h-f-devops" rel="alternate"></link><published>2015-08-18T17:18:55+02:00</published><updated>2015-08-18T17:21:51+02:00</updated><author><name>ctcapfi</name><email>ct@capfi.fr</email></author><id>https://www.afpy.org/jobs/h-f-devops</id><summary type="html">Nous recherchons pour notre client dans le secteur des médias un profil DevOps - Python.
+Les principaux enjeux : enrichir le socle de déploiement (par exemple: intégration de nouveaux IaaS, mise en place de formules de déploiements pour MongoDb …), suivre les évolutions proposées par les équipes projet et garantir leurs adéquations avec le socle de déploiement, suivi des changements, résolution d’incidents.</summary><content type="html">&lt;p&gt;&lt;strong&gt;Enrichir le socle de déploiement en mode itératif/Agile :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Sous validation des architectes DMD, intégrer de nouveaux fournisseurs d’infrastructures IaaS (Google Compute Engine / CloudWatt /…) pour assurer le provisioning automatisé des plateformes.&lt;/p&gt;
+&lt;p&gt;- Ajouter les formules de déploiements SaltStack pour les briques techniques qui ne sont pas encore gérées (MongoDB / NodeJS /…)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suivre les évolutions proposées par les équipes projet :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Etre au contact des équipes projet pour participer à la mise en oeuvre de la dynamique Devops.&lt;/p&gt;
+&lt;p&gt;- Synthétiser les différentes demandes et points clés pour arbitrage et priorisation.&lt;/p&gt;
+&lt;p&gt;- Au travers de la maîtrise des plateformes applicatives, être garant de la cohérence des modifications poussées par les équipes projet (validation/rejet de Pull Request).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Résolution d’incidents :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Au travers d’une maitrise des plateformes IaaS et on premises, participer à la correction des anomalies de déploiement et fonctionnement.&lt;/p&gt;
+&lt;p&gt;- Identifier les root causes et proposer les solutions de contôle à mettre en œuvre&lt;/p&gt;
+&lt;p&gt;Contributeur du passage de connaissance entre les N1/N2 infra, notamment dans le cadre des nouveaux projets métiers :&lt;/p&gt;
+&lt;p&gt;- Documentation des évolutions apportées&lt;/p&gt;
+&lt;p&gt;- Acteur dans la mise en place des procédures d’exploitation « infra » (issues des projets, du plan d’amélioration continu ou suite aux optimisations post incidents)&lt;/p&gt;
+&lt;p&gt;-Contributeur des formations N1/N2 sur les évolutions du socle de déploiement&lt;/p&gt;
+&lt;p&gt;- Acteur de la mise en œuvre des composants de supervision (centreon, websup, testeur site…)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les qualités attendues :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Compétences techniques&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maitrise Systèmes (Unix/Windows) et Réseaux.&lt;/p&gt;
+&lt;p&gt;Maitrise de scripting linux / Windows&lt;/p&gt;
+&lt;p&gt;Développement Python&lt;/p&gt;
+&lt;p&gt;Connaissances outil de gestion de configuration système (Saltstack)&lt;/p&gt;
+&lt;p&gt;Connaissance outil de gestion de version (GIT)&lt;/p&gt;
+&lt;p&gt;Bonne culture des offres Cloud IaaS&lt;/p&gt;
+&lt;p&gt;Bonne culture des standards applicatifs (Play / Node Js / Nginx / bases NoSQL)&lt;/p&gt;
+&lt;p&gt;- Capacités et gout pour le développement d’outils d’automatisation du développement&lt;/p&gt;
+&lt;p&gt;- Esprit de synthèse&lt;/p&gt;
+&lt;p&gt;- Bon relationnel et bon communicant pour l’interface avec les tierces équipes projets et la demande d’arbitrage.&lt;/p&gt;
+&lt;p&gt;- Rigueur dans le suivi des tickets d'incidents de déploiements.&lt;/p&gt;
+&lt;p&gt;- Autonomie, capacité à planifier et suivre l'activité des changements et remonter les alertes&lt;/p&gt;
+&lt;p&gt;- Capacité à participer activement au processus d'amélioration continue.&lt;/p&gt;</content><company>6ème Sens Technology</company><address>25-27 place de la madeleine, 75008 Paris</address><contact>Christian Tran</contact><location></location><phone>0171182836</phone><link href="http://6emesens-technology.com/" rel="about"></link></entry>

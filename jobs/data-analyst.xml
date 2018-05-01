@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Data Analyst</title><link href="https://www.afpy.org/jobs/data-analyst" rel="alternate"></link><published>2016-02-01T22:41:29+01:00</published><updated>2016-02-02T09:33:15+01:00</updated><author><name>contact-rh</name><email>contact-rh@nexatech.fr</email></author><id>https://www.afpy.org/jobs/data-analyst</id><summary type="html">Nous recherchons un ingénieur data analyst pour travailler dans un environnement jeune et dynamique constitué de passionnés de l'informatique.
+
+Vous participerez à l'évolution de notre solution d'analyse de données réseau développée en Python3 en environnement Linux.</summary><content type="html">&lt;h2&gt;Présentation de l'entreprise&lt;/h2&gt;
+&lt;p&gt;Jeune société innovante créée en 2012 en très forte croissance avec une présence et un développement stratégique à l'international, Nexa est un leader européen de l'édition de logiciels, spécialisée dans la sécurité informatique.&lt;br /&gt;La diversité de nos produits à la pointe de l'état de l'art dans notre secteur offre à nos développeurs des problématiques techniques complexes, exigeantes et diversifiées, notamment sur les sujets temps réel et très haut débit.&lt;/p&gt;
+&lt;p&gt;Notre taille humaine garantit un environnement stimulant pour exprimer ses idées et enrichir ses compétences.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Présentation du poste&lt;/h2&gt;
+&lt;p&gt;Nous recherchons un ingénieur data analyst pour travailler dans un environnement jeune et dynamique constitué de passionnés de l'informatique.&lt;/p&gt;
+&lt;p&gt;Vous participerez à l'évolution de notre solution d'analyse de données réseau développée en Python3 en environnement Linux.&lt;/p&gt;
+&lt;p&gt;Vous devrez définir des traitements permettant de réaliser des analyses comportementales (par exemple via du machine learning) ainsi que la corrélation d'évènements dans le but de faire ressortir des relations de voisinage, des groupes d'utilisateurs ou de communications.&lt;/p&gt;
+&lt;p&gt;En binôme, vous travaillerez sur l'intégration de ces procédures de traitement de données dans notre produit, via la mise en place de frameworks Big Data tels que&lt;br /&gt;Hadoop et Spark ainsi que la définition des types de données utilisés et leur méthode de stockage (BDD, NoSQL, Redis).&lt;/p&gt;
+&lt;p&gt;Le développement final devra être en mesure de gérer différentes sources de données (la principale étant extraite du réseau IP) afin de produire des résultats *exploitables*.&lt;/p&gt;
+&lt;h2&gt;&lt;br /&gt;Compétences techniques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Big Data : 3+ xp (Spark, Hadoop)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;SGDB : 2+ xp en BDD SQL et NoSQL&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Machine Learning : 1+ xp&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Analyse de données : Quantitative et statistique&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Algorithmique : Notions de complexité et performances&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Linux (RedHat) : Utilisateur quotidien&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Python : 0+ xp&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Git : Connaissances générales&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;br /&gt;Qualités recherchées&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Rigueur&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Créativité&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Résolution de problèmes&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;br /&gt;Mots-clés&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Hadoop, Spark&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;NoSQL&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Machine learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Python&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Linux&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><company>Nexa Technologies</company><address>94-96 rue de Paris, 92100 Boulogne-Billancourt</address><contact>RH</contact><location></location><phone></phone></entry>

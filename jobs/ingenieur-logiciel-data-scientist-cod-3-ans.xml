@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingenieur logiciel / data scientist (COD 3 ans)</title><link href="https://www.afpy.org/jobs/ingenieur-logiciel-data-scientist-cod-3-ans" rel="alternate"></link><published>2018-01-11T16:27:19+01:00</published><updated>2018-01-11T16:45:30+01:00</updated><author><name>kieffer</name><email>Jerome.Kieffer@esrf.fr</email></author><id>https://www.afpy.org/jobs/ingenieur-logiciel-data-scientist-cod-3-ans</id><summary type="html">Ingénieur logiciel pour déployer des instances "Jupyter" à la demande</summary><content type="html">&lt;p style="text-align: justify; "&gt;&lt;span&gt;L’ESRF, le Synchrotron Européen, est un équipement scientifique de pointe situé à Grenoble, en France. Financé par 22 pays, il emploie 650 salariés et accueille chaque année plus de 6500 chercheurs dans le cadre d'expériences dans des domaines tels que la biologie, la médecine, la chimie, les sciences de la terre, le patrimoine culturel, la science des matériaux et des surfaces et la physique. Sa capacité d'innovation technique et sa vision scientifique avant-gardiste font de l'ESRF une des meilleures institutions de recherche dans le monde. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify; "&gt;&lt;span&gt;&lt;span&gt;Nous recherchons actuellement un(e) :&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 style="text-align: center; "&gt;&lt;span&gt;Ingénieur Logiciel DaaS H/F, CDD à Objet Défini (3 ans maximum)&lt;/span&gt;&lt;/h1&gt;
+&lt;p style="text-align: center; "&gt;&lt;span class="sstitre"&gt;&lt;span&gt;CONTRAT A DUREE DETERMINEE&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center; "&gt;&lt;b&gt;&lt;span class="sstitre"&gt;Ref. COD/DAAS &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h2 style="text-align: left; "&gt;&lt;span&gt;CONTENU DU POSTE&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: justify; "&gt;L’ESRF est fortement impliqué dans un projet européen visant à développer des infrastructures pour l’implémentation de l’analyse de données DaaS (Data Analysis as a Service). En effet, la production de données scientifiques évolue fortement à l’heure actuelle, tant en complexité qu’en volume, ce qui implique un changement de paradigme dans la gestion de ces données et dans leur analyse. Vous travaillerez en étroite collaboration avec des ingénieurs logiciels spécialisés dans l’analyse de données, dans l’administration de systèmes et de bases de données, et interagirez avec des chercheurs afin de répondre à leurs besoins en matière d’analyse de données.&lt;/p&gt;
+&lt;p style="text-align: justify; "&gt;Vos missions seront les suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: justify; "&gt;Implémenter un notebook (comme JupyterLab) pour permettre aux chercheurs externes (utilisateurs du synchrotron) d’accéder aux données, aux ressources informatiques et aux outils web dont ils ont besoin dans leurs projets scientifiques&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Fournir des plateformes d’analyse de données à la demande
+&lt;ul&gt;
+&lt;li&gt;Aider à l’encapsulation des applications d’analyse de données pour simplifier leur développement (localement et dans le cloud)&lt;/li&gt;
+&lt;li&gt;Mettre en lien le portail web d’accès aux données de l’ESRF à l’analyse en ligne de grands volumes de données&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Développer les interfaces web associées à ces activités&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;h2 style="text-align: left; "&gt;&lt;span&gt;PROFIL, COMPETENCES ET EXPERIENCE&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: justify; "&gt;Diplôme de l’enseignement supérieur marqué par l’obtention de 300 ECTS (Master ou équivalent) en informatique, ingénierie, science ou équivalent&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;1 à 5 ans d’expérience professionnelle&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Compétences solides en javascript et/ou dans un ou plusieurs langages de script (shell, Python)&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Connaissance pratique de UNIX&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;La connaissance des technologies de virtualisation, docker, Jupyter, sera considérée comme un fort atout.&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Esprit d’équipe et sens du service.&lt;/li&gt;
+&lt;li style="text-align: justify; "&gt;Anglais professionnel (l’anglais est la langue de travail de l’ESRF)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 style="text-align: left; "&gt;&lt;span&gt;CONDITIONS DE TRAVAIL&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left; "&gt; &lt;/p&gt;
+&lt;p style="text-align: justify; "&gt;Le salaire annuel brut sera situé entre 33 et 40 K€. Des primes éventuelles pourront s’ajouter sur critères d’éligibilité. L’ESRF recrute dans le respect de l'égalité des chances et promeut la diversité dans ses équipes.&lt;/p&gt;
+&lt;p align="center"&gt;&lt;b&gt;Les candidatures seront examinées au fur et à mesure aussi nous encourageons les candidats à postuler au plus tôt.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p align="center" style="text-align: left; "&gt; &lt;/p&gt;
+&lt;p align="center" style="text-align: center; "&gt;&lt;span&gt;&lt;b&gt;Si vous êtes intéressé(e) par ce poste, merci de postuler avant le &lt;/b&gt;&lt;b&gt;12/02/2018.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</content><company>ESRF</company><address>European Synchrotron Radiation Facility
+71, avenue des Martyrs
+CS 40220
+38043 Grenoble Cedex 9
+France.</address><contact>Jérôme Kieffer</contact><location></location><phone>+33476882445</phone><link href="http://www.esrf.fr/" rel="about"></link><link href="http://esrf.profilsearch.com/recrute/fo_annonce_voir.php?id=586" rel="via"></link></entry>

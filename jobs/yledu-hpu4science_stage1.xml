@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Algorithmes sur CPU/GPU pour l'imagerie par résonance paramagnétique électronique</title><link href="https://www.afpy.org/jobs/yledu-hpu4science_stage1" rel="alternate"></link><published>2011-05-26T00:03:29+02:00</published><updated>2013-03-31T22:50:21+02:00</updated><author><name>admin</name><email>yann-ledu@chimie-paristech.fr</email></author><id>https://www.afpy.org/jobs/yledu-hpu4science_stage1</id><summary type="html">Stage niveau L3 à M2 dans l'équipe de calcul scientifique sur CPU/GPU HPU4Science du LCMCP à Chimie ParisTech : développement d'un ensemble d'algorithmes parallélisés pour l'imagerie par résonance paramagnétique électronique.</summary><content type="html">&lt;p&gt;Le projet HPU4Science vise à développer des applications de calcul scientifique sur HPU (Hybrid Processing Units, CPU + GPU) pour la résolution rapide de problèmes rencontŕes dans des recherches menées au laboratoire LCMCP de Chimie-ParisTech.
+&lt;br /&gt;
+&lt;br /&gt;Le premier objectif est de disposer d'un outil d'apprentissage automatique massivement parallélisé permettant de résoudre au mieux un problème inverse rencontré en imagerie par Résonance Paramagnétique Électronique.
+&lt;br /&gt;
+&lt;br /&gt;Cet outil sera ensuite utilisé pour la résolution de problèmes similaires dans d'autres domaines de recherche du laboratoire.
+&lt;br /&gt;
+&lt;br /&gt;Nous avons conçu et monté un cluster de calcul HPU de plus de 30TFLOPS entièrement assemblé en interne, et ce afin de réduire les coûts et de bien connaître le hardware.
+&lt;br /&gt;
+&lt;br /&gt;Nous recherchons un stagiaire qui est prêt à s'investir dans un projet qui implique différentes compétences, principalement le désir d'apprendre et de contribuer à un projet de calcul scientifique pour la recherche. Les maths et les techniques de programmation utilisées sont expliquées en fonction du niveau du candidat.
+&lt;br /&gt;
+&lt;br /&gt;Nous travaillons beaucoup sur tableau blanc et sur Sage/Ipython avant de passer à la programmation en utilisant le modèle du &amp;quot;Literate Programming&amp;quot; de Knuth.
+&lt;br /&gt;
+&lt;br /&gt;Langages : Python, C
+&lt;br /&gt;Literate Programming : noweb
+&lt;br /&gt;Calcul/Visu : Ipython/Scipy, Sage, Octave, Mayavi, Asymptote, Inkscape.
+&lt;br /&gt;OS : Linux (Ubuntu)
+&lt;br /&gt;Éditeur : Vim en priorité
+&lt;br /&gt;Rédaction : LaTeX
+&lt;br /&gt;Versioning : git
+&lt;br /&gt;
+&lt;br /&gt;Deux articles sur le projet sont disponibles sur Ars Technica, un troisième sera bientôt publié :
+&lt;br /&gt;
+&lt;br /&gt;http://arstechnica.com/science/news/2011/03/high-performance-computing-on-gamer-pcs-part-1-hardware.ars
+&lt;br /&gt;
+&lt;br /&gt;http://arstechnica.com/science/news/2011/04/high-performance-computing-on-gamer-pcs-part-2-the-software-choices.ars
+&lt;br /&gt;
+&lt;br /&gt;Pour les périodes du stage, ce serait juin et/ou juillet, avec des possibilités d'extension de septembre à décembre inclu. La rémunération est d'environ 450 euros/mois si le stage dure plus de 1,5 mois.&lt;/p&gt;</content><company>CNRS/Chimie ParisTech/LCMCP</company><address>LCMCP/Chimie ParisTech
+11, rue Pierre et Marie Curie
+75005 Paris</address><contact>Yann Le Du</contact><location></location><phone>0153737938</phone><link href="http://www.enscp.fr/spip.php?article91" rel="about"></link></entry>

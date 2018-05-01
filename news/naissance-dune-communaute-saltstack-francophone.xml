@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Naissance d'une communauté Saltstack francophone</title><link href="https://www.afpy.org/jobs/naissance-dune-communaute-saltstack-francophone" rel="alternate"></link><published>2014-02-13T16:14:49+01:00</published><updated>2014-02-13T16:19:27+01:00</updated><author><name>feth</name></author><id>https://www.afpy.org/jobs/naissance-dune-communaute-saltstack-francophone</id><summary type="html">Saltstack est le logiciel libre de gestion de configuration qui monte.
+Rejoignez sa communauté francophone ! </summary><content type="html">&lt;p&gt;Suite à la rencontre Saltstack organisée par Logilab à l'Irill le 5 février 2014, l'AFPY offre son parapluie à la communauté Saltstack fracophone naissante.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Au travers d'une liste de diffusion libre d'accès : &lt;a class="external-link" href="http://lists.afpy.org/listinfo/salt-fr" target="_self" title="http://lists.afpy.org/listinfo/salt-fr"&gt;http://lists.afpy.org/listinfo/salt-fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Au travers de conférences et d'évènements (à suivre…)&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Saltstack, au départ un système d'exécution de tâches à distance, est aujourd'hui le système de gestion de configuration dont le développement -en Python- est le plus rapide. C'est un logiciel libre, complètement (pas "opencore") qui fonctionne sur la grande majorité des systèmes (Windows, embarqué, Linux…). Il nous laisse entrevoir des possibilités excitantes en matière de supervision et de gestion d'infrastructure dirigée par les tests.&lt;/p&gt;
+&lt;p&gt;Une utilisation poussée de Salt permettra de remplacer openssh-server, LDAP ou encore bind, bref, de mieux dormir.&lt;/p&gt;
+&lt;p&gt;Ensemble, nous espérons échanger, découvrir et construire de bonnes pratiques. Rejoignez-nous !&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Feth Arezki, VP AFPY&lt;/p&gt;</content><location></location></entry>

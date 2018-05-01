@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Django / Python Developpeur / Devops</title><link href="https://www.afpy.org/jobs/django-python-developpeur-devops" rel="alternate"></link><published>2015-10-06T15:21:56+02:00</published><updated>2015-10-06T15:59:30+02:00</updated><author><name>fgrignon</name><email>recrutement@online.net</email></author><id>https://www.afpy.org/jobs/django-python-developpeur-devops</id><summary type="html">Excellent poste a pourvoir au sein d'un grand groupe Francais en tant que Django Developpeur, CDI, avec plein d'avantages.</summary><content type="html">
+Caractéristiques de l'offre
+===========================
+
+* Société : ONLINE SAS
+* Type de contrat : Stage de fin d'étude ou CDI cadre 35 heures
+* Lieu : Paris 8ème
+* 1 poste disponible immédiatement
+* Rémunération : Attractive, suivant expérience
+* Avantages : Mutuelle, prévoyance, participation, tickets restaurants
+* Candidature à recrutement [at] online [dot] net sous la référence en objet : [ Développeur Django (H/F/PONEY) ]
+
+Descriptif
+==========
+
+Dans le cadre de son développement, la société ONLINE SAS, filiale à 100% du groupe Iliad, recrute un développeur Python / Django.
+Vous aurez à charge la gestion et l'évolution de différents systèmes d'informations dédiés au marché B2B (Iliad-Datacenter), ainsi que la possibilité de participer à différents projets sur la partie Dedibox (serveurs dédiés).
+
+Votre profil
+============
+
+Développeur passionné, vous avez ou souhaitez acquérir une culture Ops, en gérant la totalité de la chaine de deploiement.
+Vous aimez interagir avec des équipes variées (administration des ventes, comptabilité, technique, etc.) et être acteur dans vos projets.
+Vous souhaitez améliorer ou apprendre de nouvelles technologiques avec des problématiques de production.
+Vos principales missions
+Vous aurez à charge la gestion et l'évolution de différents systèmes d'informations dédiés au marché B2B (Iliad-Datacenter) ainsi que différents projets sur la partie Dedibox (serveurs dédiés).
+
+Technologies
+============
+
+* Python 2.7 / Django 1.8
+* MySQL
+* Celery (Redis)
+* uWSGI
+* nginx
+* Memcache
+* SNMP
+* RRDTool</content><company>Online</company><address></address><contact>Recrutement</contact><location></location><phone></phone><link href="https://www.online.net" rel="about"></link><link href="https://www.online.net/fr/jobs#django" rel="via"></link></entry>

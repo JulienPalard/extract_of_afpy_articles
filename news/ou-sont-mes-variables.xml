@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Où sont mes variables ?</title><link href="https://www.afpy.org/jobs/ou-sont-mes-variables" rel="alternate"></link><published>2017-12-04T10:08:36+01:00</published><updated>2017-12-04T10:39:15+01:00</updated><author><name>luciend</name></author><id>https://www.afpy.org/jobs/ou-sont-mes-variables</id><summary type="html">Le prochain meetup Python de Lyon aura lieu le 20 décembre 2017 à 19h à Hévéa (2 rue Professeur Zimmermann, Lyon 7)</summary><content type="html">&lt;p&gt;Python a un modèle mémoire atypique. Une gestion mémoire qui ressemble à &lt;span&gt;des pointers mais qui n'en sont pas. Des variables dynamiques mais en &lt;/span&gt;&lt;span&gt;fait non. Des objets constants ou mutables, des labels, des "dict", des &lt;/span&gt;&lt;span&gt;"scope" globaux, locaux, non local, .. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Nous essayerons de faire le point "à l'envers" : partir de comment  &lt;/span&gt;&lt;span&gt;(C)Python gère nos objets pour mieux comprendre les spécificités de &lt;/span&gt;&lt;span&gt;notre langage.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Comme d'habitude, amenez ce que vous voulez partager à boire ou à manger.&lt;/p&gt;
+&lt;p&gt;Et comme d'habitude, comportez vous en accord avec la &lt;a href="http://www.afpy.org/doc/afpy/charte.html"&gt;charte de l'AFPy&lt;/a&gt; !&lt;/p&gt;</content><location>Lyon</location></entry>

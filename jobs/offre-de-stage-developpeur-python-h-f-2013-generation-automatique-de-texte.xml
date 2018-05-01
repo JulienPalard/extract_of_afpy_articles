@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Offre de stage : Développeur Python (H/F) – génération automatique de texte</title><link href="https://www.afpy.org/jobs/offre-de-stage-developpeur-python-h-f-2013-generation-automatique-de-texte" rel="alternate"></link><published>2017-12-05T15:31:00+01:00</published><updated>2017-12-05T15:31:36+01:00</updated><author><name>hamono</name><email>jobs@syllabs.com</email></author><id>https://www.afpy.org/jobs/offre-de-stage-developpeur-python-h-f-2013-generation-automatique-de-texte</id><summary type="html">Syllabs est une start-up innovante en forte croissance dans le domaine de la génération automatique de contenu. Grâce à un gros effort de R&amp;D et à une expertise dans le domaine du traitement de l’information, nous avons développé un ensemble technologique unique au monde comprenant des solutions de collecte (web mining), d’analyse (text mining) et de génération de textes (robots rédacteurs). Nous développons des solutions pour plusieurs acteurs médias (Les Echos, Le Monde, Slate, Radio France...) dans leur stratégie d’innovation et de gestion des contenus de même que des sites leaders de l’e-commerce, de l’immobilier et du tourisme en France.
+
+La rédaction automatique de données textuelles consiste à transformer une base de données en textes pour, par exemple, générer des articles de presse (comptes rendus de rencontres sportives, résultats d’élections...), des descriptifs de produits (appareils photo, chaussures...) ou de lieux (destinations touristiques, hôtels...), etc. Les utilisateurs de notre outil de génération sont nos ingénieurs linguistes qui, via des fichiers de règles et de données structurées, engagent le processus de génération. Leurs besoins évoluent régulièrement, au fur et à mesure des demandes de nos clients.
+
+Syllabs recrute un(e) stagiaire dont le rôle sera de développer de nouvelles fonctionnalités sur notre outil de rédaction. En totale immersion dans l’équipe d’ingénieurs existante, vous participerez à l'évolution de la production de contenus à Syllabs. Possibilité d’embauche à la fin du stage. 
+
+Description du stage
+----------------------------
+Le stage s'inscrit dans la continuité des travaux effectués sur notre technologie de rédaction avec pour objectif l’ajout de nouvelles fonctionnalités afin d'augmenter les capacités du système. En particulier, l’automatisation des tâches les plus redondantes des linguistes sera menée afin d'orienter l'outil vers une autonomie et une flexibilité accrues.
+
+Les tâches entreprises tout au long du stage concernent principalement :
+- Prendre en main l'outil de génération existant et son code (écrit en Python),
+- Mener à bien le développement de nouvelles fonctionnalités,
+- Interagir avec les utilisateurs afin de bien identifier leurs besoins et usages,
+- Mettre en place des tests d'utilisabilité.
+
+Vous intégrerez une équipe travaillant sur le système existant dans un environnement et une méthodologie de travail structurés : intégration continue (Jenkins), pull requests via BitBucket, code review, méthodologie Scrum avec des stand-ups quotidiens.
+
+Profil recherché
+----------------------
+Maîtrise de la programmation Python sous GNU/Linux
+Goût pour la compilation et l'optimisation de code
+Autonomie et capacité à travailler en équipe
+Bon sens relationnel et à l'écoute des utilisateurs
+Anglais technique
+
+Divers
+---------
+Durée : 6 mois
+Stage conventionné, rémunération supérieure à la rémunération minimale + tickets resto + remboursement de la moitié du passe Navigo. 
+Télétravail possible le mercredi.
+Bonne ambiance, coin canapé et équipe technique de grande qualité. 
+Nos locaux sont situés dans le très agréable quartier de Charonne, entre Bastille et Nation, au 35 rue Chanzy (75011), que nous partageons avec d’autres start-ups innovantes.
+Merci d’envoyer votre candidature à l’adresse jobs@syllabs.</summary><content type="html"></content><company>Syllabs</company><address>35-35 rue Chanzy, 75011 Paris</address><contact>jobs@syllabs.com</contact><location></location><phone></phone><link href="http://www.syllabs.com" rel="about"></link></entry>

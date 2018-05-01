@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Stage (5-6 mois) Python/Linux chez Wikimedia/BSF (Lyon)</title><link href="https://www.afpy.org/jobs/stage-5-6-mois-python-linux-chez-wikimedia-bsf-lyon" rel="alternate"></link><published>2016-11-22T11:24:57+01:00</published><updated>2016-11-22T11:24:57+01:00</updated><author><name>mgautierfr</name><email>mgautier@kymeria.fr</email></author><id>https://www.afpy.org/jobs/stage-5-6-mois-python-linux-chez-wikimedia-bsf-lyon</id><summary type="html">Ideascube est une solution logicielle développée par Kiwix et Bibliothèques sans Frontières qui permet de transformer un RaspberryPi en un hotspot WIFI fonctionnant complètement hors-ligne et proposant de nombreuses ressources - une sorte de bibliothèque accessible hors-ligne.
+
+L'objectif est de créer un installeur (Linux/Windows/OSX) permettant a un utilisateur sans connaissances informatiques particulières d'installer et de configurer Ideascube et Kiwix sur la carte SD d'un RaspberryPi (depuis un PC).
+
+Ce logiciel doit permettre de :
+* Télécharger et configurer le système de base pour RaspberryPi;
+* Lire un catalogue de solutions (contenus/logiciels) en ligne;
+* Offrir une interface à l'utilisateur pour faire son choix;
+* Télécharger et installer les solutions sur la carte SD.
+
+Une partie du travail nécessaire à la réalisation d'un tel projet a déjà été effectuée ; ce travail doit s'inscrire dans la continuité et dans la collaboration avec une équipe pré-existante.</summary><content type="html">Profil
+------
+
+Développeur(se) passionné(e) par le logiciel libre, vous utilisez GNU/Linux pour vous et possédez les connaissances de base de l'administration système (idéalement sur système Debian). Vous avez au moins une expérience passée en Python dont nous pouvons discuter.
+
+Détails logistique
+------------------
+
+Le stage (5-6 mois) est rémunéré (~1000€/mois) et se déroulera à Lyon. Il sera encadré par un développeur d'expérience travaillant sur le projet.
+
+À propos de nous
+----------------
+
+Kiwix est un projet logiciel pour fournir l'accès hors-ligne à la connaissance. Il est sponsorisé par le mouvement Wikimédia, à l'origine de l'encyclopédie libre Wikipédia.
+
+Bibliothèque sans Frontières œuvre pour que chaque femme et chaque homme, à travers le monde, puisse vivre dignement et s’épanouir à travers un accès facilité, ouvert et libre aux bibliothèques, à l’information et à l’éducation et ce, dans un souci constant de promotion de la diversité culturelle.
+
+Contact
+-------
+
+Si vous êtes intéressé(e), envoyez un mail de présentation et un CV à Matthieu Gautier (mgautier chez kymeria.fr)</content><company>WikimediaCH/Bibliotheque sans frontière</company><address></address><contact>Matthieu Gautier</contact><location></location><phone></phone></entry>

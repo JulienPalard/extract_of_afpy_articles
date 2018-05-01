@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title> Développeur Web/Python</title><link href="https://www.afpy.org/jobs/developpeur-web-python" rel="alternate"></link><published>2014-03-20T13:46:41+01:00</published><updated>2014-03-20T13:48:41+01:00</updated><author><name>optiflows</name><email>ludovic.havel@optiflows.com</email></author><id>https://www.afpy.org/jobs/developpeur-web-python</id><summary type="html">Nous développons une plateforme IoT (Internet of Things) dont les 1ère applications sont orientées vers la santé. Nous voulons libérer à horizon 18 mois cette plateforme et en faire la référence techno du marché. Si vous êtes séduit par ce défi, rejoignez-nous!</summary><content type="html">&lt;p&gt;&lt;b&gt;Environnement technique&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Optiflows développe une plateforme M2M dédiée aux communications critiques professionnelles dans le domaine hospitalier. Cette plateforme – SURYCAT – traite en temps réel tous les événements (biomédical, appel infirmière, SMS, appels téléphoniques, etc.) afin de pouvoir mobiliser les bonnes ressources (humaines et matérielles) au bon moment.&lt;/p&gt;
+&lt;p&gt;Pour faire de ce produit LA référence sur son marché, nous nous appuyons sur une politique produit claire : la simplicité et le logiciel libre (utilisateur et contributeur)&lt;/p&gt;
+&lt;p&gt;La plateforme est principalement développés en Python autour d’une architecture orientée agents. L’ensemble des agents forme un réseau qui échange sous la forme de messages Jabber/XMPP. L'interface d'administration est assurée par une application Web développée avec Django (+ code JS/CSS/HTML).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Mission&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SURYCAT constitue le cœur d’innovation technologique de notre solution. Et nous cherchons à créer actuellement le cœur de notre équipe de développement autour d’un groupe de développeurs passionnées et talentueux pour relever tous les challenges qui nous attendent.&lt;/p&gt;
+&lt;p&gt;En accord avec la vision et la stratégie de l’entreprise, nous travaillons également dans l’optique d’open sourcer SURYCAT à moyen terme pour démocratiser cette technologie.&lt;/p&gt;
+&lt;p&gt;Vous serez rattaché au Directeur R&amp;amp;D pour un poste de développeur Web/Python centré sur le produit SURYCAT et son écosystème d’outils.&lt;/p&gt;
+&lt;p&gt;Vous serez force de proposition à la fois sur des questions d'architecture, d'ergonomie, et d'interface utilisateur. Vous serez également amené à être autonome sur la définition de spécifications techniques, et contribuerez à la définition de la roadmap.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Profil&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vous êtes passionné de technologies Web et développeur Python confirmé ; titulaire a minima d’un bac+3 en informatique, ou autodidacte pointu.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Idéalement, vous êtes leader ou contributeur actif d’un projet logiciel libre (en Python ou tout autre langage).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Vous maîtrisez Linux et les codes du monde Open Source. Vous portez un regard critique sur votre propre code comme sur celui des autres.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Vos compétences incluent :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design d’interfaces graphiques modernes (flat, responsive…)&lt;/li&gt;
+&lt;li&gt;Frameworks Web modernes (Django ou autre)&lt;/li&gt;
+&lt;li&gt;HTML5, Javascript, CSS &amp;amp; frameworks (Bootstrap, JQuery, React…)&lt;/li&gt;
+&lt;li&gt;Programmation asynchrone (AJAX, WebSockets…)&lt;/li&gt;
+&lt;li&gt;Bases de données SQL et NoSQL&lt;/li&gt;
+&lt;li&gt;Écriture de tests automatisés (unitaires et fonctionnels)&lt;/li&gt;
+&lt;li&gt;Gestion de versions (Git)&lt;/li&gt;
+&lt;li&gt;Déploiement, industrialisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Vous présentez également les qualités suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vous aimez les challenges techniques et faites preuve de créativité pour les relever.&lt;/li&gt;
+&lt;li&gt;Vous êtes autonome et voulez être moteur dans vos fonctions. Vous êtes rigoureux et avez un bon sens de la communication à la fois en interne (avec vos collaborateurs) qu’en externe (interface partenaires technologiques ou clients).&lt;/li&gt;
+&lt;li&gt;Vous maîtrisez l'anglais pour la communication orale (Partenaires technologiques internationaux) et la compréhension et/ou rédaction de documentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Enfin, si vous avez envie d’évoluer dans une jeune startup innovante et en pleine croissance, nous sommes faits pour nous entendre !&lt;/p&gt;</content><company>OPTIFLOWS</company><address>164 ter rue d'Aguesseau
+92100 Boulogne-Billancourt</address><contact>Ludovic Havel</contact><location></location><phone>0182701553</phone><link href="http://www.optiflows.com" rel="about"></link><link href="developpeur-web-python.jpg" rel="image"></link></entry>

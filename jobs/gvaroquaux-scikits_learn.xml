@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingénieur jeune diplômé chargé du développement du Scikit Learn</title><link href="https://www.afpy.org/jobs/gvaroquaux-scikits_learn" rel="alternate"></link><published>2011-05-15T16:26:15+02:00</published><updated>2013-03-31T22:50:21+02:00</updated><author><name>admin</name><email>bertrand.thirion@inria.fr</email></author><id>https://www.afpy.org/jobs/gvaroquaux-scikits_learn</id><summary type="html">Poste d'ingénieur jeune diplomé (diplôme d'ingénieur ou master obtenu il y a moins d'un ans) à l'INRIA pour centraliser le développement de la librarie Scikit-learn d'apprentissage statisitique en Python (license BSD).</summary><content type="html">&lt;p&gt;Le candidat devra assurer la cohérence de développement du scikit learn (SL), une librairie d'apprentissage statistique en Python, disponible sous licence BSD. Le SL offre des outils génériques, utilisables par exemple en classification d'images ou de texte, y compris les techniques de réduction de dimension adaptées. Le SL fait partie des outils adoptés par la communauté qui utilise Python comme langage scientifique (scipy/numpy), dont il utilise les outils et concepts. Les algorithmes au cœur de cette librairie sont en Python ou en C/C++. L'accent a été mis tout au long du projet sur la qualité du code (tests, exemples et documentation), ainsi que sur l'efficacité, mesurée aussi bien en termes d'utilisation mémoire que de temps de calcul. Le SL est devenu un outil de référence, que nous souhaitons développer et étendre sans perdre en qualité ni en cohérence.
+Job offer description
+Le candidat devra veiller à la qualité des contributions au logiciel (qualité du code, cohérence de la base de code, documentation, tests, exemples), évaluer les performances de la base de code par rapport à des implémentations de référence, participer à l'animation de la communauté d'utilisateurs/développeurs (mailing list, coding sprints), et assurer le travail de diffusion/packaging.
+En particulier, La package va intégrer des nouvelles contributions concernant les méthodes en ligne, la sélection efficace de modèle et l'analyse non-supervisée de données.&lt;/p&gt;
+&lt;div class="section" id="experience-et-profile"&gt;
+&lt;h3&gt;&lt;a name="experience-et-profile"&gt;Experience et profile&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Programmation en Python et C/C++&lt;/li&gt;
+&lt;li&gt;Maîtrise de la démarche qualité logicielle (développement orienté par les tests, contrôle de version, documentation technique)&lt;/li&gt;
+&lt;li&gt;Environnement Unix/Linux&lt;/li&gt;
+&lt;li&gt;Compétences dans le domaine du design logiciel : le but est de réaliser l'intégration rigoureuse d'un certain nombre de modules existants&lt;/li&gt;
+&lt;li&gt;Connaissance du monde open source.&lt;/li&gt;
+&lt;li&gt;Bonne maîtrise de l’anglais technique.&lt;/li&gt;
+&lt;li&gt;Expérience en apprentissage statistique, si possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Le poste n'est disponible que pour un candidat ayant obtenu sont diplome de master ou d'ingénieur il y a au plus un an.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><company>INRIA</company><address>INRIA Saclay - Île de France
+Parc Orsay Université
+4, rue Jacques Monod
+91893 Orsay cedex</address><contact>Bertrand Thirion</contact><location></location><phone></phone><link href="http://en.inria.fr/institute/recruitment/offers/young-graduate-engineers/%28view%29/details.html?id=PNGFK026203F3VBQB6G68LOE1&amp;LOV5=4510&amp;ContractType=4545&amp;LG=EN&amp;Resultsperpage=20&amp;nPostingID=5534&amp;nPostingTargetID=10628&amp;option=52&amp;sort=DESC&amp;nDepartmentID=10" rel="via"></link></entry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingénieur de Développement Logiciel OpenStack Cloud Computing (H/F)</title><link href="https://www.afpy.org/jobs/BULL-BULL" rel="alternate"></link><published>2012-10-05T10:09:27+02:00</published><updated>2013-03-31T22:50:13+02:00</updated><author><name>admin</name><email>Bull.Recrutement@bull.net</email></author><id>https://www.afpy.org/jobs/BULL-BULL</id><summary type="html">Bull, Groupe Informatique International en pleine croissance se positionne comme Leader Européen des systèmes numériques critiques.
+Les 9 000 collaborateurs de Bull - dont 5 000 en France - mettent nos valeurs d'engagement et d'entrepreneuriat au service de l'innovation depuis 80 ans. 
+Les femmes &amp; les hommes de Bull, présents dans plus de 50 pays, constituent la première richesse de notre Groupe et portent une attention particulière à chacun de nos clients. 
+Vous avez le talent et l'ambition, nous avons les projets et l'expertise, rejoignez Bull !
+
+Bull Innovative Products développe et fabrique des systèmes destinés aux clients qui, en matière de performance, de robustesse et de fiabilité ont les exigences les plus élevées. Ce segment regroupe les solutions matérielles du Groupe : offres supercalculateurs, qui permettent de développer les produits et solutions capables de relever les enjeux énergétiques, écologiques, de santé ou de sécurité du futur, et grands serveurs d'entreprise qui supportent les nouveaux services dématérialisés, le cloud computing et l'internet des objets. 
+
+
+Bull SAS is seeking a mid-level to senior software engineers with experiences in distributed systems, virtualization, networking, and open-source development to join the Cloud Computing Engineering Team. As a team member, you will be deeply involved in a broad spectrum of cutting-edge technologies including, REST Web Services, OpenStack, and DevOps automation tools to name a few.
+
+As a member of the Cloud Computing Engineering Team, you will you will be involved in the design and implementation of a most advanced high-performance cloud computing platform. You will work closely with the other members of the team who are part of a distributed and agile organization with a strong focus to delivering outstanding results based on quickly evolving requirements.</summary><content type="html">&lt;p&gt;Mission
+&lt;br /&gt;Au sein de la R&amp;amp;D Bull, l'entité &amp;quot;Innovation&amp;quot; a pour mission de fournir des solutions innovantes de gestion de cloud privé ou public s'appuyant sur des projets opensource et sur l'expertise reconnue de Bull dans le domaine du HPC (High Performance Computing).
+&lt;br /&gt;
+&lt;br /&gt;Afin d'accompagner la croissance de l'unité R&amp;amp;D Innovation, nous recherchons des développeurs avec une expérience dans les systèmes distribués, la virtualisation, les réseaux et le développement Open Source pour participer au design et au développement d'une plateforme Cloud Computing haute performance basée sur OpenStack.
+&lt;br /&gt;
+&lt;br /&gt;Votre mission consite à : 
+&lt;br /&gt;- Investiguer et résoudre des problèmes de performance et d'évolutivité des systèmes distribués à large échelle.
+&lt;br /&gt;- Concevoir et implémenter les composants d'une architecture logicielle complexe
+&lt;br /&gt;- Communiquer efficacement avec les membres d'une organisation distribuée et multi-culturelle
+&lt;br /&gt;
+&lt;br /&gt;Vous serez intégré(e) à une équipe collaborative, distribuée et Agile, avec une focalisation forte sur la livraison de fonctionnalités répondant à des demandes évolutives. 
+&lt;br /&gt;
+&lt;br /&gt;Compétences requises : 
+&lt;br /&gt;- Maîtrise des nouvelles technologies telles que REST Web Services, OpenStack, DevOps automation tools ...
+&lt;br /&gt;- Connaissances de Linux et des technologies de virtualisation
+&lt;br /&gt;- Compétences fortes en langage Python avec une capacité à écrire du code évolutif et modulaire
+&lt;br /&gt;- Expérience de développement en Open Source
+&lt;br /&gt;- Expérience des outils de test et d'intégration continue tels que Jenkins
+&lt;br /&gt;- Connaissance des concepts du Cloud Computing 
+&lt;br /&gt;
+&lt;br /&gt;Compétences appréciées :
+&lt;br /&gt;- Expérience utilisateur d'OpenStack ou d'une autre plateforme IaaS
+&lt;br /&gt;- Technologies de protocoles réseaux niveaux 2 et 3
+&lt;br /&gt;- Interconnexion Infiniband
+&lt;br /&gt;- Autres langages tels que Java &amp;amp; Ruby
+&lt;br /&gt;- Contribution dans la communauté OpenStack
+&lt;br /&gt;- Mise au point et analyse de systèmes distribués complexes
+&lt;br /&gt;- Conception et implémentation de RestFul Web Services
+&lt;br /&gt;- Capacité à rédiger de la documentation et des tutoriels
+&lt;br /&gt;- Outils de Configuration Management DevOps tels que Chef ou Puppet
+&lt;br /&gt;- OpenFlow et OpenVSwitch 
+&lt;br /&gt;
+&lt;br /&gt;Profil
+&lt;br /&gt;Bac+5 Ecole d'Ingénieur ou Universitaire avec un minimum de 2 à 3 ans d'expérience en développement
+&lt;br /&gt;
+&lt;br /&gt;- Capacité à influencer et trouver un consensus
+&lt;br /&gt;- Autonomie et esprit d'équipe
+&lt;br /&gt;- Passionné par les nouvelles technologies logicielles 
+&lt;br /&gt;
+&lt;br /&gt;Langues : Anglais courant 
+&lt;br /&gt;
+&lt;br /&gt;Lieu :Grenoble 
+&lt;br /&gt;Type de contrat :CDI 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;Responsibilities :
+&lt;br /&gt;
+&lt;br /&gt;Work in a small team on OpenStack cloud infrastructure software and ecosystem projects
+&lt;br /&gt;Investigate and solve performance and scalability problems in large distributed systems
+&lt;br /&gt;Design and implement complex software architectures
+&lt;br /&gt;Communicate effectively with the members of a distributed and cross-cultural team organization
+&lt;br /&gt;
+&lt;br /&gt;Requirements : 
+&lt;br /&gt;
+&lt;br /&gt;Knowledge of Linux operating system and virtualization technologies
+&lt;br /&gt;Strong coding skills in Python with an emphasis on writing modular and scalable code. 
+&lt;br /&gt;Experience working with open-source software
+&lt;br /&gt;Experience with testing and continuous integration tools like Jenkins
+&lt;br /&gt;Good verbal and written communication skills in English. Good notions of French is a strong plus
+&lt;br /&gt;Knowledge of Cloud Computing concepts. Experience with using OpenStack or other IaaS platforms is a strong plus
+&lt;br /&gt;
+&lt;br /&gt;Desired skills:
+&lt;br /&gt;
+&lt;br /&gt;Experience with layer-2, layer-3 network protocols and technologies.
+&lt;br /&gt;Experience with InfiniBand interconnet
+&lt;br /&gt;Experience with other programming languages like Java and Ruby is a strong plus
+&lt;br /&gt;Experience with troubleshooting and analyzing complex distributed systems
+&lt;br /&gt;Strong ability to influence others and build consensus using good written and verbal communication skills
+&lt;br /&gt;Experience with ResTFul Web Services design and implementation
+&lt;br /&gt;Ability to write tutorials and documentation
+&lt;br /&gt;Experience with configuration management tools like Chef or Puppet
+&lt;br /&gt;Knowledge of OpenFlow and OpenVSwitch
+&lt;br /&gt;
+&lt;br /&gt;Profil : 
+&lt;br /&gt;
+&lt;br /&gt;The role involves being a part of a distributed and cross-cultural and agile team. The ideal candidate should be able to work independently but in tight collaboration with regular communications with other team members and  upstream contributors. He should be passionate about cutting-edge software development and be capable of driving consensus on proposed design and implementation solutions.
+&lt;br /&gt;
+&lt;br /&gt;Education:
+&lt;br /&gt;
+&lt;br /&gt;A Computer Science or related undergraduate and/or master’s degree is required. Any other demonstrated high technology aptitude is desired.&lt;/p&gt;</content><company>BULL</company><address>Bull SAS - DPT RECRUTEMENT AVENUE JEAN JAURES BP 68 - 78340 LES CLAYES SOUS BOIS France</address><contact>PERALDO</contact><location></location><phone></phone><link href="http://www.bull.fr/" rel="about"></link><link href="http://www.bull.fr/emploi/recrutement/emploicv.php?num=3394" rel="via"></link></entry>

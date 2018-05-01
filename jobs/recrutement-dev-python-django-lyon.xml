@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Recrutement Dev Python / Django (Lyon)</title><link href="https://www.afpy.org/jobs/recrutement-dev-python-django-lyon" rel="alternate"></link><published>2018-02-27T10:56:53+01:00</published><updated>2018-02-27T10:57:49+01:00</updated><author><name>nicolasbaccelli</name><email>nicolas.baccelli@abc-culture.fr</email></author><id>https://www.afpy.org/jobs/recrutement-dev-python-django-lyon</id><summary type="html">Nous recrutons une ou un développeur avec au moins une première expérience en python afin de travailler sur nos outils de gestion de vente de produit (python) et sur notre logiciel interne de gestion de commandes (django).</summary><content type="html">&lt;p&gt;Alexandria est un vendeur de produits à l'international, sur des marketplaces comme Amazon, Priceminister, etc ...&lt;/p&gt;
+&lt;p&gt;Nous sommes une équipe de 17 personnes, dont 4 dev.&lt;/p&gt;
+&lt;p&gt;Nous sommes hébergés dans des bureaux à Villeurbanne, qui regroupent tous nos métiers (logistique, SAV, compta, informatique, ...).&lt;/p&gt;
+&lt;p&gt;Il s'agit d'une entreprise en pleine croissance, offrant des perspectives internationales (nous sommes présent sur 3 continents). Notre développement a toujours été axé sur la technique, à laquelle nous attachons une très grande importance. Nous travaillons aussi sur des projets opensource sur &lt;a href="https://github.com/alexandriagroup"&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce que nous attendons avant tout d'un candidat, c'est la passion de la technique : Si vous vous levez le matin en vous demandant ce que vous allez apprendre de nouveau dans la journée, venez nous rencontrer. C'est comme ca que nous voyons les choses. Nous sommes une équipe jeune, ambitieuse mais détendue dans la vie de tous les jours, et nous espérons agréable à vivre.&lt;/p&gt;
+&lt;h2&gt;&lt;a class="anchor" href="https://gist.github.com/chocobn69/50f699c455a53d80ca5df0f35791a56f#profil-technique-recherché-" id="user-content-profil-technique-recherché-"&gt;&lt;/a&gt;Profil technique recherché :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Python&lt;/em&gt; : vous devez savoir utiliser les principales features avancées de python (décorateurs, iterateur, yield, héritage, lib externe) et surtout savoir lire de la doc pour apprendre. Nous utilisons python3.6.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;web&lt;/em&gt; : vous devez avoir des bonnes notions de css et javascript.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;git&lt;/em&gt; : gestion de branche et merge.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;postgresql&lt;/em&gt; : savoir faire un select avec jointures. Savoir comment optimiser une requête.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;tests unitaires et déploiements&lt;/em&gt; : tout code doit être testé avant d'être déployé en prod via jenkins.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a class="anchor" href="https://gist.github.com/chocobn69/50f699c455a53d80ca5df0f35791a56f#est-un-plus-" id="user-content-est-un-plus-"&gt;&lt;/a&gt;Est un plus :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;docker&lt;/li&gt;
+&lt;li&gt;admin db&lt;/li&gt;
+&lt;li&gt;admin sys (nous avons une archi mixte dédié / cloud)&lt;/li&gt;
+&lt;li&gt;machine learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Télétravail partiel possible, mais un bureau, 2 écrans et un pc (sous linux) sont prévus. Vous noterez que nous ne précisons pas de diplôme ou de niveau d'étude minimal. C'est voulu, Nous attachons avant tout de l'importance aux compétences.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Contrat&lt;/em&gt; : CDI avec 3 mois de période d'essai&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rémunération&lt;/em&gt; : 30-45k€&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Contact&lt;/em&gt; : &lt;a href="mailto:nicolas.baccelli@abc-culture.fr"&gt;nicolas.baccelli@abc-culture.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adresse&lt;/em&gt; : Alexandria - 109 rue du 1er mars 1943 - 69100 - Villeurbanne&lt;/p&gt;</content><company>Alexandria</company><address>Alexandria - 109 rue du 1er mars 1943 - 69100 - Villeurbanne</address><contact>Nicolas Baccelli</contact><location></location><phone>0618462342</phone><link href="https://gist.github.com/chocobn69/50f699c455a53d80ca5df0f35791a56f" rel="via"></link></entry>

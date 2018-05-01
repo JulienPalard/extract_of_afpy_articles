@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur Django fullstack</title><link href="https://www.afpy.org/jobs/developpeur-django-fullstack" rel="alternate"></link><published>2015-06-08T02:48:36+02:00</published><updated>2015-06-08T11:16:56+02:00</updated><author><name>khatran</name><email>recrutement@publictrade.fr</email></author><id>https://www.afpy.org/jobs/developpeur-django-fullstack</id><summary type="html">Dans le cadre d'un nouveau projet, nous cherchons un développeur Python et NodeJS  pour vernir compléter une équipe multidisciplinaire et ultra compétente en mode commando.
+Le projet consiste à passer d'un PoC (Proof Of Concept) à une architecture industrielle complète en exploitation, en un temps très court.
+Nous cherchons un second lead developper pour le front-end sous Django. 
+Dans un premier temps, il aura la responsabilité du développement du frontend, puis de l'intégration de la plateforme d'acquisition sous Spark. Actuellement, le PoC est exploité sur AWS EC2, RDS, S3 et AWS Lambda.
+Le poste est à pourvoir au plus vite, idéalement sous la forme d'un CDI, mais devant une compétence évidente, toute forme de contractualisation sera envisageable.
+</summary><content type="html">&lt;p class=" "&gt;Qui sommes nous ? Une équipe de professionnels aguerris, des Ronins, mobilisés autour d'un concept novateur et à grand potentiel, et déterminés à s'emparer d'un marché dont les leaders se seraient assoupis, repus, sur leur tas d'or. Dans le plus grand secret, nous avons réuni fines lames et archers,  définie notre stratégie, arrêté notre plan, et réservées nos munitions. La voie est donc tracée, et tout à présent est question d'exécution. Une exécution que nous voulons impeccable, pure comme un kata bien exécuté.&lt;/p&gt;
+&lt;p class=" "&gt;Mais cette fine équipe n'est pas encore complète. Il nous manque notamment un élément critique à la réussite de notre plan : un Lead Developer Django Fullstack.&lt;/p&gt;
+&lt;p class=" "&gt;Que vous soyez ingénieur Epitech, d'une autre formation informatique,  ou même autodidacte, mais dans tous les cas, passionné par la programmation Web Open source, très compétent, grand travailleur et/ou ayant la curiosité d'un jeune Padawan,&lt;/p&gt;
+&lt;p class=" "&gt;Vous êtes prêt à vous engager dans une grande aventure professionnelle et humaine , de celles que l'on qualifie de Life Changer, et qui vous permettra de vous réaliser et de changer de dimension,&lt;/p&gt;
+&lt;p class=" "&gt;Si l'aventure vous intéresse et que vous pensez être à la hauteur du challenge, envoyez nous votre CV ainsi que quelques mots pour vous présenter et nous parler de votre façon de concevoir du métier de développeur fullstack, par e-mail à l'adresse : recrutement@publictrade.fr&lt;/p&gt;
+&lt;p class=" "&gt;Quelques détails sur les chantiers qui vous attendent :&lt;/p&gt;
+&lt;p class=" "&gt;- backend (provisoire) en Drupal&lt;/p&gt;
+&lt;p class=" "&gt;- casperjs/phantomjs et scrapy pour les crawlers/scraper&lt;/p&gt;
+&lt;p class=" "&gt;- python pour l'algorithmique (collaborative filtering, image processing &amp;amp; recognition, etc.) &lt;/p&gt;
+&lt;p class=" "&gt;-frontend en Django, à développer en 2 versions distinctes : desktop d'un côté et, iOS/Android de l'autre&lt;/p&gt;
+&lt;p class=" "&gt;- gestion des Queues : Beanstalkd&lt;/p&gt;
+&lt;p class=" "&gt;- technologie d'indexation sémantique propriétaire sur architecture Spark &lt;/p&gt;
+&lt;p class=" "&gt;- hébergement : AWS, EC2, RDS (mysql), S3 et AWS Lambda à généraliser&lt;/p&gt;
+&lt;p class=" "&gt;Dois-je préciser que l'actionnariat saura faire de la place à une personne de talent.&lt;/p&gt;</content><company>Publictrade</company><address>264 rue sain-jacques, 75005 Paris</address><contact>recrutement</contact><location>Paris</location><phone></phone><link href="http://www.publictrade.fr" rel="about"></link></entry>

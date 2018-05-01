@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Lead Developer Back-End Python</title><link href="https://www.afpy.org/jobs/lead-developer-back-end-python" rel="alternate"></link><published>2016-11-17T17:54:10+01:00</published><updated>2016-11-17T17:54:11+01:00</updated><author><name>davidnowinsky</name><email>	sophie.despeisse@toucantoco.com</email></author><id>https://www.afpy.org/jobs/lead-developer-back-end-python</id><summary type="html">Marre des projets trop bateaux ? Envie d'un produit SaaS challengeant, avec plein de data ?
+Envie d'être fier de ton travail ?
+Rejoins-nous et participe au développement et à la conception de l'appli de dataviz la plus cool du marché !</summary><content type="html">&lt;h2 class="block-title"&gt;Descriptif du poste&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;TES MISSIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Travailler sur le back-end (API et ETL) d'une application de data en pleine évolution&lt;/li&gt;
+&lt;li&gt;Faire les choix techniques et d'architecture qui permettront à la solution de scaler&lt;/li&gt;
+&lt;li&gt;Participer au développement d'un produit SaaS à forte valeur ajoutée dans le domaine en plein essor de la visualisation de données&lt;/li&gt;
+&lt;li&gt;Day to day : tu développeras le produit, dans une équipe jeune et dynamique, avec des feedbacks clients réguliers. Tu mettras en place l'alimentation en données des applications Toucan&lt;/li&gt;
+&lt;li&gt;Tu utiliseras les meilleures méthodes et outils de développement à l’heure actuelle : kanban, intégration continue, test driven development, pair programming ...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;BÉNÉFICES POUR TOI&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tu feras partie d'une petite équipe de jeunes développeurs, graphistes et designers. Tu bénéficieras d'une grande autonomie et tes prises d'initiatives seront encouragées&lt;/li&gt;
+&lt;li&gt;Tu seras au coeur du développement du produit Toucan Toco, avec des feedbacks clients réguliers, et en travaillant avec des méthodes agiles (kanban, lean, …).&lt;/li&gt;
+&lt;li&gt;Tu auras un impact immédiat sur notre activité et achèveras des projets complets, y compris dans des temps courts. Pas de micro-management.&lt;/li&gt;
+&lt;li&gt;Tu travailleras dans un univers B2B, porteur d’opportunités sans précédent dans le numérique. Mutuelle béton, tickets restaurants, carte Vélib, Spotify Premium,&lt;/li&gt;
+&lt;li&gt;Bureaux aux coeur de Paris, ambiance saine et simple&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOTRE STACK&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Front&lt;/em&gt;&lt;br /&gt;→ AngularJS, D3JS&lt;br /&gt;→ RXJs, lodash&lt;br /&gt;→ Sass, Jade, Webpack&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Back&lt;/em&gt;&lt;br /&gt;→ Python, Flask&lt;br /&gt;→ Pandas&lt;br /&gt;→ MongoDB&lt;/p&gt;
+&lt;div class="main-content job-content text-formated"&gt;
+&lt;div class="block block-job-text block-job-description"&gt;
+&lt;div class="block-content"&gt;
+&lt;p&gt;&lt;em&gt;Infra&lt;/em&gt;&lt;br /&gt;→ Ansible, Docker&lt;br /&gt;→ Nginx&lt;br /&gt;→ Supervisor, Gunicorn&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class="block-title"&gt;Profil recherché&lt;/h2&gt;
+&lt;div class="main-content job-content text-formated"&gt;
+&lt;div class="block block-job-text block-job-description"&gt;
+&lt;div class="block-content"&gt;
+&lt;div class="block-content"&gt;
+&lt;p&gt;&lt;strong&gt;CODE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;→ Tu as 3 ans ou + d'expérience sur des projets back-end complexes ; bonus pour un back-end data&lt;br /&gt;→ Tu parles couramment Python, ; la connaissance de Flask et/ou MongoDB est un grand plus&lt;br /&gt;→ Tu as de l'expérience pratique en tests, frameworks web, logging, CI/CD&lt;br /&gt;→ Tu connais l'exigence du développement logiciel et tu livres du code production ready&lt;br /&gt;→ Tu te tiens au courant des nouveautés technologiques afin d'améliorer tes pratiques&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SOFT SKILLS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;→ Tu es capable et aimes transmettre tes connaissances au reste de l'équipe&lt;br /&gt;→ Tu n'as pas peur de challenger et d'être challengé sur tes choix/implémentations&lt;br /&gt;→ Tu portes un regard amusé et critique sur les buzzwords du moment&lt;br /&gt;→ Tu préfères courir un marathon jusqu'au bout, plutôt que de t'épuiser dans un sprint&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ATTITUDE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;→ Créatif, curieux et autonome, tu as de l'ambition&lt;br /&gt;→ Tu n'attends pas qu'on te donne la solution à tes problèmes, tu la crées !&lt;br /&gt;→ Tu comprends l'intérêt de la documentation&lt;br /&gt;→ Tu aimes réfléchir en équipe aux questions d'architecture d'un produit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L'INDISPENSABLE - VRAIMENT INDISPENSABLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ton profil Github et/ou une réalisation personnelle à nous montrer&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><company>Toucan Toco</company><address>28 rue de Turbigo
+75003 Paris</address><contact>Sophie Despeisse</contact><location></location><phone></phone><link href="http://toucantoco.com/" rel="about"></link><link href="https://toucan-toco.welcomekit.co/jobs/lead-developer-back-end-python_paris" rel="via"></link></entry>

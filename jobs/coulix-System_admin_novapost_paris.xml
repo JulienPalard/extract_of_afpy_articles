@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Administrateur système, Paris</title><link href="https://www.afpy.org/jobs/coulix-System_admin_novapost_paris" rel="alternate"></link><published>2011-12-22T09:26:25+01:00</published><updated>2013-03-31T22:50:19+02:00</updated><author><name>admin</name><email>gregory.tappero@novapost.fr</email></author><id>https://www.afpy.org/jobs/coulix-System_admin_novapost_paris</id><summary type="html">Votre rôle consiste à assurer l'installation, l'administration et le
+maintien en condition opérationnelle des infrastructures système de Novapost.</summary><content type="html">&lt;div class="section" id="comp-tences-requises"&gt;
+&lt;h3&gt;&lt;a name="comp-tences-requises"&gt;Compétences requises :&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;5 ans d'expérience minimum dans un poste similaire.&lt;/li&gt;
+&lt;li&gt;Une expérience réussie sur une plateforme à forte charge et haute
+disponibilité.&lt;/li&gt;
+&lt;li&gt;Excellente maitrise et administration des systèmes Linux (Debian, ...)&lt;/li&gt;
+&lt;li&gt;Maîtrise de l'administration des bases de données PostgreSql&lt;/li&gt;
+&lt;li&gt;Maitrise de la Virtualisation (Xen / VMware)&lt;/li&gt;
+&lt;li&gt;Maîtrise des outils de monitoring et de métrologie tels que RRD, Cacti,
+Nagios, Munin …&lt;/li&gt;
+&lt;li&gt;Connaissance de la sécurité (Firewall, VLAN, ...)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="comp-tences-bonus"&gt;
+&lt;h3&gt;&lt;a name="comp-tences-bonus"&gt;Compétences bonus :&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Écosystème Django/Python (fabric, supervisor, gunicorn)&lt;/li&gt;
+&lt;li&gt;Expérience avec Puppet (automatisation)&lt;/li&gt;
+&lt;li&gt;Administration de Tomcat&lt;/li&gt;
+&lt;li&gt;Administration de PHP5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="activit-s"&gt;
+&lt;h3&gt;&lt;a name="activit-s"&gt;Activités :&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Participer au design et à la réalisation des évolutions de nos
+architectures systèmes et réseaux&lt;/li&gt;
+&lt;li&gt;Supporter nos équipes développements et projets par vos conseils et
+analyses&lt;/li&gt;
+&lt;li&gt;Monitoring des activités systèmes et des fichiers journaux,   
+activité/charge réseaux, détections de problèmes&lt;/li&gt;
+&lt;li&gt;Rédaction de procédures d'exploitations et d'administrations&lt;/li&gt;
+&lt;li&gt;La résolution d'incidents de niveau 2 et 3&lt;/li&gt;
+&lt;li&gt;Participer au choix , à la maintenance et à l'amélioration des outils
+interne et de supervision&lt;/li&gt;
+&lt;li&gt;Force de proposition afin d'augmenter la disponibilité et les performances
+globales de la plateforme&lt;/li&gt;
+&lt;li&gt;Participer au maintien de la sécurité des plateformes de production et
+effectuer les actions nécessaires&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="novapost"&gt;
+&lt;h3&gt;&lt;a name="novapost"&gt;Novapost :&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Novapost développe et opère des solutions de gestion documentaire en mode SaaS. Leader sur le marché du coffre-fort numérique, de la dématérialisation des documents RH, Novapost a lancé en 2011 la première solution collaborative de gestion en ligne des dossiers salariés : PeopleDoc.
+Créée en 2007, Novapost connait une croissance soutenue, compte à ce jour 40 collaborateurs, est située à Paris, compte une cinquantaine de clients grands compte (Total, Veolia, M6, Canal+, Décathlon, etc.), plus de 150 000 utilisateurs en France et de nombreux partenaires éditeurs et intégrateurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="r-mun-ration"&gt;
+&lt;h3&gt;&lt;a name="r-mun-ration"&gt;Rémunération :&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+Selon profil entre 45-60k€ brut.&lt;/blockquote&gt;
+&lt;/div&gt;
+</content><company>Novapost</company><address>32 rue de Paradis 75010 Paris</address><contact>Gregory Tappero</contact><location></location><phone>0645764425</phone><link href="http://www.novapost.fr/" rel="about"></link></entry>

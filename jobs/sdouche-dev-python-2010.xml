@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeurs Python</title><link href="https://www.afpy.org/jobs/sdouche-dev-python-2010" rel="alternate"></link><published>2010-01-04T16:17:26+01:00</published><updated>2013-03-31T22:50:28+02:00</updated><author><name>admin</name><email>sebastien.douche.securactive.net</email></author><id>https://www.afpy.org/jobs/sdouche-dev-python-2010</id><summary type="html">Nous recherchons pour 2010 plusieurs développeurs talentueux en CDI (stage possible) pour nous aider à développer notre nouveau produit.</summary><content type="html">&lt;p&gt;L'ENTREPRISE
+&lt;br /&gt;
+&lt;br /&gt;SecurActive est un éditeur logiciel de solutions d'analyse du comportement réseau permettant de répondre au manque crucial de visibilité des trafics et d'identification des événements et anomalies de sécurité sur les réseaux informatiques.
+&lt;br /&gt;
+&lt;br /&gt;L'objectif de nos solutions est d'aider les administrateurs à comprendre ce qui se passe afin de prendre les meilleures décisions en collectant l'ensemble des flux. A travers une interface graphique simple et intuitive, il est alors bien plus facile de connaître et comprendre le fonctionnement de son réseau.
+&lt;br /&gt;
+&lt;br /&gt;Les informations remontées permettent alors d'augmenter de manière significative la disponibilité et les performances de son réseau.
+&lt;br /&gt; 
+&lt;br /&gt;CONTEXTE TECHNIQUE
+&lt;br /&gt;
+&lt;br /&gt;Nous travaillons actuellement sur notre nouveau produit, décomposé en 3 parties : un sniffer maison qui analyse chaque paquet, un middleware qui gère les données, et une IHM. Le poste est à la R&amp;amp;D pour faire du développement uniquement (pas d'avant vente, réunion client, ...) et sous la direction unique du responsable R&amp;amp;D.
+&lt;br /&gt;
+&lt;br /&gt;L'infrastructure est 100% logiciel libre (Debian, Ubuntu, OpenBSD, KVM, OpenVZ, Mercurial, Reviewboard, Trac, Buildbot ...). De même, nous développons avec du libre (Zope3, Debian, Postgresql, Buildout, Mercurial...).
+&lt;br /&gt;
+&lt;br /&gt;METHODE DE TRAVAIL
+&lt;br /&gt;
+&lt;br /&gt;Nous avons des méthodes de travail fortement inspiré de l'agilité et du Lean. Tant technique (tdd, test unitaire &amp;amp; fonctionnel, refactoring, intégration continue...) qu'organisationnel (management visuel, tableau Kanban, itération, rétrospective, User Story, MMF).
+&lt;br /&gt;
+&lt;br /&gt;Nous travaillons intensivement en mode collaboratif (pair programming et revue de code).
+&lt;br /&gt;
+&lt;br /&gt;Nos outils sont autant high tech (DVCS, revue de code en web) que low tech (tableau blanc, fiche cartonnée).
+&lt;br /&gt;
+&lt;br /&gt;L'objectif de qualité est primordial avec test unitaire, test fonctionnel, revue de code et refactoring fréquent. La qualité n'est *pas* négotiable (cela ne veut pas dire que le code est parfait, loin de la :).
+&lt;br /&gt;
+&lt;br /&gt;Une volonté permanente d'amélioration dans notre travail.
+&lt;br /&gt;
+&lt;br /&gt;LE PROFIL
+&lt;br /&gt;
+&lt;br /&gt;Un développeur passionné et curieux.
+&lt;br /&gt;
+&lt;br /&gt;Un bon niveau technique, avec un bon bagage technique.
+&lt;br /&gt;
+&lt;br /&gt;Capable d'apprendre et de faire apprendre.
+&lt;br /&gt;
+&lt;br /&gt;Ayant fortement envie de travailler en équipe.
+&lt;br /&gt;
+&lt;br /&gt;Une personne courageuse, humble, capable de se remettre en cause et de dialoguer avec les autres.
+&lt;br /&gt;
+&lt;br /&gt;Tout ceci sont des pré-requis. Bonus : bon niveau à Armagetron, Quake like, et autres jeux libres, voir au Go.
+&lt;br /&gt;
+&lt;br /&gt;LOCALISATION
+&lt;br /&gt;
+&lt;br /&gt;Basé sur Paris uniquement, sans déplacement.
+&lt;br /&gt;
+&lt;br /&gt;TECHNO
+&lt;br /&gt;
+&lt;br /&gt;Langages utilisés : Python, C (quelques bouts en bash et OCaml, et ouvert à d'autres langages)
+&lt;br /&gt;
+&lt;br /&gt;Domaine à connaitre / apprendre : Système Unix, Web, base de données, réseau
+&lt;br /&gt;
+&lt;br /&gt;Principaux outils : Zope3, Debian, Postgresql, zc.buildout, Mercurial&lt;/p&gt;</content><company>SecurActive</company><address>5bis, rue Rochechouart
+75009 Paris</address><contact>Sébastien Douche</contact><location></location><phone>0663551595</phone><link href="http://www.securactive.net" rel="about"></link></entry>

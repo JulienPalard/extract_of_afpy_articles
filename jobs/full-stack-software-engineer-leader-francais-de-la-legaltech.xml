@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Full-stack Software Engineer - Leader français de la Legaltech</title><link href="https://www.afpy.org/jobs/full-stack-software-engineer-leader-francais-de-la-legaltech" rel="alternate"></link><published>2017-03-14T17:09:08+01:00</published><updated>2017-03-17T16:16:42+01:00</updated><author><name>lajarre</name><email>jobs-tech@legalstart.fr</email></author><id>https://www.afpy.org/jobs/full-stack-software-engineer-leader-francais-de-la-legaltech</id><summary type="html">Nous recherchons un software engineer ambitieux, apportant de solides compétences techniques full-stack en particulier sur le front-end, une grande rigueur d’exécution et une forte appétence pour la réalisation de produits web innovants.
+</summary><content type="html">Basée à Paris Xème, Legalstart est aujourd’hui présentée comme le uber du droit. Legalstart révolutionne les services juridiques à destination des TPE/PME grâce à une application web de gestion automatisée de documents et procédures juridiques.
+
+Nous connaissons une très forte croissance depuis le lancement début 2014 et recherchons aujourd’hui des développeurs super motivés pour nous aider à consolider notre position de leader dans le secteur du droit en ligne.
+
+________
+
+Vos principales missions porteront sur :
+
+- l'implémentation de nouvelles fonctionnalités (UX de l’application web, génération de documents, robots de crawl, ...)
+- la revue de code
+- la mise en place des best-practices de développement sur la partie front-end
+- la participation aux choix techniques et aux next steps pour l’équipe de développement (problématiques de scaling, architecture back-end et front-end, choix techniques et d’infrastructure…)
+
+Notre stack aujourd’hui:
+
+- front-end: React/Redux, Gulp, Webpack
+- backend: Python/Django Rest Framework, Celery, Node
+- data: PostgreSQL, RabbitMQ, Redis
+- infrastructure: Docker, Heroku, AWS
+- autres: Git, CI/CD (CircleCI),…
+
+Note: il n’est pas attendu des postulants de maîtriser tous les éléments de cette stack!
+
+Plus:
+
+- chaque développeur une plage de temps libre (learning, new projects, ...) sur chaque sprint
+- nous contribuons aux projets open-source que nous utilisons
+- nous participons régulièrement à des conférences (en 2016: ReactEurope, DjangoUnderTheHood à Amsterdam), Meetups et Hackathons sur Paris
+- nous organisons des foots en équipe (3e place au Startupfootballclash!! :)
+
+Idéalement, vous:
+
+- avez une première expérience réussie en programmation et des contributions d'une qualité prouvée (dans des projets d'entreprise ou open-source)
+- avez déjà réalisé des projets utilisant Javascript (front-end ou back-end), du Python, une architecture REST, Single Page Apps
+- tenez à coeur les bonnes pratique de code (tests, versionning...)
+- avez un bon sens de l’organisation et êtes intéressé par les méthodes de développement agiles
+- appréciez le travail en équipe, notamment avec des interlocuteurs non-techniques.
+
+Pour retrouver les derniers articles sur Legalstart, consultez notre revue de presse (Le Figaro, Le Monde, Les Echos, etc) : legalstart.fr/corp/presse</content><company>Legalstart</company><address>50 rue d'Hauteville, 75010 Paris, France</address><contact>Alexandre Hajjar (CTO)</contact><location></location><phone></phone><link href="https://www.legalstart.fr/" rel="about"></link><link href="http://stackoverflow.com/jobs/137047/lead-developer-legaltech-leader-in-france-legalstart" rel="via"></link></entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingénieur DEVOPS</title><link href="https://www.afpy.org/jobs/ingenieur-devops" rel="alternate"></link><published>2018-02-16T17:18:37+01:00</published><updated>2018-02-16T17:45:05+01:00</updated><author><name>agarriguenc</name><email>cls-755387@cvmail.com</email></author><id>https://www.afpy.org/jobs/ingenieur-devops</id><summary type="html">CLS, filiale du CNES, d’ARDIAN et d’IFREMER, est une société internationale, pionnière dans la fourniture de solutions d'observation et de surveillance de la Terre depuis 1986. Sa vision est d'imaginer et de déployer des solutions innovantes pour comprendre et protéger notre Planète, et gérer durablement ses ressources.
+CLS emploie 650 salariés, au siège à Toulouse et sur ses 25 autres sites dans le monde. L’entreprise oeuvre dans 6 secteurs d’activités stratégiques : la gestion durable des pêches, la surveillance environnementale, la sécurité maritime, la gestion de flottes, les énergies &amp;amp; les mines et l’espace &amp;amp; les systèmes sols. L’entreprise fournit notamment des services satellitaires basés sur la localisation et la collecte de données environnementales (80.000 balises traitées chaque mois, bouées dérivantes, animaux, flottes de pêche et de commerce, etc.), l’observation des océans et des eaux continentales (plus de 20 instruments, embarqués à bord de satellites, livrent quotidiennement des informations à CLS sur les mers et les océans du globe), et la surveillance des activités terrestres et maritimes (près de 10 000 images radar sont traitées chaque année par CLS).
+Le Groupe CLS a réalisé un chiffre d’affaires de près de 115 millions en 2016 et prévoit de le porter à plus de 125 millions en 2017. En forte croissance ces dernières années, le groupe s'est fixé des objectifs ambitieux grâce à l'ouverture de nouveaux marchés. 
+
+La Direction des Solutions Techniques définit et réalise les systèmes d’acquisition, de traitement et diffusion des produits et services en réponse aux demandes des clients. Elle en assure le maintien en conditions opérationnelles.
+
+Nous recherche un Ingénieur DEVOPS pour les systèmes dans le domaine de l’imagerie satellitaire et des drones : 
+- VIGISAT (Programmation/Acquisition/Traitement et Analyse d’images satellitaires),
+- SARTool (Librairie pour l’imagerie radar : détection de navires, vents, vagues...),
+- RPAS (Acquisition/traitement/Diffusion en temps réel des informations Drones).
+Le SIG est une composante majeure de ces systèmes.
+
+Vos missions : 
+- Assurer le maintien en conditions opérationnelles des systèmes existants de bout en bout, 
+- Proposer des solutions robustes et innovantes dans le cadre de réponses aux appels d’offre et de propositions commerciales incluant de l’imagerie ou/et des drones, 
+- Apporter un support d’expertise logicielle auprès des équipes de CLS Brest.
+
+Vos activités :
+-- Pilotage et participation au maintien en conditions opérationnelles des systèmes :
+-	Analyse/corrections/tests d'anomalies
+-	Analyse des demandes d’évolution, proposition de solutions, analyses d’impact et évaluation financière
+-	Réalisation de code, tests
+-	Relecture de code, intégration continue, livraison
+-	Intégration et validation des systèmes de bout en bout
+-	Mise en production des systèmes
+-	Encadrement de prestataires en charge des réalisations de code
+-	Rédaction de la documentation des systèmes (interfaces, architecture, manuels d’utilisation),
+-- Proposition de solutions lors de réponses aux appels d’offres et de propositions commerciales,
+-- Support sur les systèmes auprès des équipes opérationnelles (potentiellement en dehors des heures ouvrées),
+-- Support auprès des équipes scientifiques sur la programmation, l’optimisation des algorithmes et leur intégration dans les systèmes,
+-- Interface avec les équipes Systèmes &amp; Réseaux,
+-- Veille technologique.
+
+Ce poste sera basé à Brest ou à Toulouse.</summary><content type="html">&lt;p&gt;&lt;span style="text-align: left; float: none; text-decoration-style: initial; text-decoration-color: initial; "&gt;De formation ingénieur Grandes Ecoles ou équivalent, vous avez environ 5 ans d’expérience.&lt;br /&gt;Doté d'un large spectre de compétences techniques, vous pouvez réparer rapidement en autonomie (Ingénierie logicielle – Infrastructures Systèmes et Réseaux – Bases de données).&lt;br /&gt;Vous maîtrisez plusieurs langages de programmation : Python, JavaScript, C, Java, Bash et système d'exploitation Linux/BSD : Debian, CentOS&lt;br /&gt;D'autre part, vous avez déjà travaillé sur des base de données de type PostgreSQL, MongoDB, Redis, SQLite, SQLAlchemy (ORM Python) et vous avez utilisé les outils/bibliothèques de SIG : Postgis, QGis, GDAL/OGR, ArcGIS&lt;br /&gt;En architecture logicielle : Micro-services, Web component, Docker, Docker-compose sont indispensables.&lt;br /&gt;Vous savez traiter les formats fichiers : NetCDF3/4, HDF5, Grib2, GeoTIFF, GeoJSON, Shapefile, SpatiaLite et la gestion de configuration sous GIT, GitLab, GitHub, Ansible est attendue.&lt;br /&gt;&lt;br /&gt;Autres compétences souhaitées :&lt;br /&gt;Intégration de systèmes complexes&lt;br /&gt;Réalisation de systèmes opérationnels 24/7&lt;br /&gt;Développement en méthode Agile Scrum&lt;br /&gt;Concepts d’intégration continue, DEVOPS&lt;br /&gt;&lt;br /&gt;Anglais lu, parlé, écrit indispensable (rédaction de documents, réunions et formations en langue anglaise).&lt;br /&gt;&lt;br /&gt;Une connaissance des domaines suivants serait un plus : Spatial, Imagerie radar, Imagerie optique, AIS, Vidéo temps réel, Big Data (Spark, PIG, Parquet, Avro, HDFS, Warp10/WarpScript)&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content><company>COLLECTE LOCALISATION SATELLITES</company><address>COLLECTE LOCALISATION SATELLITES
+Parc Technologique du Canal
+11 rue hermès
+31520 RAMONVILLE SAINT AGNE</address><contact>Angélique GARRIGUENC</contact><location></location><phone>0561394716</phone><link href="https://www.cls.fr/jobs-carrieres/" rel="about"></link></entry>

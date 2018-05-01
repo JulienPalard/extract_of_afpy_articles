@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>ingénieur développeur</title><link href="https://www.afpy.org/jobs/syllabs-SYLLABS" rel="alternate"></link><published>2013-01-27T21:23:15+01:00</published><updated>2013-03-31T22:50:09+02:00</updated><author><name>admin</name><email>jobs@syllabs.com</email></author><id>https://www.afpy.org/jobs/syllabs-SYLLABS</id><summary type="html">Syllabs est une start-up innovante spécialisée dans les contenus web grâce à son expertise et technologie en récupération d’information, analyse sémantique et en création automatique de textes. Syllabs a mis en place une plateforme distribuée et scalable pour supporter tous ses traitements, aussi bien d’analyse que de collecte.  Pour travailler sur notre plateforme ainsi qu’assister son déploiement et sa maintenance, nous recherchons un/e ingénieur développeur. Une collaboration forte sera aussi attendue sur la partie liée à la collecte de données. Ainsi, des notions de programmation parallèle seront exigées mais aussi des compétences en matière de modélisation et de stockage des données.</summary><content type="html">&lt;p&gt;----- Ingénieur Développeur (H/F)  -----
+&lt;br /&gt;
+&lt;br /&gt;-- Contexte --
+&lt;br /&gt;Syllabs est une start-up innovante spécialisée dans les contenus web grâce à son expertise et technologie en récupération d’information, analyse sémantique et en création automatique de textes. Nos technologies sont le fruit d'années de développement et maîtrisent toutes les étapes du processus d'analyse de données textuelles du Web : identification des pages pertinentes (crawling, scraping), extraction et catégorisation des informations clés, publication automatisée.
+&lt;br /&gt;
+&lt;br /&gt;Syllabs a mis en place une plateforme distribuée et scalable pour supporter tous ses traitements, aussi bien d’analyse que de collecte. Cette plateforme à pour objectif de fournir un environnement simple à mettre en œuvre pour les différents modules qui sont développés par nos équipes. Cela passe entre autre par la mise en place d’abstractions pour les communications interprocessus (Redis, MongoDB) et pour le stockage de données (MongoDB, ElasticSearch, SQL). La plateforme doit aussi fournir des squelettes de programmation pour simplifier le développement de modules capables de traiter des To de données.
+&lt;br /&gt;
+&lt;br /&gt;Nous recherchons un/e ingénieur développeur pour travailler sur notre plateforme ainsi qu’assister son déploiement et sa maintenance. Une collaboration forte sera aussi attendue sur la partie liée à la collecte de données. Ainsi, des notions de programmation parallèle seront exigées mais aussi des compétences en matière de modélisation et de stockage des données.
+&lt;br /&gt;
+&lt;br /&gt;-- Vos missions --
+&lt;br /&gt;- Participer aux développements de la plateforme
+&lt;br /&gt;- Assurer le déploiement et la maintenance de la plateforme
+&lt;br /&gt;- Contribuer aux modules de collecte ou d’analyse de données
+&lt;br /&gt;
+&lt;br /&gt;-- Compétences requises --
+&lt;br /&gt;
+&lt;br /&gt;- Python
+&lt;br /&gt;- Linux
+&lt;br /&gt;- Architecture et modélisation
+&lt;br /&gt;- Connaissances des systèmes distribués
+&lt;br /&gt;- Base de données NoSQL (MongoDB, Redis, ElasticSearch, ...)
+&lt;br /&gt;- Admin sys
+&lt;br /&gt;- Intégration continue
+&lt;br /&gt;- API REST serait un plus
+&lt;br /&gt;- Framework Web MVC (expérience Django) serait aussi un plus
+&lt;br /&gt;
+&lt;br /&gt;- Autonomie et capacité à travailler en équipe
+&lt;br /&gt;- Personne rigoureuse, dynamique et communicative
+&lt;br /&gt;- Expérience en start-up appréciée
+&lt;br /&gt;
+&lt;br /&gt;----------
+&lt;br /&gt;
+&lt;br /&gt;Contrat : CDI
+&lt;br /&gt;Lieu de travail : Paris 11ème (Voltaire – Bastille)
+&lt;br /&gt;
+&lt;br /&gt;Merci d'envoyer votre candidature à l'adresse jobs@syllabs.com en indiquant dans l'objet du mail « Ingénieur Développeur ».&lt;/p&gt;</content><company>syllabs</company><address>53bis, rue Sedaine
+75011 Paris</address><contact>Helena Blancafort</contact><location></location><phone>01-55-28-67-34</phone><link href="http://www.syllabs.fr" rel="about"></link><link href="http://blog.syllabs.com/offre-demploi-ingenieur-developpeur-hf/" rel="via"></link><link href="syllabs-SYLLABS.jpg" rel="image"></link></entry>

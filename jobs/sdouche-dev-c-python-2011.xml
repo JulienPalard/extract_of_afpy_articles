@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur C / Python</title><link href="https://www.afpy.org/jobs/sdouche-dev-c-python-2011" rel="alternate"></link><published>2011-09-22T11:17:53+02:00</published><updated>2013-03-31T22:50:19+02:00</updated><author><name>admin</name><email>sebastien.douche@securactive.net</email></author><id>https://www.afpy.org/jobs/sdouche-dev-c-python-2011</id><summary type="html">Nous recherchons en CDI deux développeurs talentueux et amoureux de Logiciel Libre pour nous aider à développer notre gamme de produit. Le poste est à la R&amp;D pour faire du développement et sous la direction du responsable R&amp;D.</summary><content type="html">&lt;p&gt;L'ENTREPRISE
+&lt;br /&gt;
+&lt;br /&gt;SecurActive est un éditeur logiciel de solutions d'analyse du comportement réseau. En collectant et en analysant l'ensemble des flux, nous aidons les administrateurs à mieux comprendre leur environnement réseau.
+&lt;br /&gt;
+&lt;br /&gt;CONTEXTE TECHNIQUE
+&lt;br /&gt;
+&lt;br /&gt;Nos produits actuels sont décomposés en 3 parties :
+&lt;br /&gt;
+&lt;br /&gt;- un sniffer maison qui analyse chaque paquet.
+&lt;br /&gt;- un middleware qui gère les données.
+&lt;br /&gt;- une IHM Web.
+&lt;br /&gt;
+&lt;br /&gt;SLOC actuel : ~100K
+&lt;br /&gt;SLOC (depuis le début du produit) : ~350K
+&lt;br /&gt;
+&lt;br /&gt;Une version distribuée (N sniffers pour 1 base de données) est en cours de développement.
+&lt;br /&gt;
+&lt;br /&gt;CULTURE
+&lt;br /&gt;
+&lt;br /&gt;Nous développons et maintenons nos produits sur des années, un certain niveau de qualité est donc nécessaire pour détecter et corriger au plus tôt nos erreurs :
+&lt;br /&gt;
+&lt;br /&gt;- une couverture intéressante en test unitaire &amp;amp; fonctionnel.
+&lt;br /&gt;- un refactoring régulier.
+&lt;br /&gt;- une revue par les pairs avant de pousser sur la branche principale.
+&lt;br /&gt;- une intégration continue
+&lt;br /&gt;- un déploiement continue sur une prod simulée.
+&lt;br /&gt;
+&lt;br /&gt;Nous utilisons un Kanban pour organiser notre travail, en favorisant la prise d'initiative et l'engagement personnel, loin de la culture &amp;quot;Command &amp;amp; Control&amp;quot;. Nous tentons de garder une volonté certaine d'amélioration permanente dans notre travail.
+&lt;br /&gt;
+&lt;br /&gt;LE PROFIL
+&lt;br /&gt;
+&lt;br /&gt;Un développeur passionné et curieux, possédant un très bon bagage technique et capable d'apprendre et de faire apprendre, aimant travailler en équipe. Une personne courageuse, humble, capable de se remettre en cause et de dialoguer avec les autres. Tout ceci sont des pré-requis. Et dans l'idéal, avec une forte expérience dans l'un de ces domaines :
+&lt;br /&gt;
+&lt;br /&gt;- TCP/IP, analyse protocolaire, firewall
+&lt;br /&gt;- datamining, manipulation de grosse base de données (&amp;gt; 100 Go)
+&lt;br /&gt;- virtualisation
+&lt;br /&gt;
+&lt;br /&gt;La connaissance de ce type de produit est un énorme plus.
+&lt;br /&gt;
+&lt;br /&gt;Aucun diplôme demandé, vous serez uniquement jugé sur vos capacités.
+&lt;br /&gt;
+&lt;br /&gt;TECHNO
+&lt;br /&gt;
+&lt;br /&gt;- Langage : Python, C, Guile, HTML, CSS, Javascript, Bash.
+&lt;br /&gt;- Infrastructure : Debian, OpenBSD, Buildbot, LXC.
+&lt;br /&gt;- Pour développer : Git, Buildout, Reviewboard.
+&lt;br /&gt;- Plateforme logicielle : Linux, Zope3, Debian, Postgresql.
+&lt;br /&gt;
+&lt;br /&gt;Hormis 2 librairies Flash propriétaires, l'infrastructure de la société et les briques logicielles sont basées uniquement sur du Logiciel Libre. Cette liste n'est pas figée, nous étudions avec intérêt toute technologie utile à nos besoins : BD nosql, Erlang, Lua, Pyramid, etc.
+&lt;br /&gt;
+&lt;br /&gt;LOGICIEL LIBRE
+&lt;br /&gt;
+&lt;br /&gt;Depuis début 2011, nous libérons du code, disponible sur GitHub (https://github.com/securactive). Nous souhaitons libérer tout notre code non métier.
+&lt;br /&gt;
+&lt;br /&gt;POSTE DE TRAVAIL
+&lt;br /&gt;
+&lt;br /&gt;Un clavier sans fil, une souris si vous pensez que c'est utile, deux écrans et un poste sous Linux (distribution de votre choix).
+&lt;br /&gt;
+&lt;br /&gt;LOCALISATION
+&lt;br /&gt;
+&lt;br /&gt;Basé sur Paris uniquement, sans déplacement. Une partie en télétravail est possible par la suite.&lt;/p&gt;</content><company>SecurActive</company><address>62 rue de la Chaussée d'Antin
+75009 Paris</address><contact>Sébastien Douche</contact><location></location><phone>0663551595</phone><link href="http://www.securactive.net" rel="about"></link></entry>

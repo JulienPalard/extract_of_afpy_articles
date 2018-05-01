@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Recrutement d'un développeur Python / Django - Mars 2011</title><link href="https://www.afpy.org/jobs/pilotsystems-afpyjob.2011-03-17.3735627019" rel="alternate"></link><published>2011-03-17T16:22:53+01:00</published><updated>2013-03-31T22:50:23+02:00</updated><author><name>admin</name><email>recrutement@pilotsystems.net</email></author><id>https://www.afpy.org/jobs/pilotsystems-afpyjob.2011-03-17.3735627019</id><summary type="html">Pilot Systems recherche un développeur Python / Django pour renforcer son équipe de développement. 
+</summary><content type="html">&lt;p&gt;&lt;strong&gt;Vous voulez évoluer dans le domaine des Logiciels Libres, vous êtes motivé par le travail dans une équipe dynamique et
+expérimentée, vous êtes rigoureux et efficace&amp;nbsp;: rejoignez l'équipe de
+développeurs de Pilot Systems.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous participerez au développement, à la maintenance et aux évolutions de nombreux projets Django, allant de petites applications rapidement développées à des plateformes plus ambitieuses.&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Au delà d'une compétence strictement Django et technologies associées (Python, SQL,&amp;nbsp; HTML, CSS), nous cherchons des développeurs curieux et au fait des évolutions du web : &lt;/strong&gt;&lt;strong&gt;API, Oauth, OpenId, REST, JSON feront partie du quotidien de vos interventions sur les projets.&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Une pré-disposition à l'administration système serait un gros plus. &lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;
+&lt;h2&gt;Compétences&lt;/h2&gt;
+&lt;p&gt; Vous maîtrisez&amp;nbsp;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;le framework Django ;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;la programmation orientée objet&amp;nbsp;;&lt;/li&gt;&lt;li&gt;le langage Python ;&lt;/li&gt;&lt;li&gt;les bases de données SQL.&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; Autres connaissances appréciées&amp;nbsp;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;d'autres frameworks Web en Python, en particulier Zope/Plone ;&lt;/li&gt;&lt;li&gt;une première expérience d'administration des système Unix (Debian GNU/Linux) ;&lt;/li&gt;&lt;li&gt;le JavaScript, les CSS et les technologies Web en général ;&lt;/li&gt;&lt;li&gt;les APIs, les protocoles et mécanismes d'authentification (Oauth, OpenID, Google Connect, Facebook Connect, Twitter Connect, etc.) ;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;les SGBDR, particulièrement MySQL ou PostgreSQL ;&lt;/li&gt;&lt;li&gt;les architectures NoSQL (CounchDB, MongoDB, Cassandra, etc.). &lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; La compréhension de l'anglais est importante, mais les clients / projets sont principalement francophones.&lt;/p&gt;
+&lt;h2&gt;Missions&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;participer au développement de projets, dans une organisation souple qui vous permettra d'évoluer rapidement&amp;nbsp;;&lt;/li&gt;&lt;li&gt;participer à la mission collective d'administration du parc de serveurs sous Debian GNU/Linux.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Détails pratiques&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt; Contrat&amp;nbsp;: CDI temps complet&amp;nbsp;;&lt;/li&gt;&lt;li&gt;Lieu de travail : Paris ;&lt;br /&gt;&lt;/li&gt;&lt;li&gt; Rémunération&amp;nbsp;: selon expérience.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt; Ecrivez à &lt;a href="mailto:recrutement@pilotsystems.net"&gt;recrutement@pilotsystems.net&lt;/a&gt; en joignant un CV au format PDF ou texte et une lettre de motivation, qui explique votre intérêt pour le poste.&lt;/p&gt;
+&lt;h2&gt;A propos de Pilot Systems&lt;/h2&gt;
+&lt;h3&gt; Notre métier&lt;/h3&gt;
+&lt;p&gt;  Disposant de compétences dans la plupart des technologies de l'Open Source, logiciels et infrastructures, Pilot Systems&amp;nbsp;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;déploie des progiciels et des modules packagés&amp;nbsp;;&lt;/li&gt;&lt;li&gt;personnalise des applications&amp;nbsp;;&lt;/li&gt;&lt;li&gt;réalise des développements spécifiques ;&lt;/li&gt;&lt;li&gt;effectue de la maintenance applicative ;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;dispense des formations ;&lt;/li&gt;&lt;li&gt;héberge des services dans son parc virtualisé « POPD - &lt;em&gt;Power On Demand Platform&lt;/em&gt; ».&lt;br /&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; Pilot Systems s'est historiquement spécialisée sur le langage
+Python, le serveur d'application Zope et le générateur d'applications
+Plone. Par la suite Pilot Systems s'est diversifié vers d'autres frameworks Web en Python, comme Django.&lt;/p&gt;
+&lt;p&gt;  Quelques références&amp;nbsp;: CMP-Banque, AFDAS, Libération.&lt;/p&gt;
+&lt;h3&gt; Acteur reconnu des communautés Open Source&lt;/h3&gt;
+&lt;p&gt;  Pilot Systems&amp;nbsp;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;diffuse sous licence libre la plupart de ses développements&amp;nbsp;;&lt;/li&gt;&lt;li&gt;propose depuis 2003 un hébergement gratuit de sites Zope et Plone&amp;nbsp;:
+près de 20.000 sites ont été créés à ce jour sur objectis.org&amp;nbsp;;&lt;/li&gt;&lt;li&gt;est un membre fondateur de PLOSS (Paris Libre Open Source).&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;  Pilot Systems est partenaire de l'expertise Open Source d'IBM Global Technology Services.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><company>Pilot Systems</company><address></address><contact>Gael Le-Mignot</contact><location></location><phone>01 44 53 05 55 </phone><link href="http://www.pilotsystems.net/" rel="about"></link><link href="http://www.pilotsystems.net/recrutement/recrutement-developpeur-python-django-mars2011" rel="via"></link></entry>

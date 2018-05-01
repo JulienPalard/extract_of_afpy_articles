@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur interface et moteur graphique</title><link href="https://www.afpy.org/jobs/haypo-wyplay_python" rel="alternate"></link><published>2011-09-12T15:46:37+02:00</published><updated>2013-03-31T22:50:20+02:00</updated><author><name>admin</name><email>drh@wyplay.com</email></author><id>https://www.afpy.org/jobs/haypo-wyplay_python</id><summary type="html">Entreprise créée en Mars 2006 et constituée de plus de 80 ingénieurs, la société Wyplay (www.wyplay.com) est aujourd’hui  internationalement reconnue.
+Elle fournit des solutions logicielles de dernière génération pour les Télévisions connectées, Mediacenters de salon, les box opérateur IPTV et les disques durs multimédia.
+Au cœur de l'offre Wyplay se trouve WMS (Wyplay Modular Solution), un logiciel robuste, performant et modulaire qui permet de créer la gamme la plus complète de fonctionnalités disponibles sur le marché. 
+Wyplay permet à ses partenaires clé d'élaborer et de personnaliser leurs propres solutions uniques grâce au kit de développement d'applications WMS (ADK).
+
+Afin d’accompagner son développement, la société WYPLAY recherche des développeurs en Python.</summary><content type="html">&lt;div class="section" id="responsabilit-s"&gt;
+&lt;h3&gt;&lt;a name="responsabilit-s"&gt;Responsabilités&amp;nbsp;:&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Au sein du service Développement, vous êtes chargé(e) de développer les interfaces utilisateurs des décodeurs «&amp;nbsp;nouvelle génération&amp;nbsp;» des plus grands opérateurs mondiaux. Vos principales missions consistent à :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Analyser les besoins clients et les spécifications (concepts, menus et sous-menus d'un produit à partir de spécifications fonctionnelles et graphiques)&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;Réaliser le comportement nécessaire (contrôleur + accès au modèle)&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;Tester le résultat directement sur le produit final&amp;nbsp;;&lt;/li&gt;
+&lt;li&gt;Détecter les fuites mémoire et les problèmes de performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="profil"&gt;
+&lt;h3&gt;&lt;a name="profil"&gt;Profil&amp;nbsp;:&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Développeur Bac+3/4/5 en informatique, ayant une pratique régulière sous linux, Java, C++, QT ou Python.&lt;/p&gt;
+&lt;p&gt;Vous vous intéressez au graphisme et/ou aux frameworks de programmation asynchrones (twisted, asyncore, stackless, etc.).&lt;/p&gt;
+&lt;p&gt;Vous avez une bonne connaissance de la stdlib ainsi que de certaines librairies externes. Les différents patterns employés couramment n'ont pas de secret pour vous.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="comp-tences-requises"&gt;
+&lt;h3&gt;&lt;a name="comp-tences-requises"&gt;Compétences requises&amp;nbsp;:&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Maîtrise des langages Java, C++, QT ou Python (ou du Javascript, Io, Lua, etc.)&lt;/li&gt;
+&lt;li&gt;Une expérience professionnelle en Python serait un atout&lt;/li&gt;
+&lt;li&gt;Compréhension du MVC, des signaux et des ORM&lt;/li&gt;
+&lt;li&gt;Connaissances basiques liées au traitement d'image et à l'optimisation de code dynamique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+</content><company>Wyplay</company><address>WYPLAY
+200 Avenue de Provence
+13190 ALLAUCH
+FRANCE</address><contact>Élodie PASTUREL</contact><location></location><phone>06 24 59 11 27</phone><link href="http://www.wyplay.com/" rel="about"></link><link href="http://www.wyplay.com/?page=working" rel="via"></link></entry>

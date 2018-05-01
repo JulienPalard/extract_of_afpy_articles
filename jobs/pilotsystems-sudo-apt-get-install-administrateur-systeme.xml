@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>sudo apt-get install administrateur système</title><link href="https://www.afpy.org/jobs/pilotsystems-sudo-apt-get-install-administrateur-systeme" rel="alternate"></link><published>2012-11-08T13:46:25+01:00</published><updated>2013-03-31T22:50:11+02:00</updated><author><name>admin</name><email>recrutement@pilotsystems.net</email></author><id>https://www.afpy.org/jobs/pilotsystems-sudo-apt-get-install-administrateur-systeme</id><summary type="html">Pilot Systems, société spécialisée en Logiciels libres, recherche un Administrateur Système, Responsable de l’Administration de notre parc infogéré reposant sur Debian et Xen.
+
+Vous êtes passionné par le Logiciel Libre et l'administration système ?
+
+Vous souhaitez intégrer une petite équipe dynamique et rigoureuse ?
+
+Vous serez Responsable de l’Administration d’un parc de plusieurs centaines de machines virtuelles. </summary><content type="html">&lt;h3&gt;Missions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Responsable du parc infogéré (création de machines virtuelles, archivage, correction des anomalies, mises à jour de sécurité, etc.) ;
+    - Participer à la réflexion sur les architectures à déployer pour répondre aux besoins des clients ;
+    - Participer au développement d'outils d'aide à l'administration (plugins Nagios, plugins pour Puppet, scripts d'automatisation, etc.) ;&lt;/li&gt;
+&lt;li&gt;Organiser les évolutions stratégiques du parc (passage en PI, multi-sites, etc.) ;&lt;/li&gt;
+&lt;li&gt;Déployer les solutions de haute-disponibilité ;&lt;/li&gt;
+&lt;li&gt;Assurer la veille technologique et les tests d'outils de supervision et d’administration ;&lt;/li&gt;
+&lt;li&gt;Responsable de la mise à jour de la documentation.&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;h3&gt;Profil - Caractéristiques&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Disponibilité demandée hors heures ouvrées en cas d’incident grave sur l’infrastructure (au minimum depuis un smart phone/netbook) ;&lt;/li&gt;
+&lt;li&gt;Participation occasionnelle à des astreintes ;&lt;/li&gt;
+&lt;li&gt;Polyvalence ;&lt;/li&gt;
+&lt;li&gt;Bonne communication orale et écrite (contacts avec les clients).&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;h3&gt;Technologies utilisées&lt;/h3&gt;
+&lt;h4&gt; Nécessaire :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;système Debian GNU/Linux ;&lt;/li&gt;
+&lt;li&gt;solution de virtualisation Xen ;&lt;/li&gt;
+&lt;li&gt;configuration réseau Linux :  &lt;/li&gt;
+&lt;li&gt;TCP/IP, Netfilter, bridge, OpenVPN ;&lt;/li&gt;
+&lt;li&gt;configuration réseau infrastructure : Ethernet, switchs, Vlans, routeurs, BGP  ;&lt;/li&gt;
+&lt;li&gt;langages Python et Bash pour les principaux scripts ;&lt;/li&gt;
+&lt;li&gt;serveurs Web et proxy : Apache, Squid, Haproxy, Pound, Varnish ;&lt;/li&gt;
+&lt;li&gt;bases de données : Postgresql, Mysql.&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;h4&gt; Souhaité :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;outils d’administration : Puppet ;&lt;/li&gt;
+&lt;li&gt;technologies de type OpenStack ;&lt;/li&gt;
+&lt;li&gt;frameworks Web en Python : Zope, Django ;&lt;/li&gt;
+&lt;li&gt;gestionnaire de versions : Subversion (svn) et Mercurial (hg);&lt;/li&gt;
+&lt;li&gt;serveurs de messagerie : Postfix, Cyrus, Roundcube avec annuaire Openldap;&lt;/li&gt;
+&lt;li&gt;solutions de monitoring et de métrologie : Monit, Nagios, Cacti ;&lt;/li&gt;
+&lt;li&gt;haute-disponibilité : Linux raid et LVM, DRBD, UCARP, Heartbeat.&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;h3&gt;Informations pratiques sur le poste&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contrat de type CDI 39 heures ;&lt;/li&gt;
+&lt;li&gt;Rémunération selon profil ;&lt;/li&gt;
+&lt;li&gt;Bureaux à Paris (20ème).&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;h3&gt;A propos de Pilot Systems&lt;/h3&gt;
+&lt;p&gt; Disposant de compétences dans la plupart des technologies de l'Open Source, logiciels et infrastructures, Pilot Systems :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Développe et déploie des applications web pour ses clients ; &lt;/li&gt;
+&lt;li&gt;Héberge et infogère des systèmes critiques ;&lt;/li&gt;
+&lt;li&gt;Edite des solutions comme Cockpit (emailing) et Rook (Twitter Analytics).&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;p&gt; Pilot Systems est partenaire d’écoles d’ingénieurs, sensibilise les étudiants à l’Open Source et dispense des cours (Zope, C++, Cloud Computing, etc.). Pour en savoir plus : http://cours.pilotsystems.net.&lt;/p&gt;
+&lt;p&gt; Suivez les publications de nos développeurs sur leur blog : http://blog.pilotsystems.net&lt;/p&gt;
+&lt;p&gt; Quelques références : Libération, AFDAS, CMP-Banque, ÉNA, etc.&lt;/p&gt;
+</content><company>Pilot Systems</company><address>Pilot Systems
+82, rue de pixérécourt
+75020 Paris</address><contact>Gaël le Mignot</contact><location></location><phone></phone><link href="http://www.pilotsystems.net" rel="about"></link><link href="http://www.pilotsystems.net/recrutement/sudo-apt-get-install-administrateur-systeme" rel="via"></link><link href="pilotsystems-sudo-apt-get-install-administrateur-systeme.jpg" rel="image"></link></entry>

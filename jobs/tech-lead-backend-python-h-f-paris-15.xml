@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Tech Lead Backend Python (H/F) - Paris 15</title><link href="https://www.afpy.org/jobs/tech-lead-backend-python-h-f-paris-15" rel="alternate"></link><published>2018-03-20T16:33:29+01:00</published><updated>2018-03-20T16:35:03+01:00</updated><author><name>yallusse</name><email>yallusse@ltutech.com</email></author><id>https://www.afpy.org/jobs/tech-lead-backend-python-h-f-paris-15</id><summary type="html">Vos responsabilités: En charge du développement de notre plateforme, vous identifiez les stacks techniques les plus adaptées aux évolutions des produits LTUTech. Vous développez des Proofs Of Concept (POCs) sur notre plateforme, avec l'aide du responsable Relation Développeurs afin de valider une évolution ou un cas d'utilisation spécifique.
+
+Vous maintenez et faites évoluer la plateforme LTUTech existante.
+
+Enfin, et surtout, vous êtes responsable de la bonne structure, de l'usage et la stabilité de l'API. Et vous menez toutes les actions nécessaires qui en permettront une utilisation maximale, optimale et une expérience agréable chez nos clients.</summary><content type="html">&lt;h3&gt;&lt;span&gt;A propos de LTUTech&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;LTU-Tech, fondé en 2015 mène une activité de R&amp;amp;D dans le domaine du traitement et de la reconnaissance d'image. Notre expertise en reconnaissance d'images s'appuie sur 18 années d'expérience au sein de différentes structures, LTU Technologies puis JASTEC France au sein du groupe Japonais JASTEC Co.&lt;/p&gt;
+&lt;p&gt;Le rapprochement fin 2017 avec notre partenaire OnPrint nous permet de nous implanter durablement sur le marché mobile en France ainsi qu'à l'étranger.&lt;/p&gt;
+&lt;p&gt;La technologie LTU permet d'indexer, de reconnaître et de comparer des images à partir de leur contenu visuel, dans des environnements aussi variés que les applications mobiles, le contrôle de copyright, la protection des marques, la lutte contre les contrefaçons ou l'aide à l'investigation.&lt;/p&gt;
+&lt;p&gt;Ces technologies sont intégrées dans notre produit LTU Engine que nous mettons à disposition sur notre plateforme SaaS ou chez nos clients sous forme de serveurs indépendants. Le processus d'analyse est basé sur l'extraction de composantes visuelles, qui forment la signature numérique de l'image, appelée « ADN de l'image ». Une fois indexée nous sommes capable de retrouver 1 image dans une base d'1 million d'images en 1 seconde sur 1 seul coeur CPU.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Notre projet &lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;LTUTech se positionne comme un leader français du traitement, reconnaissance et recherche d'images.&lt;/p&gt;
+&lt;p&gt;Dans la continuité de notre rapprochement avec Onprint, nos objectifs 2018 et long-terme sont ambitieux. Alors qu'au niveau commercial, l'offre est en train d'être revue et les projets clients toujours plus nombreux et divers, sur le plan technique il s'agit de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Faire évoluer notre infrastructure et nos déploiements vers de plus en plus de Cloud et d'automatisation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Améliorer nos algorithmes de traitement et recherche&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consolider et harmoniser notre API&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si vous souhaitez rejoindre une équipe ou les développeurs, les opérationnels, la vente travaillent, cherchent de nouvelles stratégie et fêtent les succès ensemble, où vos propositions sont écoutées et où toutes les chances de réussir vous sont données, venez nous rencontrer à Paris 15ème, cela devrait vous plaire.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 data-reactid=".12i1oqsgu0w.4.1.1.1.0.0.3.0"&gt;PROFIL RECHERCHÉ&lt;/h3&gt;
+&lt;div class="text" data-reactid=".12i1oqsgu0w.4.1.1.1.0.0.3.1"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;Nous recherchons…&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un·e passionné·e qui ait une formation d'ingénieur développeur, expérimenté·e dans le développement de plateformes et API.&lt;/p&gt;
+&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vous justifiez d'une expérience d'au moins 5 ans dans le développement (Web services, API, architectures Web, bases de données).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vous maîtrisez Python ainsi qu'un framework web (Django, Flask, ...).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vous connaissez d'autres langages parmi : C++, JS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vous avez l'habitude de travailler dans des équipes en suivant des méthodes et principes Agiles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;p&gt;La connaissance de la production, de l'automatisation et de l'intégration continue est un plus.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A cela s'ajoutent...&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;5 ans d'expérience minimum dans un poste similaire en développement back-end,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A l'aise avec l'anglais oral et écrit pour pouvoir échanger avec nos clients internationaux,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sensible à l'aspect métier, fonctionnel, à ces problématiques de reconnaissance d'images et les possibilités que cela offre,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Une énergie positive, un bon esprit d'équipe, une polyvalence, des passions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content><company>LTU Tech</company><address>rue Violet, 75015 Paris</address><contact>Yannick Allusse</contact><location></location><phone></phone></entry>

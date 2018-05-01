@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Générateur de Releases Notes internationalisées – Stage R&amp;D (H/F) </title><link href="https://www.afpy.org/jobs/generateur-de-releases-notes-internationalisees-2013-stage-r-d-h-f" rel="alternate"></link><published>2016-12-09T14:52:47+01:00</published><updated>2016-12-10T15:36:16+01:00</updated><author><name>mansion</name><email>olivier.mansion@neoxam.com</email></author><id>https://www.afpy.org/jobs/generateur-de-releases-notes-internationalisees-2013-stage-r-d-h-f</id><summary type="html">NeoXam recherche un stagiaire pour sa business unit back office. Au sein de l'équipe Scrum en charge du développement et de la mise en place des outils de développement métier - code factory - vous participerez à la création d'un générateur de releases notes internationalisées.</summary><content type="html">Société
+=======
+
+NeoXam, éditeur international de progiciels financiers, recherche les meilleurs talents pour leur permettre d'exprimer tout leur potentiel ! 
+
+NeoXam conçoit et intègre des solutions logicielles pour les sociétés de gestion d'actifs (asset management) et de marchés de capitaux (capital markets). NeoXam assure la couverture complète de la chaîne de valeur financière : de la gestion des données (data management) et du front jusqu'au back-office. Plus de 10 trillions de dollars sont traités quotidiennement par nos 10.000 utilisateurs. Pour aider le secteur financier (banque/finance/assurance) à relever des défis complexes, NeoXam a créé le modèle « Best of Hybrid ». Nous déployons nos diverses solutions interactives en combinant notre expertise métier aux spécificités locales de chaque marché et contexte réglementaire. 
+ 
+Grâce à son équipe de plus de 400 collaborateurs et toujours avec un dynamisme de start-up, NeoXam sert plus de 150 clients dans 25 pays. NeoXam est basé en France, avec des bureaux en Europe, aux Etats-Unis, en Asie, en Afrique et au Moyen-Orient. 
+ 
+Notre engagement envers l'excellence, notre forte expertise, ainsi que notre regard axé sur le futur et notre ouverture sur le monde entier, nous poussent à être proactifs et à la pointe des nouvelles technologies et des tendances du marché. 
+ 
+Vous découvrirez la synergie entre nos métiers, produits et équipes et vous participerez à un véritable projet d'entreprise en développement, grâce à nos collaborateurs à l'esprit entrepreneurial, agile et multiculturel. 
+ 
+NeoXam recrute ! Préparez votre carrière dans une société à taille humaine en plein essor en France et à l'international. 
+
+Poste
+=====
+ 
+Lorsque nous déployons de nouveaux livrables métiers chez nos clients, ils souhaitent connaitre la nature des modifications apportées. 
+ 
+Nous sommes en mesure de leur fournir cette information car à chaque modification du code, nos développeurs associent un commentaire technique et fonctionnel par l'intermédiaire du système de gestion de source (Subversion). 
+ 
+Le but de ce stage est de développer les outils permettant d'agréger ces commentaires et de générer un rapport de livraison (Releases Notes). 
+ 
+Plus précisément, l'objectif de ce stage est quadruple : 
+
+* Développer une application web en Django permettant de générer des Releases Notes à destination :
+
+    * de nos clients 
+    * des développeurs métier et des consultants 
+
+* Faire évoluer cette application pour y permettre la traduction : 
+
+    * du contenu des Releases Notes
+    * des ressources Gettext utilisées pour internationaliser l'application Gp3 
+
+* Mettre en place des outils automatisés d'aide à la traduction contextualisé (lexique financier) : 
+
+    * Intégration des APIs Google Cloud Translate (REST) 
+    * Recherche dans la base de connaissance existante (Elasticsearch) 
+    * Sensibiliser et former les utilisateurs à ces nouveaux outils 
+ 
+Au sein de la Business Unit R&amp;D, le stagiaire sera intégré à l
+'équipe Scrum en charge du développement et de la mise en place des outils de développement métier (code factory). A ce titre il sera amené à être conseillé par tous les intervenants dans leurs domaines de compétences particuliers : langages utilisés, tests unitaires, environnements de développement et de tests, création de reports, utilisation des outils internes etc... 
+
+Formation &amp; expérience professionnelle
+======================================
+
+* BAC + 5, école d'ingénieur – dernière année 
+* Une première expérience en stage dans le développement autour de Python est requise 
+
+Environnement technique
+======================= 
+
+* Python : Django, JavaScript : React.js , MySQL, PostgreSQL , Elasticsearch, Gettext, Bootstrap 
+ 
+Connaissances requises
+======================
+
+* Python : bon niveau 
+* Unix ou Linux : connaissances standards 
+* Connaissances des environnements de développement : subversion, tests unitaires, intégration continue...
+* SQL : standard 
+* JavaScript : standard 
+* REST 
+* Des connaissances en Django, React.js et Elasticsearch seraient un plus 
+* La langue de travail est le français. Les documents et commentaires de code sont en anglais 
+ 
+Compétences requises
+====================
+
+* Rigueur, capacités d'analyse et esprit de synthèse, capacité à travailler en équipe 
+* Créativité , gout du challenge 
+
+Localisation
+============
+
+Stage situé en plein cœur de Paris, dans le 2e arrondissement à Bourse. 
+
+
+Préparez votre carrière dans une entreprise qui vous permettra d'évoluer grâce à ses synergies, ses innovations, sa croissance et sa politique de mobilité ! </content><company>NeoXam</company><address>46 rue Notre-Dame des Victoires
+75002 Paris</address><contact>Olivier Mansion</contact><location></location><phone></phone><link href="http://www.neoxam.com/" rel="about"></link></entry>

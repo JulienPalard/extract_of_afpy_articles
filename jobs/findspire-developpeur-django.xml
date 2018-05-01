@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Findspire: Développeur Django</title><link href="https://www.afpy.org/jobs/findspire-developpeur-django" rel="alternate"></link><published>2013-12-29T19:52:51+01:00</published><updated>2013-12-29T20:29:31+01:00</updated><author><name>Philippe Bridant &lt;philippe@findspire.com&gt;</name><email>philippe@findspire.com</email></author><id>https://www.afpy.org/jobs/findspire-developpeur-django</id><summary type="html">Bonjour, je suis à la recherche d'un développeur django pour rejoindre l'équipe de Findspire.
+</summary><content type="html">Nous ouvrons un bureau à Paris début janvier, remote possible.
+
+Voici le pitch officiel mais visiter &lt;a href="http://www.findspire.com"&gt;http://www.findspire.com&lt;/a&gt;, regarder la vidéo de présentation sur la home et naviguer sur la beta sera plus éloquent.
+
+&lt;p&gt;Contactez moi par mail à &lt;a href="mailto:philippe@findspire.com"&gt;philippe@findspire.com&lt;/a&gt;  si le projet vous intéresse.&lt;/p&gt;
+
+---
+
+Findspire veut révolutionner l'accès à l'art sous toutes ses formes (photographie, musique, vidéo, cinéma, design, architecture, mode, culture alternative) en proposant une plateforme internationale permettant aux artistes de publier et diffuser eux même leur oeuvres.
+
+Les utilisateurs sont connectés directement aux artistes et peuvent écouter leur musique en streaming, visionner leurs vidéos, consulter leurs profils.
+
+Findspire couple un site web au design unique avec une plateforme puissante nécessitant des développements complexes. Les contraintes de traffic, de réplication/durabilité des données, de streaming et de sécurité sont un véritable challenge technique et notre défi est de compléter l'équipe déjà en place en embauchant des ingénieurs expérimentés ayant une très forte culture open-source et capables de designer et implémenter une plateforme internationale.
+
+Les technologies utilisées sont:
+* LXC, Puppet, Nginx, Varnish, haproxy
+* CouchDB, Elasticsearch
+* Celery/ffmpeg/image-magick
+* Logstash/Kibana
+* Django / Gunicorn / BackboneJS / Site HTML5/CSS3
+* git</content><company>Findspire</company><address></address><contact>Philippe BRIDANT</contact><location>Paris</location><phone>0652626576</phone><link href="http://www.findspire.com/" rel="about"></link></entry>

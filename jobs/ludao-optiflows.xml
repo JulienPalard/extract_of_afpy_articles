@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>CDI architecte logiciel et développeur Python – Startup innovante – Paris</title><link href="https://www.afpy.org/jobs/ludao-optiflows" rel="alternate"></link><published>2012-08-16T18:10:49+02:00</published><updated>2013-03-31T22:50:15+02:00</updated><author><name>admin</name><email>ludovic.havel@optiflows.com</email></author><id>https://www.afpy.org/jobs/ludao-optiflows</id><summary type="html">Vous pensez être un excellent développeur? Vous voulez faire naître un produit d'un nouveau genre? Vous êtes à la pointe de l'innovation et prêt à relever une montagne de défis techniques? Alors lisez la suite!</summary><content type="html">&lt;p&gt;&amp;gt; Environnement technique
+&lt;br /&gt;Optiflows développe la 1ère plateforme ouverte dédiée aux communications critiques : alarme, notification, gestion des demandes d’intervention (maintenance préventive, curative, …). Nous avons donc entamé le développement du produit principal – SURYCAT – et de l’écosystème d’outils qui l’entoure début 2012.
+&lt;br /&gt;Notre objectif étant de faire de ce produit LA référence du marché, nous nous sommes appuyés sur des technologies de pointe et Open Source avec une politique produit claire : la simplicité.
+&lt;br /&gt;
+&lt;br /&gt;Le produit SURYCAT se présente sous la forme d’une appliance – physique ou virtuelle – sur laquelle sont exécutées des applications standardisées issues de notre AppStore professionnel.
+&lt;br /&gt;
+&lt;br /&gt;En résumé, l’environnement technique de SURYCAT est le suivant :
+&lt;br /&gt;	Système : Linux (Debian Wheezy), Virtualisation (KVM)
+&lt;br /&gt;	Briques logicielles : PostgreSQL, Asterisk, Jabberd2, Lighttpd, Django, Node.js…
+&lt;br /&gt;
+&lt;br /&gt;SURYCAT est principalement développé en Python et AJAX autour d’une architecture orientée agents. L’ensemble des agents forme un réseau social intelligent qui échange sous la forme de chats Jabber/XMPP.
+&lt;br /&gt;
+&lt;br /&gt;&amp;gt; Mission
+&lt;br /&gt;SURYCAT constitue le cœur d’innovation technologique de notre solution. Et nous avons besoin de constituer un petit groupe de développeurs passionnés et talentueux pour donner vie à toutes ses innovations et atteindre le niveau de qualité requis.
+&lt;br /&gt;
+&lt;br /&gt;Vous serez rattaché au Directeur R&amp;amp;D pour un poste d’architecte et développeur logiciel centré sur le produit SURYCAT et son écosystème d’outils (dont l’AppStore).
+&lt;br /&gt;
+&lt;br /&gt;Votre premier challenge consistera à consolider – voire refondre – les fondamentaux du produit pour créer la base technique de référence à tous les développements futurs. Ceci implique notamment de concevoir le framework destiné à accélérer et sécuriser la création de nouveaux agents. La création du moteur d’intelligence communautaire et l’amélioration du bus de communication Jabber/XMPP font également partie des défis technologiques à relever.
+&lt;br /&gt;
+&lt;br /&gt;Vous êtes également amené, selon vos compétences et aspirations, à assumer à moyen terme des responsabilités de Core Team Leader pour accompagner le développement de cette équipe.
+&lt;br /&gt;
+&lt;br /&gt;&amp;gt; Profil
+&lt;br /&gt;Vous êtes un passionné de nouvelles technologies et un développeur Python confirmé titulaire a minima d’un IUT d’Informatique. Vous maîtrisez parfaitement Linux et les codes du monde Open Source. Vous avez également la maîtrise d’une ou plusieurs méthodologies de développement (Agile/Scrum) et/ou d’un ou plusieurs outils de développement (Eclipse + PyDev).
+&lt;br /&gt;
+&lt;br /&gt;Idéalement, vous êtes leader ou contributeur actif d’un projet Open Source (en Python ou tout autre langage).
+&lt;br /&gt;
+&lt;br /&gt;Vous présentez également les qualités suivantes :
+&lt;br /&gt;	Vous aimez les challenges techniques et faites preuve de créativité pour les relever.
+&lt;br /&gt;	Vous êtes autonome et voulez être moteur dans vos fonctions. La prise de responsabilité ne vous pose aucun problème.
+&lt;br /&gt;	Vous êtes rigoureux et avez un bon sens de la communication à la fois en interne (avec vos collaborateurs) qu’en externe (interface partenaires technologiques ou clients).
+&lt;br /&gt;	Vous maîtrisez l'anglais pour la communication orale (contacts U.S.A potentiels) et la compréhension et/ou rédaction de documentations.
+&lt;br /&gt;
+&lt;br /&gt;Pour les contributeurs de projets Open Source, nous pouvons réserver du temps libre pour la poursuite de leur projet sur leur temps de travail.
+&lt;br /&gt;
+&lt;br /&gt;Enfin, si vous avez envie d’évoluer dans une jeune startup innovante à fort potentiel de croissance nous sommes faits pour nous entendre !&lt;/p&gt;</content><company>OPTIFLOWS</company><address>141 avenue de Verdun
+Pôle OLEGA - Bâtiment B
+92130 Issy les Moulineaux</address><contact>Ludovic Havel</contact><location></location><phone>0786966913</phone><link href="http://www.optiflows.com" rel="about"></link><link href="ludao-optiflows.jpg" rel="image"></link></entry>

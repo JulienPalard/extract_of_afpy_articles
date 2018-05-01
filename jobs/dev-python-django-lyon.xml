@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Dev Python / Django (Lyon)</title><link href="https://www.afpy.org/jobs/dev-python-django-lyon" rel="alternate"></link><published>2017-03-23T10:52:13+01:00</published><updated>2017-03-23T11:11:42+01:00</updated><author><name>nicolasbaccelli</name><email>nicolas.baccelli@abc-culture.fr</email></author><id>https://www.afpy.org/jobs/dev-python-django-lyon</id><summary type="html">Nous recrutons un développeur (H/F) avec une bonne expérience en python afin de travailler sur nos outils de gestion de vente de produit (python).</summary><content type="html">
+ABC-Culture est un vendeur de produits essentiellement culturels à l'international, sur des marketplaces comme Amazon, Priceminister, etc ... Nous sommes une équipe de 15 personnes, dont 4 dev.
+
+Ce que nous attendons avant tout d'un candidat, c'est la passion de la technique : Si vous vous levez le matin en vous demandant ce que vous allez apprendre de nouveau dans la journée, venez nous rencontrer.  C'est comme ca que nous voyons les choses. Nous sommes une équipe jeune, ambitieuse mais détendue dans la vie de tous les jours, et nous espérons agréable à vivre.
+
+## Profil technique recherché :
+-------------------------------
+ - *Python* : vous devez savoir utiliser les principales features avancées de python (décorateurs, iterateur, yield, héritage, lib externe) et surtout savoir lire de la doc pour apprendre. Nous utilisons python2.7, mais prévoyons de passer en 3 dans l'année
+ - *web* : nous faisons peu de web, mais vous devez avoir de bonnes notions de css, et savoir faire de l'ajax avec jquery
+ - *git* : gestion de branch et merge
+ - *postgresql* : savoir faire un select avec jointures. Savoir comment optimiser une requête
+ - *méthodologie* : nous apprécions, plus que de la doc, des graph expliquant comment fonctionne le software (et on décore les bureaux avec)
+ - *tests unitaires et déploiements* : tout code doit être testé avant d'être déployé en prod via jenkins
+
+## Est un plus :
+----------------
+ - docker 
+ - admin db
+ - admin sys (nous avons une archi mixte dédié / cloud)
+ - machine learning
+
+Télétravail quelques jours dans le mois possible, mais un bureau, 2 écrans et un pc (sous linux) sont prévus.
+Vous noterez que nous ne précisons pas de diplôme ou de niveau d'étude minimal. C'est voulu, Nous attachons avant tout de l'importance aux compétences.
+
+*Contrat* : CDI avec 3 mois de période d'essai
+
+*Date de début souhaitée* : Avril / Mai 2017
+
+*Rémunération* : 30-40k€
+
+*Contact* : nicolas.baccelli@abc-culture.fr ou 0618462342 (Nicolas Baccelli, CTO)
+
+*Adresse* : ABC-Culture - 109 rue du 1er mars 1943 - 69100 - Villeurbanne</content><company>ABC-Culture</company><address>109 rue du 1er mars 1943 - 69100 - Villeurbanne</address><contact>Nicolas Baccelli</contact><location></location><phone>0618462342</phone></entry>

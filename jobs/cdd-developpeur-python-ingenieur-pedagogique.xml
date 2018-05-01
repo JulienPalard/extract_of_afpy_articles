@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>CDD développeur Python / ingénieur pédagogique</title><link href="https://www.afpy.org/jobs/cdd-developpeur-python-ingenieur-pedagogique" rel="alternate"></link><published>2015-09-11T11:58:23+02:00</published><updated>2015-09-11T11:59:09+02:00</updated><author><name>hilaire</name><email>thibault.hilaire@lip6.fr</email></author><id>https://www.afpy.org/jobs/cdd-developpeur-python-ingenieur-pedagogique</id><summary type="html">Développeur Python pour nos outils de génération de contenu pédagogiques (cours)</summary><content type="html">&lt;p&gt;&lt;strong&gt;Contexte :&lt;/strong&gt; Dans le cadre de mise en place de pédagogies innovantes au sein de l'école d'ingénieurs Polytech Paris de l'Université Pierre et Marie Curie, nous recherchons un profil double :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un développeur (bac +5, ingénieur ou équivalent), capable de développer (principalement en Python) des outils de script pour automatiser le travail de mise en place de cours vidéos en ligne et d'exercices interactifs&lt;/li&gt;
+&lt;li&gt;un ingénieur pédagogique, capable d'administrer la plateforme Moodle (Learning Management system) afin d'y déployer les cours interactifs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Profil technique :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sait programmer en Python (capable d’écrire un décorateur maison, connait ses pattern objets, est capable de parser du XML et d'en recracher, de lancer des requêtes HTTP, etc.)&lt;/li&gt;
+&lt;li&gt;Sait faire une branche et un merge git.&lt;/li&gt;
+&lt;li&gt;Sait lire de la doc technique, des FAQ et est adepte de IndexError, StackOverflow et autre&lt;/li&gt;
+&lt;li&gt;Sait faire du montage vidéo sommaire (rajouter une séquence, couper une séquence, encoder une vidéo), s'intéresse à la production multimédia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous serez testé/évalué lors de l’entretien.&lt;br /&gt;&lt;br /&gt;Sur place vous travaillerez très certainement avec :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un large panel de frameworks Python (BeautifulSoup, urllib, etc.)&lt;/li&gt;
+&lt;li&gt;quelques vieux codes (mais documentés)&lt;/li&gt;
+&lt;li&gt;un environnement Unix/Linux (ou Mac)&lt;/li&gt;
+&lt;li&gt;la plateforme Moodle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Il n'est pas nécessaire d'être un utilisateur de Moodle (ni même un expert), bien que ce soit un gros plus : si vous comprenez comment marche un CMS, cela suffira, ce sera facile pour vous de vous former.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Le projet :&lt;/strong&gt;&lt;br /&gt;Plusieurs enseignements d'informatique existants (programmation en C, en Python, Architecture des ordinateurs, etc.) vont être déployés sous forme de SPOC (Short Private Online Course), c'est-à-dire de cours vidéos accompagnés d'exercices interactifs que nos étudiants pourront suivre depuis n'importe où (cette acquisition de connaissances est renforcée par des classiques Travaux Pratiques). Dans ce cadre, nous recherchons un ingénieur pédagogique capable d'administrer la plateforme Moodle hébergeant ces cours :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;création des cours sur la plateforme&lt;/li&gt;
+&lt;li&gt;post-traitement des vidéos (petit montage vidéo et encodage)&lt;/li&gt;
+&lt;li&gt;upload des vidéos, des exercices interactifs&lt;/li&gt;
+&lt;li&gt;configuration du cours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et nous souhaitons que cette même personne soit un développeur capable d'écrire un outil pour automatiser ce processus (c'est-à-dire transformer un cours décrit sous forme XML indiquant quels enchainements de vidéos et d'exercices en un cours complet uploadé sur Moodle). Cela comprend la description complète d'un cours (enchainement des différentes séquences de cours, exercices et TP), la description d'exercices interactifs (LaTeX ou Markdown, avec questions randomisables, avec des réponses sous forme de QCM, de valeurs numériques ou de code dont on doit pouvoir évaluer la qualité). Un script (moulinette) doit transformer les différents fichiers du cours pour produire tous les documents liés (slides pour les vidéos, cahier d'exercices, corrigés, sujets de TP) et les uploader sur la plateforme.&lt;br /&gt;De plus, pour un module particulier, nous souhaitons proposer un environnement interactif de programmation en Python dans le navigateur web (à la manière de Skult.org ou repl.it) afin que les étudiants puissent répondre aux exercices par un code qui serait exécuté et corrigé dans le navigateur. Toutes les technologies nécessaires existent, il ne reste qu'à les assembler !!&lt;br /&gt;Et à terme, les outils produits pourraient être distribués sous licence open-source.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Environnement de travail :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Travail avec des enseignants-chercheurs en informatique (au sein du laboratoire d'Informatique de Paris 6, sur le campus Jussieu à Paris).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Contrat CDD de 9 mois.&lt;/strong&gt;&lt;br /&gt;Salaire à définir selon expérience.&lt;br /&gt;Débutant bienvenus, à condition de savoir montrer que vous savez faire.&lt;br /&gt;Prise en fonction dès que possible.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Contact : thibault.hilaire@lip6.fr   -   01.44.27.87.73&lt;br /&gt;N'hésitez pas à me contacter pour plus de précision&lt;/p&gt;</content><company>UPMC</company><address>4 place Jussieu
+75005 Paris</address><contact>HILAIRE Thibault</contact><location></location><phone>01 44 27 87 73</phone></entry>

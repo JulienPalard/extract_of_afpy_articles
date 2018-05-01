@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Portage d'une librairie d'apprentissage statistique vers scipy</title><link href="https://www.afpy.org/jobs/gvaroquaux-MLScikit" rel="alternate"></link><published>2009-06-16T08:27:46+02:00</published><updated>2013-03-31T22:50:29+02:00</updated><author><name>admin</name><email>gael.varoquaux@normalesup.org</email></author><id>https://www.afpy.org/jobs/gvaroquaux-MLScikit</id><summary type="html">Ingénieur Logiciel attaché à la qualité du code et à la relation avec la communauté</summary><content type="html">&lt;p&gt;Je suis super à la bourre (comme d'habitude :&gt;), mais je viens de réaliser que j'avais oublié de poster notre annonce de travail à l'AFPY. Je recopie donc ici l'annonce en anglais. Nous sommes tous français, mais après tout, comme ce travail vise la communauté scientifique plus général, la maîtrise de l'anglais écrit est nécessaire.&lt;/p&gt;
+
+&lt;hr/&gt;
+&lt;p&gt;
+Our lab is seeking to hire an engineer to work on porting our machine learning code to the scikit learn, adding tests and documentation and packaging it.&lt;/p&gt;
+
+&lt;p&gt;
+We are looking for someone motivated by quality in software and open source. No prior scientific computing experience is required. You will be working in a highly stimulating research environment (&lt;a href="http://www-dsv.cea.fr/neurospin/"&gt;Neurospin&lt;/a&gt;), near Paris and employed by the French research institute in computer science and applied math (&lt;a href="http://www.inria.fr/saclay/home/view?set_language=en"&gt;INRIA&lt;/a&gt;), a prestigious institution.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href="http://www-dsv.cea.fr/neurospin/"&gt;Neurospin&lt;/a&gt; is a research institute dedicated to the understanding of the brain. You will be working with computer-assisted neurology laboratory, the image-analysis and branch of Neurospin, in the small 'Parietal' INRIA team embedded in NeuroSpin and dedicated to statistical modeling.&lt;/p&gt;
+
+&lt;p&gt;
+Over the years, the lab has developed a set of tools for machine learning and statistical analysis in Python (with some C). There are some tools for this purpose available in the open-source world (BSD-licensed) in the scikit learn. We want to extract the good and unique parts of our internal library, and release it in the open source world through the scikit learn. Our code is fully Python code, using scipy and matlab, with some bindings to R. As we want the code to be BSD-licensed, we will remove the bindings with R, and replace when possible. The job does not involve developing new algorithms, but testing, improving, and documenting the existing one. There is a big quality assurance work to be done. The code needs to be put to the right coding standards; APIs should be cleaned; tests added. Dead code should be delete. There is some optimization work to be done. Also, if there is any duplicated funcitonnality with the scikit learn, you should analyse both code and determine which one to code. The job also involves working with the community, documentating the code, and releasing the project, including binary packages. And finally, all the original authors of the algorithms, and experts in the field, are in the lab. So you will be able to learn from them and pester them if there is a problem with the code.&lt;/p&gt;
+
+&lt;p&gt;
+In one word, this is about transforming an internal project, into a leading open source project that will rock and live on!&lt;/p&gt;
+
+&lt;p&gt;
+The job description is available &lt;a href="http://www.inria.fr/travailler/mrted/fr/jd/details.html?id=PGTFK026203F3VBQB6G68LONZ&amp;amp;LOV5=4510&amp;amp;ContractType=4545&amp;amp;LG=FR&amp;amp;Resultsperpage=20&amp;amp;nPostingID=3487&amp;amp;nPostingTargetID=7675&amp;amp;option=52&amp;amp;sort=DESC&amp;amp;nDepartmentID=10"&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+There are two caveats: first it is a 2 year position. Second, you need to have graduated recently.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;IMPORTANT:&lt;/strong&gt; you need to have graduated in 2008 or 2009. This is a very hard restriction, and I am recieving many excellent CVs that I even consider because of this restriction. I am sorry, I cannot do anything about it&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+If you are interested, or just want to ask questions, don't hesitate to send me an e-mail, I am _really_ looking forward to collaborate with someone motivated on this project.&lt;/p&gt;
+
+</content><company>INRIA</company><address></address><contact>Gael Varoquaux</contact><location></location><phone></phone><link href="http://www.inria.fr/travailler/mrted/fr/jd/details.html?id=PGTFK026203F3VBQB6G68LONZ&amp;LOV5=4510&amp;ContractType=4545&amp;LG=FR&amp;Resultsperpage=20&amp;nPostingID=3487&amp;nPostingTargetID=7675&amp;option=52&amp;sort=DESC&amp;nDepartmentID=10" rel="via"></link></entry>

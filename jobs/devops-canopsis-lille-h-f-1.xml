@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>DévOps CANOPSIS - LILLE H/F</title><link href="https://www.afpy.org/jobs/devops-canopsis-lille-h-f-1" rel="alternate"></link><published>2014-08-01T18:07:01+02:00</published><updated>2014-08-01T18:30:08+02:00</updated><author><name>cmasia</name><email>recrutement@capensis.fr</email></author><id>https://www.afpy.org/jobs/devops-canopsis-lille-h-f-1</id><summary type="html">Entreprise :
+Fondée en 2002, Capensis est une Société de Services Informatiques spécialisée en Logiciels Libres (SSLL). Depuis sa création, Capensis s'est construite et développée avec un but constant : fournir des solutions d'infrastructures pérennes et fiables autour des technologies Linux et Open-Source.
+Éditeur de logiciels depuis 2 ans, nous recherchons un renfort "Adminsitrateur" pour l'équipe de R&amp;D travaillant sur notre solution d'Hypervision : CANOPSIS
+
+Poste et missions :
+Missions quotidiennes :
+ - Intégration continue et automatisation des process (Jenkins, exécution de tests unitaires, ..)
+ - Maintenance des plates-formes d'intégration, de ticketing, du labo Canopsis
+
+Missions à venir :
+ - Refondre le système de packaging de Canopsis (puppet/chef/autre, RPM/DEB/PIP)
+ - Améliorer les process de HA dans Canopsis
+ - Documentations des aspects systèmes (Automatisation, déploiement, maintenance, exploitation)
+
+Profil :
+Vous avez une expérience d'un an mini (stages inclus) en administration système Linux.
+Nous recherchons des collaborateurs disposant des compétences suivantes :
+- Packaging : RPM, DEB, PIP
+- Gestion de configuration : Puppet, chef, fabrik
+- Haute dispo : IPVS, HAProxy
+- Canopsis : MongoDB, RabbitMQ, NGinx
+
+Communiquant, vous avez le sens du service, vous êtes doté d'un véritable esprit d'équipe, vous recherchez un environnement de travail technique stimulant et un cadre humain agréable.
+
+Modalités :
+Poste à pourvoir rapidement en CDI
+Lieu de travail : Métropole lilloise
+Rémunération : à négocier selon profil </summary><content type="html"></content><company>CAPENSIS</company><address>30 rue du Triez
+59290 Wasquehal</address><contact>Cécile MASIA</contact><location></location><phone>03 59 39 13 40</phone><link href="http://www.capensis.fr" rel="about"></link><link href="http://www.capensis.fr/2014/07/recrute-administrateur-systeme-linux-canopsis-hf/" rel="via"></link></entry>

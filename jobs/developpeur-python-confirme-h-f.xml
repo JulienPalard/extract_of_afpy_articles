@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur Python Confirmé (H/F)</title><link href="https://www.afpy.org/jobs/developpeur-python-confirme-h-f" rel="alternate"></link><published>2018-02-21T17:26:41+01:00</published><updated>2018-02-22T09:36:28+01:00</updated><author><name>mansion</name><email>olivier.mansion@neoxam.com</email></author><id>https://www.afpy.org/jobs/developpeur-python-confirme-h-f</id><summary type="html">Afin de renforcer ses équipes R&amp;D, NeoXam recherche un développeur ou une développeuse Python pour son produit back-office GP3.</summary><content type="html">Poste en CDI situé en plein cœur de Paris, dans le 2e arrondissement à Bourse.
+
+Contexte
+========
+
+Afin de renforcer ses équipes R&amp;D, NeoXam recherche un développeur ou une développeuse Python pour son produit back-office GP3.
+
+Vous intégrerez l’équipe de développement Python qui a en charge :
+
+* Le développement et la maintenance du compilateur d’un DSL (domain-specific language) utilisé par les développeurs métiers pour implémenter les algorithmes financiers
+* Le développement et la maintenance de la machine virtuelle Python permettant d’exécuter les binaires fonctionnels générés par le compilateur précédemment évoqué
+* La mise en place de l’environnement de développement métier :
+
+    * Implémentation et mise à disposition d’outils basés sur la machine virtuelle Python ciblant le DSL : débugeur, profiler, code coverage
+    * Intégration des fonctionnalités dans l’IDE (Eclipse)
+    * Diffusion des bonnes pratiques de développement auprès des développeurs métier
+
+* Développement des outils de monitoring applicatifs avec une couche Dataviz (Elasticsearch, Kibana...)
+* Mise en place d’algorithmes prédictifs (machine learning) au niveau de la machine virtuelle Python
+
+Mission et activités principales
+================================
+
+* Réaliser les spécifications détaillées (techniques et/ou fonctionnelles) en s’appuyant sur le cahier des charges
+* Prendre en compte des éléments de performance (volumétrie, organisation des traitements...)
+* Contribuer à la programmation de la solution avec les technologies retenues
+* Participer aux codes reviews et permettre l’amélioration des livrables au sein de l’équipe Scrum
+* Fournir le statut d’avancement des spécifications et développements, les tests unitaires associés et assurer la qualité des livrables
+* Contribuer à la recette, élaboration de jeux d’essai
+* Participer à la diffusion des outils développés par l’équipe auprès des développeurs fonctionnels.
+
+Formation et expérience professionnelle
+=======================================
+
+* Ecole d’Ingénieur, BAC + 5 ou équivalent
+* Expérience similaire de 3 à 5 ans
+
+Connaissances et compétences requises
+=====================================
+
+* Python : très bon niveau
+* Opérationnel sur les SCM utilisés : GIT, Subversion
+* Autonome sous Unix
+* Sensibilisé aux problématiques de test : tests unitaires, intégration continue (Bamboo), performances
+* SQL standard
+* Les connaissances suivantes seraient un plus : Machine Learning et scikit-learn ; Elasticsearch, Kibana et Logstash ; Django, Celery
+* Change management
+* Qualités recherchées : rigueur, capacités d’analyse et esprit de synthèse, capacité de travailler en équipe, créativité et le goût du challenge
+* La langue de travail est le français, les documents et commentaires de code sont en anglais
+
+Société
+=======
+
+NeoXam, éditeur international de progiciels financiers, recherche les meilleurs talents pour leur permettre d’exprimer tout leur potentiel.	
+
+NeoXam conçoit et intègre des solutions logicielles pour les sociétés de gestion d’actifs (asset management) et de marchés de capitaux (capital markets).  NeoXam assure la couverture complète de la chaîne de valeur financière : de la gestion des données (data management) et du front jusqu’au back-office. Plus de 14 trillions de dollars sont traités quotidiennement par nos 10.000 utilisateurs. 
+Pour aider le secteur financier (banque/finance/assurance) à relever des défis complexes, NeoXam a créé le modèle « Best of Hybrid ». Nous déployons nos diverses solutions interactives en combinant notre expertise métier aux spécificités locales de chaque marché et contexte réglementaire.
+
+Grâce à son équipe de plus de 450 collaborateurs et toujours avec un dynamisme de start-up, NeoXam sert plus de 150 clients dans 25 pays. NeoXam est basé en France, avec des bureaux en Europe, aux Etats-Unis, en Asie, en Afrique et au Moyen-Orient.	
+
+Notre engagement envers l’excellence, notre forte expertise, ainsi que notre regard axé sur le futur et notre ouverture sur le monde entier, nous poussent à être proactifs et à la pointe des nouvelles technologies et des tendances du marché.   
+
+Vous découvrirez la synergie entre nos métiers, produits et équipes et vous participerez à un véritable projet d’entreprise en développement, grâce à nos collaborateurs à l’esprit entrepreneurial, agile et multiculturel.
+</content><company>NeoXam</company><address>46 Rue Notre-Dame des Victoires, 75002 Paris</address><contact>Olivier Mansion</contact><location>Paris</location><phone></phone><link href="https://www.neoxam.com/" rel="about"></link><link href="https://neoxam.csod.com/ats/careersite/JobDetails.aspx?site=1&amp;id=110" rel="via"></link><link href="developpeur-python-confirme-h-f.jpg" rel="image"></link></entry>

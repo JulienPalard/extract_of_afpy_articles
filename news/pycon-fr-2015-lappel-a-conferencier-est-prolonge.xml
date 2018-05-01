@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>PyCon-fr 2015 l'appel à conférencier est prolongé</title><link href="https://www.afpy.org/jobs/pycon-fr-2015-lappel-a-conferencier-est-prolonge" rel="alternate"></link><published>2015-07-28T09:15:32+02:00</published><updated>2015-09-23T22:00:37+02:00</updated><author><name>jpcw2002</name></author><id>https://www.afpy.org/jobs/pycon-fr-2015-lappel-a-conferencier-est-prolonge</id><summary type="html">Chaque année nous refusons des confs, par manque de place, (très peu par manque d'intérêt, ou pour cause de hors sujet).
+
+ 
+
+Nous avons déjà une cinquantaine de proposition de talks de très bonne facture et l'on pourrait s'arrêter là, cependant cette année nous avons la chance d'être accueilli
+
+dans un lieu qui dispose de 3 salles !, nous pouvons augmenter le nombre de slots.</summary><content type="html">&lt;p class="p1"&gt;Hello !&lt;/p&gt;
+&lt;p class="p1"&gt;Donc toi qui était en vacances (donc débordé) et qui a loupé la deadline !&lt;/p&gt;
+&lt;p class="p1"&gt;Donc, toi là qui a hésité, oui toi là, qui t'es dit j'essaierai bien de proposer un slot, mais j'hésite genre :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;"je ne suis pas une star"&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;"je ne suis pas core-dev" Python&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;"Je ne suis pas un conférencier confirmé, en fait je n'ai jamais fait de conf, mais j'aimerais bien me jeter à l'eau"&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;La PyCon c'est aussi donner l'occasion à tout un chacun de venir partager ses connaissances, son amour du Python, ses tips and tricks, faire connaître ton framework préféré etc&lt;/p&gt;
+&lt;p class="p1"&gt;Ce n'est pas pour rien que l'entrée est gratuite, que c'est ouvert à tous, c'est une volonté délibérée, l'AFPy, la communauté Python Francophone n'est pas élitiste (ça ne veut pas dire qu'il n' y a pas de stars !) &lt;/p&gt;
+&lt;p class="p1"&gt;la PyCon-fr non plus, elle doit être un lieu où l'on partage où l'on apprend quelque soit son niveau !&lt;/p&gt;
+&lt;p class="p1"&gt;Alors oui cette année encore il y a des confs de très haut niveau, des confs proposées par des Maîtres de Conférences,  &lt;span&gt;des Professeurs des Universités, des confs sur les arcanes de l'optimisation, etc&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;Bien entendu que comme chaque année il y a des confs super originales  genre "modéliser la façon d'accorder une guitare électrique, et venir présenter l'implémentation qui en découle !"&lt;/p&gt;
+&lt;p class="p1"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;En lisant ce mail tu veux savoir un petit peu ce qui a déjà été proposé, car tu commences à regretter de ne pas avoir soumis de talk&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;Cette année les sciences sont à l'honneur :&lt;/p&gt;
+&lt;p class="p1"&gt;Physiciens, chimistes et autre biologistes ont proposé des talks, il y a une très grande diversité de sujets, c'est impressionnant! !&lt;/p&gt;
+&lt;p class="p1"&gt;Tu te demandes si quelqu'un parlera de ton outil préféré du moment, tu te dis que vous êtes tellement nombreux à maîtriser l'outil qu'il y a déjà 5 ou 6 slots sur : Django, devops etc &lt;/p&gt;
+&lt;p class="p1"&gt;alors sache que par exemple parmi les gros projets :&lt;/p&gt;
+&lt;p class="p1"&gt;Il n' y a qu'une conf orientée débutant sur Django par exemple, a croire qu'il n'y a rien eu de nouveau, dans les dernières versions, à croire qu'il n' y a plus d'optimisations, de trucs à ne pas faire avec&lt;/p&gt;
+&lt;p class="p1"&gt;que tout le monde est directement super-efficace avec, et qu'il n' y a plus besoin de tutos, de démos, de bonnes pratiques etc &lt;/p&gt;
+&lt;p class="p1"&gt;Ansible 2 est sur le point de sortir et pas un guss pour venir nous en parler&lt;/p&gt;
+&lt;p class="p1"&gt;idem pour le vénérable Plone qui passe à la version 5 (oui je sais qu'il y a Plone Conf  à Bucarest en même temps), mais quand même !&lt;/p&gt;
+&lt;p class="p2"&gt; Flask, pas un mot sur Flask !&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;Parmi les trucs très peu représentés (une seule conf) il y a également les tips and tricks de l'utilisation du langage lui même.&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;A croire que tout le monde maîtrise les yield from, que tout le monde sait déjà que faire des annotations et du futur "typing" disponible à priori dans Python3.5, &lt;/p&gt;
+&lt;p class="p1"&gt;que tout le monde sait optimiser l'empreinte mémoire, que tout le monde à parcouru de long en large la stdlib.&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;Tiens un autre exemple tu te sers du IPython Notebook, tu ne sais plus travailler sans, tu as optimisé ton IPython aux petits oignons et tu crois que tout le monde fait pareil &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;Tu es un dieux du web-scrapping et tu crois que tout le monde à tes heures d'utilisations ou sait ce qu'il est possible faire très efficacement avec deux trois bibli genre scrappy, requests etc&lt;/p&gt;
+&lt;p class="p1"&gt;d'après toi dans l'assistance combien de personnes ne maitrisent pas l'outil comme toi, ne savent pas que ça existe, ou aimeraient écouter un talk qui montre l'intérêt de l'outil, voire mieux qui pourrait être suivi d'un atelier sur le sujet&lt;/p&gt;
+&lt;p class="p1"&gt;Oui les sujets au dessus ont pour certains déjà été présentés dans le passé, mais tout le monde n'y a pas assisté, que fais tu des absents, des gens qui ont découvert le Python depuis etc&lt;/p&gt;
+&lt;p class="p1"&gt;Combien de gens viennent chaque année pour écouter la présentation sur tel ou tel framework, ou autre&lt;/p&gt;
+&lt;p class="p1"&gt;Ce qui est sur c'est que le slot, le poster, l'atelier que tu n'es pas venu présenter, et bien personne n'y assistera !&lt;/p&gt;
+&lt;p class="p1"&gt;et ça vois-tu il n'y a que toi qui puisse corriger la chose &lt;/p&gt;
+&lt;p class="p1"&gt;&lt;strong&gt;La  deadline est donc prolongée  au 09 août 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;pour l'orga&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p1"&gt;Jean-Philippe Camguilhem&lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;
+&lt;p class="p2"&gt; &lt;/p&gt;</content><location></location></entry>

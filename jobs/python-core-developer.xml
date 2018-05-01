@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Python core developer</title><link href="https://www.afpy.org/jobs/python-core-developer" rel="alternate"></link><published>2017-01-27T11:23:20+01:00</published><updated>2017-01-27T11:23:21+01:00</updated><author><name>jbaviat</name><email>jb@sqreen.io</email></author><id>https://www.afpy.org/jobs/python-core-developer</id><summary type="html">Position Summary
+
+Candidate will contribute to the development of our existing Python Sqreen Agent. Our agents are running into our customers applications. Candidate will face complex technical challenges to keep a minimal impact on performance.
+
+Candidate will be responsible for designing and developing key Sqreen features for client-side security components, as well as backend infrastructure, leveraging deep expertize in the field of software instrumentation and advanced debugging.
+
+This blog post is a technical, high level overview of our Python agent.
+
+Code will reach production fast using modern development methods and tools. Sqreen platform brings cutting edge technologies to solve complex issues in the simplest form. Candidate will have a high consideration of reliability, low-latency, redundancy, and security.
+
+Our engineers have deep impacts on our products and contribute to protecting millions of products. The candidate will be a key contributor of the engineering team at Sqreen, delivering the best solutions to protect applications.
+Discover what you will be working on
+
+These articles from our blog will show you some of the things we are working on, and what our product looks like:
+
+    Behind the Scenes: Building a Dynamic Instrumentation Agent for Python
+    Monitor your application security in New Relic Insights
+    Embedding JavaScript into Python
+    Freeze your Python with str.encode and threads
+
+Give a try now at Sqreen, it's free and the install takes 30 seconds!
+
+Check out some screenshots of the Sqreen dashboard.
+</summary><content type="html"></content><company>Sqreen</company><address>23 rue de Cléry
+75002 Paris</address><contact>Jean-Baptiste Aviat (CTO)</contact><location></location><phone></phone><link href="https://www.sqreen.io/" rel="about"></link><link href="https://www.sqreen.io/jobs/software-engineer-developer-python.html" rel="via"></link></entry>

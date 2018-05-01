@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développement de l'outil de distribution cinématographique cinego.net</title><link href="https://www.afpy.org/jobs/zaffy-developpement-cinego.net" rel="alternate"></link><published>2011-02-15T10:34:39+01:00</published><updated>2013-03-31T22:50:23+02:00</updated><author><name>admin</name><email>thomas.zaffran@cinego.net</email></author><id>https://www.afpy.org/jobs/zaffy-developpement-cinego.net</id><summary type="html">Nous recherchons un développeur web Python pour agrandir notre équipe de développement.</summary><content type="html">&lt;p&gt;CNfilms est une société active dans le domaine du cinéma numérique autour de plusieurs activités. L'une de celles-ci est le développement de cinego.net, un outil de gestion de sorties de films à destination des distributeurs.
+&lt;br /&gt;
+&lt;br /&gt;cinego.net est un outil en ligne de programmation destiné aux distributeurs de films en salle.
+&lt;br /&gt;A l'heure ou le cinéma numérique se généralise, aucun outil existant actuellement ne permet encore de prendre en compte les spécificités d'une sortie numérique. La plate-forme cinego.net permet donc aux entreprises de distribution de gérer la sortie de leurs films en numérique dans les salles équipées. La logistique de distribution des films est contrôlée directement par le distributeur grâce à cinego.net : transferts de fichiers vers les salles, duplication de disque-durs et génération des clés de lecture (http://www.manice.org/imprime.php?id_article=276) sont pilotés par le système à partir du planning de programmation du film. Une grande partie, en cours de développement, de cinego.net, concernera toute la partie facturation et gestion administrative de la sortie des films.
+&lt;br /&gt;
+&lt;br /&gt;Le projet est partiellement subventionné par le programme MEDIA de l'Union Européenne et le CNC (Centre National de la Cinématographie).
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;L'essentiel du travail portera sur du développement en Python utilisant le framework Turbogears (http://www.turbogears.org) et Javascript (jQuery)
+&lt;br /&gt;dans un environnement GNU/Linux. Des tâches d'administration ponctuelles du système seront également demandées (administration du serveur de mail, mise à jour, etc...).
+&lt;br /&gt;
+&lt;br /&gt;Compétences requises :
+&lt;br /&gt;- Python
+&lt;br /&gt;- SQL (Postgres)
+&lt;br /&gt;- HTML, Javascript (jQuery)
+&lt;br /&gt;
+&lt;br /&gt;La connaissance d'un framework MVC (Turbogears , Django, Pylons, etc.) et des technologies web-services (SOAP, REST) serait un plus.&lt;/p&gt;</content><company>CNfilms</company><address>11 Rue Bergère
+75009 PARIS</address><contact>Thomas Zaffran</contact><location></location><phone></phone><link href="http://www.cinego.net" rel="about"></link></entry>

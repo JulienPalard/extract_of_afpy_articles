@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Architecte logiciel et développeur Python – Startup innovante M2M – Issy-les-Moulineaux</title><link href="https://www.afpy.org/jobs/architecte-logiciel-et-developpeur-python-2013-startup-innovante-m2m-2013-issy-les-moulineaux" rel="alternate"></link><published>2013-11-29T11:12:22+01:00</published><updated>2013-11-29T12:22:40+01:00</updated><author><name>optiflows</name><email>contact@optiflows.com</email></author><id>https://www.afpy.org/jobs/architecte-logiciel-et-developpeur-python-2013-startup-innovante-m2m-2013-issy-les-moulineaux</id><summary type="html">Architecte et développeur logiciel centré sur le produit SURYCAT et son écosystème d’outils.
+Capacité à Open Sourcer un produit.
+L'un de vos objectifs consistera à challenger la conception actuelle du produit pour consolider – voire repenser – ses fondements.</summary><content type="html">&lt;h3&gt;&lt;strong&gt;Environnement technique&lt;/strong&gt;&lt;/h3&gt;
+&lt;p class=" "&gt;&lt;strong&gt;&lt;/strong&gt;Optiflows développe une plateforme Internet des Objets destinée en 1er lieu aux marchés de la santé et de l'industrie: capter et traiter tous les événements des capteurs installés en entreprise afin de mobiliser les bonnes ressources (humaines et matérielles) au bon moment. Nous avons donc entamé le développement du produit principal – SURYCAT – et de l’écosystème d’outils qui l’entoure début 2012. Nous voulons faire de ce produit &lt;span&gt;LA&lt;/span&gt; référence du marché au niveau mondial et avons pour ce faire entamé un processus de levée de fonds afin de renforcer nos équipes.&lt;/p&gt;
+&lt;p&gt;Nous nous sommes appuyés sur des composants Open Source avec une politique de développement claire : la simplicité.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Système : Linux (Debian ou Ubuntu), Virtualisation (LXC, KVM...)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Logiciels tiers : PostgreSQL/CouchDB, Asterisk, Prosody, Nginx…&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Python : Tornado &amp;amp; asyncio, Django, SleekXMPP, pySerial, pymodbus…&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SURYCAT est principalement développé en Python (2.7 et portage vers 3.x à venir) autour d’une architecture orientée agents. L’ensemble des agents forme un réseau social intelligent qui échange sous la forme de chats Jabber/XMPP.&lt;/p&gt;
+&lt;p&gt;Le produit SURYCAT se présente sous la forme d’une appliance – physique ou virtuelle – sur laquelle sont exécutées des applications de notre AppStore professionnel ou toute autre application tierce utilisant l’API Rest. Si nous développons d’abord des applications destinées au monde de la santé et de l’industrie, SURYCAT est conçu pour supporter n’importe quel autre type d’application : domotique, smart grids, smart cities…&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;SURYCAT constitue le cœur d’innovation technologique de notre solution. Et nous avons besoin de constituer un petit groupe de développeurs passionnés et talentueux pour donner vie à toutes ses innovations et atteindre le niveau de qualité requis.&lt;br /&gt;Nous travaillons également dans l’optique d’open sourcer SURYCAT pour démocratiser cette technologie.&lt;/p&gt;
+&lt;p&gt;Vous serez rattaché au CTO pour un poste d’&lt;strong&gt;architecte et développeur logiciel&lt;/strong&gt; centré sur le produit SURYCAT et son écosystème d’outils.&lt;/p&gt;
+&lt;p&gt;Votre premier challenge consistera à challenger la conception actuelle du produit pour consolider – voire repenser – ses fondements. Ceci implique notamment d’améliorer le framework destiné à accélérer et sécuriser la création de nouveaux agents. L’amélioration du bus de communication Jabber/XMPP fait notamment partie des points à étudier.&lt;/p&gt;
+&lt;p&gt;Vous êtes également amené, selon vos compétences et aspirations, à assumer des responsabilités de Core Team Leader pour accompagner le développement de cette équipe et de la communauté attenante.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Profil&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Vous êtes un passionné de nouvelles technologies et un développeur Python confirmé. Vous maîtrisez parfaitement Linux et les codes du monde Open Source. Vous avez également la maîtrise d’une ou plusieurs méthodologies de développement (Agile/Scrum) et/ou d’un ou plusieurs outils de développement (DVCS, intégration continue, bug tracker, documentation…). Et vous aimez la programmation asynchrone et/ou réseaux?!&lt;/p&gt;
+&lt;p&gt;Idéalement, vous êtes leader ou contributeur actif de projets Open Source Python.&lt;/p&gt;
+&lt;p&gt;Vous présentez également les qualités suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Vous aimez les challenges techniques et faites preuve de créativité pour les relever.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Vous êtes autonome et voulez être moteur dans vos fonctions. La prise de responsabilité ne vous pose aucun problème.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Vous êtes rigoureux et avez un bon sens de la communication à la fois en interne (avec vos collaborateurs) qu’en externe (interface partenaires technologiques ou clients).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Vous maîtrisez l'anglais pour la communication orale (contacts U.S.A, Australie) et la compréhension et/ou rédaction de documentations.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enfin, si vous avez envie d’évoluer dans une jeune startup innovante à fort potentiel de croissance nous sommes faits pour nous entendre !&lt;/p&gt;</content><company>OPTIFLOWS</company><address>141 avenue de Verdun
+Bâtiment B - Pôle OLEGA
+92130 Issy-les-Moulineaux</address><contact>Ludovic Havel</contact><location></location><phone>0182701550</phone><link href="http://www.optiflows.com" rel="about"></link></entry>

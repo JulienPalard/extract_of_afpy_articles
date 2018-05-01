@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>DevOps Python (H/F)</title><link href="https://www.afpy.org/jobs/devops-python-h-f" rel="alternate"></link><published>2016-01-13T15:53:38+01:00</published><updated>2016-01-13T17:19:23+01:00</updated><author><name>cbourdin</name><email>claire.bourdin@parrot.com</email></author><id>https://www.afpy.org/jobs/devops-python-h-f</id><summary type="html">Rattaché au service d'automatisation logicielle vous serez en charge de travailler sur une plateforme de gestion d'exécution de test logiciel pour les drones. Cette plateforme doit permettre de configurer les tests à exécuter (test unitaire, d'intégration, fonctionnel), le binaire ainsi que la cible (HW embarqué, simulateur ...) La plateforme devra gérer le séquencement sur les exécuteurs et agréger les résultats. Le travail consiste à développer en Python et à mettre en opération un serveur web Django pour s'interfacer avec GIT, Jenkins, Celery, Elasticsearch ....   
+
+Missions:
+
+- Participation à la définition de l'architecture
+- Développement Backend Python
+- Communication/Interface avec les autres serveurs (GIT/Jenkins/...)
+- Gestion du serveur Celery
+- Gestion des hôtes d'exécution (physique, virtuel)
+- Mise en production
+- Maintenance
+
+Objectifs:
+
+- Mise en place progressive et itérative des fonctionnalités
+- Interface avec les autres serveurs 
+- Interface avec le service IT
+- Disponibilité du système 
+- Debug et maintenance
+
+
+
+
+Profil:
+
+De formation : BAC+5 école d'ingénieur/M2 spécialisé en informatique ou niveau équivalent
+Vous avez une expérience de  3 à 5 ans dans le développement Web
+Compétences techniques 	 Indispensables : Web, Python, Django, Linux
+Souhaitées : GIT, Conception Object, BDD, intégration continue, script (Bash, Python)
+Autonome, esprit d'équipe
+bon niveau d'anglais
+</summary><content type="html">&lt;p&gt;Fondée en 1994 par Henri Seydoux, Parrot conçoit, développe et commercialise des produits sans fil de haute technologie à destination du grand public et des grands comptes. L'entreprise s'appuie sur une expertise technologique commune pour se développer sur trois principaux secteurs :&lt;br /&gt;- Les drones civils avec des quadricoptères de loisirs et des solutions destinées aux marchés professionnels.&lt;br /&gt;- L'automobile avec la gamme la plus étendue du marché de systèmes de communication mains-libres et d'infotainment pour la voiture.&lt;br /&gt;- Les objets connectés dans les domaines du son et du jardin notamment.&lt;br /&gt;Parrot, dont le siège est à Paris, compte aujourd'hui plus de 900 collaborateurs dans le monde et réalise la grande majorité de ses ventes à l'international. Parrot est cotée depuis 2006 sur Euronext Paris (FR0004038263 – PARRO).&lt;br /&gt;Pour plus d'informations: www.parrot.com&lt;/p&gt;</content><company>PARROT</company><address></address><contact>BOURDIN</contact><location></location><phone></phone></entry>

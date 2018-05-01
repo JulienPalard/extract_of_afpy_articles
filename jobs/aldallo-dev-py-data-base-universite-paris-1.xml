@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur d’application python java orienté web</title><link href="https://www.afpy.org/jobs/aldallo-dev-py-data-base-universite-paris-1" rel="alternate"></link><published>2012-02-02T14:31:05+01:00</published><updated>2013-03-31T22:50:18+02:00</updated><author><name>admin</name><email>Alain.Dallo@univ-paris1.fr</email></author><id>https://www.afpy.org/jobs/aldallo-dev-py-data-base-universite-paris-1</id><summary type="html">Objectif : Créer une interface de requête de Base de données pour les Sciences humaines</summary><content type="html">&lt;p&gt;Contexte
+&lt;br /&gt;
+&lt;br /&gt;Dans le cadre d'un projet CORAM conduit par l'université de Paris 1 et l'EHESS en collaboration avec des universités américaines (Etats-Unis, Canada), une base de données Mysql collaborative a été mis en place. D'autres bases de données ont été constituées indépendamment
+&lt;br /&gt;
+&lt;br /&gt; 
+&lt;br /&gt;Objectif
+&lt;br /&gt;
+&lt;br /&gt;L'objectif est de développer une interface de requête pour des bases de données Mysql. Ce logiciel fera une large place à la visualisation de l'information et se proposera de faciliter la construction de requêtes par des chercheurs en Sciences humaines et sociales au moyen d'une interface graphique permettant l'exploration et la visualisation des données. Elle devra traiter toutes les types de requêtes : projections avec clauses et filtres, transformation de données sans altération de la source, création de vues.
+&lt;br /&gt;Il est prévu d'offrir aux chercheurs des moyens d'entrer dans les données et leurs structures, par l'intermédiaire de tableaux de synthèses ou bien d'indicateurs. De cette façon, et en interaction avec des historiens, l'interface acquerra aussi une dimension pédagogique.
+&lt;br /&gt;Le logiciel doit être assez souple pour autoriser l'agrégation de nouvelles méthodes de descriptions de données. Il doit être utilisable en local/en ligne à partir d'information extraites d'un serveur.
+&lt;br /&gt;
+&lt;br /&gt;Compétences requises 
+&lt;br /&gt;  python ou  java
+&lt;br /&gt;  python web
+&lt;br /&gt;  (My)sql, sqlite
+&lt;br /&gt;  POO
+&lt;br /&gt;
+&lt;br /&gt;Compétences souhaitées
+&lt;br /&gt;
+&lt;br /&gt;    une curiosité pour les sciences humaines&lt;/p&gt;</content><company>Université Paris I</company><address></address><contact>Dallo Alain</contact><location></location><phone></phone><link href="https://www.univ-paris1.fr/" rel="about"></link><link href="http://pireh.univ-paris1.fr/pirh/index.php/component/content/article/115-offre-demplois-developpeur-dapplication-python-java-oriente-web.html" rel="via"></link></entry>

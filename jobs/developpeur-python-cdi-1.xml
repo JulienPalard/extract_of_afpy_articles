@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur Python (CDI)</title><link href="https://www.afpy.org/jobs/developpeur-python-cdi-1" rel="alternate"></link><published>2015-05-26T15:45:55+02:00</published><updated>2015-05-26T15:45:56+02:00</updated><author><name>dorotheehachez</name><email>dorothee@pricingassistant.com</email></author><id>https://www.afpy.org/jobs/developpeur-python-cdi-1</id><summary type="html">Pricing Assistant est en pleine croissance et recrute des développeurs généralistes passionnés par Python. Ce que nous recherchons chez les candidats :
+
+Expérience en Python, intérêt pour le langage et son écosystème
+Notions en protocoles réseaux et langages web
+Intérêt pour le machine learning, l’analyse sémantique et la manipulation de données en général
+Curiosité sur l’ensemble de la stack, du frontend au sysadmin
+Volonté de rejoindre une équipe motivée et de relever des challenges au quotidien
+Rencontrons-nous !
+
+Notre bureau est ouvert à tous, la meilleure façon de faire connaissance est de passer nous voir pour une première prise de contact informelle. Ecrivez-nous à contact@pricingassistant.com !</summary><content type="html">&lt;p&gt;&lt;a href="http://www.pricingassistant.com/"&gt;&lt;br class="Apple-interchange-newline" /&gt;Pricing Assistant&lt;/a&gt; est en pleine croissance et recrute des développeurs généralistes passionnés par Python. Ce que nous recherchons chez les candidats :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Expérience en Python, intérêt pour le langage et son écosystème&lt;/li&gt;
+&lt;li&gt;Notions en protocoles réseaux et langages web&lt;/li&gt;
+&lt;li&gt;Intérêt pour le machine learning, l’analyse sémantique et la manipulation de données en général&lt;/li&gt;
+&lt;li&gt;Curiosité sur l’ensemble de la stack, du frontend au sysadmin&lt;/li&gt;
+&lt;li&gt;Volonté de rejoindre une équipe motivée et de relever des challenges au quotidien&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rencontrons-nous !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Notre bureau est ouvert à tous, la meilleure façon de faire connaissance est de passer nous voir pour une première prise de contact informelle. Ecrivez-nous à &lt;a href="mailto:contact@pricingassistant.com"&gt;contact@pricingassistant.com&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="1" src="https://pixel.wp.com/b.gif?host=pricingassistantblog.wordpress.com&amp;amp;blog=77600917&amp;amp;post=1306&amp;amp;subd=pricingassistantblog&amp;amp;ref=&amp;amp;feed=1" width="1" /&gt;&lt;br /&gt;&lt;a class="btn btn-cta btn-cta-primary" href="mailto:contact@pricingassistant.com"&gt;Contactez-nous&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Des technos modernes et maîtrisées&lt;/h3&gt;
+&lt;p&gt;Nous choisissons les languages et technologies principalement en fonction de leur confort d'utilisation pour l'équipe. La majorité de notre code étant asynchrone, nous n'avons pas peur d'échanger quelques secondes de performances contre un environnement de développement plus agréable et productif. Nous utilisons notamment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; pour tout le code du backend, avec comme librairies &lt;code&gt;scikit-learn&lt;/code&gt;,&lt;code&gt;pandas&lt;/code&gt;, &lt;code&gt;lxml&lt;/code&gt;, &lt;code&gt;Flask&lt;/code&gt; et beaucoup d'autres !&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MongoDB&lt;/strong&gt; et &lt;strong&gt;Elasticsearch&lt;/strong&gt; comme bases de données primaires.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Redis&lt;/strong&gt; comme serveur de queues et de locks distribués&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; pour gérer l'environnement en local et en production à l'identique.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backbone.js&lt;/strong&gt; et &lt;strong&gt;d3.js&lt;/strong&gt; pour le panel consultable par les clients, entièrement branché sur notre API REST.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; comme serveur d'intégration continue, répondant à chaque commit et pull request sur GitHub.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AWS&lt;/strong&gt;, &lt;strong&gt;Google Cloud&lt;/strong&gt; et &lt;strong&gt;Heroku&lt;/strong&gt; pour héberger nos services et workers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="col-xs-3"&gt;&lt;img alt="Python" src="http://www.pricingassistant.com/images/jobs/python.png" /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-4"&gt;&lt;img alt="Le 39" src="http://www.pricingassistant.com/images/jobs/39-1.jpg" /&gt;&lt;/div&gt;
+&lt;div class="col-xs-8"&gt;
+&lt;h3&gt;Un cadre de travail privilégié&lt;/h3&gt;
+&lt;p&gt;Suite à notre première levée de fonds nous avons ouvert un espace de 250m2 en plein coeur du Sentier, que nous partageons avec plusieurs autres startups : &lt;a href="http://39.io/"&gt;Le 39&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Au travers des repas en commun le midi ou des événements organisés en soirée, nous encourageons les discussions et l'ouverture d'esprit, cruciale pour rester créatifs !&lt;/p&gt;
+&lt;p&gt;Dans cette optique, nos fondateurs ont créé &lt;a href="http://hackerpledge.org/"&gt;The Hacker Pledge&lt;/a&gt; (adopté depuis par plus de 50 startups) pour s'engager publiquement en faveur d'un environnement ouvert et "hacker-friendly".&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Nos challenges techniques&lt;/h3&gt;
+&lt;p&gt;Comment faire tenir les prix de tous les produits vendus sur le web dans une base de données ? Avec leur historique sur 2 ans ? Comment donner du sens à ces données et les transformer en conseils concrets pour les e-commerçants ?&lt;/p&gt;
+&lt;p&gt;Comment mettre à jour ces millions de prix tous les jours ? Comment résister aux changements réguliers dans la mise en page des sites ? Comment associer ces produits entre eux sans référence fournisseur ?&lt;/p&gt;
+&lt;p&gt;Voici une petite partie des challenges que nous avons à relever chaque jour et pour lesquels nous attendons vos idées !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-xs-3"&gt;&lt;img alt="P=NP?" src="http://www.pricingassistant.com/images/jobs/pnp.jpg" /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-5"&gt;&lt;img alt="Team" src="http://www.pricingassistant.com/images/team/team-pricing.jpg" /&gt;&lt;/div&gt;
+&lt;div class="col-xs-7"&gt;
+&lt;h3&gt;Des collègues talentueux&lt;/h3&gt;
+&lt;p&gt;Une startup est avant tout une aventure humaine et notre priorité a toujours été de créer une équipe soudée et motivée.&lt;/p&gt;
+&lt;p&gt;Nous ne recrutons que les personnes en qui nous avons entièrement confiance et qui sont expertes dans leur domaine, pour permettre à tout le monde d'être tiré vers le haut et de continuer à apprendre les uns des autres.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Open Source&lt;/h3&gt;
+&lt;p&gt;L'intégralité des composants que nous utilisons sont open source, et nous avons jusqu'à présent ouvert 2 parties critiques de notre infrastructure sur GitHub:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/pricingassistant/mrq"&gt;&lt;strong&gt;MRQ&lt;/strong&gt;&lt;/a&gt;, une task queue distribuée comparable à Celery et RQ que nous avons développé pour gérer facilement (et visuellement !) les millions de jobs que nous exécutons tous les jours. MRQ est maintenant utilisé par au moins une dizaine d'autres équipes hors Pricing Assistant.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pricingassistant/mongokat"&gt;&lt;strong&gt;MongoKat&lt;/strong&gt;&lt;/a&gt;, un ORM Python minimaliste pour MongoDB, dérivé de MongoKit. Projet encore jeune mais prometteur !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="col-xs-3"&gt;&lt;img alt="MRQ" src="http://www.pricingassistant.com/images/jobs/mrq.png" /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-3"&gt;&lt;img alt="Founders" src="http://www.pricingassistant.com/images/jobs/founders.png" /&gt;&lt;/div&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Des fondateurs expérimentés&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/martin-de-charette/62/415/293"&gt;Martin de Charette&lt;/a&gt; (CEO) et &lt;a href="http://www.linkedin.com/in/sylvainzimmer"&gt;Sylvain Zimmer&lt;/a&gt; (CTO) ont créé Pricing Assistant fin 2012.&lt;/p&gt;
+&lt;p&gt;Martin a une expertise de contrôleur financier développée pendant 7 ans chez Groupe Bel, Apave, L'Oréal, Renault, Bolloré et la SNCF. Amateur de vins, il participe au développement du domaine familial au travers de la promotion et la vente.&lt;/p&gt;
+&lt;p&gt;Sylvain est un serial entrepreneur depuis 2004, à l'origine de projets variés tels que Jamendo, Joshfire, TEDxParis et dotConferences. Il est également investisseur dans Sketchfab, 50 Partners et plusieurs autres startups en développement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Un succès crescendo&lt;/h3&gt;
+&lt;p&gt;Depuis 2013, Pricing Assistant multiple les victoires à des concours prestigieux (Le Camping, LeWeb London, Concours national de l'innovation) et a levé des fonds avec Partech Ventures et plusieurs business angels.&lt;/p&gt;
+&lt;p&gt;Depuis 2014, le succès commercial est au rendez-vous avec de nombreux clients parmi le top 50 des e-commerçants français.&lt;/p&gt;
+&lt;p&gt;Prochaine étape, le succès à l'international ! Serez-vous prêts à relever le challenge ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-xs-3"&gt;&lt;img alt="Partech" src="http://www.pricingassistant.com/images/jobs/partech.png" /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-4"&gt;&lt;img alt="dotConferences" src="http://www.pricingassistant.com/images/jobs/dot.jpg" /&gt;&lt;/div&gt;
+&lt;div class="col-xs-8"&gt;
+&lt;h3&gt;Meetups et conférences&lt;/h3&gt;
+&lt;p&gt;Notre CTO Sylvain est à l'origine des &lt;a href="http://dotconferences.io/"&gt;dotConferences&lt;/a&gt; : dotScale, dotJS, dotGo, dotCSS et dotSwift rythment donc l'année des développeurs chez Pricing Assistant, aux premières loges pour discuter avec les meilleurs hackers mondiaux lors de leur passage à Paris.&lt;/p&gt;
+&lt;p&gt;L'équipe de Pricing Assistant est également à l'origine de &lt;a href="http://www.meetup.com/Paris-py-Python-Django-friends/"&gt;Paris.py&lt;/a&gt;, le plus grand meetup français dédié à Python.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row jobs-feature"&gt;
+&lt;div class="col-xs-9"&gt;
+&lt;h3&gt;Une organisation efficace&lt;/h3&gt;
+&lt;p&gt;Nous utilisons toutes les pratiques de développement modernes: pull requests, intégration continue, mobilité entre projets, ...&lt;/p&gt;
+&lt;p&gt;Mais ce n'est pas tout ! Chaque semaine, un membre de l'équipe passe une journée sur un &lt;strong&gt;side-project&lt;/strong&gt; de son choix, pour stimuler créativité et expérimentation.&lt;/p&gt;
+&lt;p&gt;Autre tradition chez Pricing Assistant : les &lt;strong&gt;"prezdevs"&lt;/strong&gt;, des présentations courtes devant tous les développeurs ou toute l'équipe sur une nouvelle idée, un papier de recherche, une techno à la mode, ... Une bonne façon de prendre un peu de recul et de s'améliorer en continu !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><company>Pricing Assistant</company><address>39 rue beauregard</address><contact>Martin de Charette</contact><location></location><phone>0183817741</phone><link href="http://www.pricingassistant.com/fr" rel="about"></link><link href="http://www.pricingassistant.com/jobs/fr/developpeur-python-cdi/" rel="via"></link><link href="developpeur-python-cdi-1.jpg" rel="image"></link></entry>

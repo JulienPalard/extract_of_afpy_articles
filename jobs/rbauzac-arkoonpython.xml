@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Developpeur Python passionné - Lyon -  H/F</title><link href="https://www.afpy.org/jobs/rbauzac-arkoonpython" rel="alternate"></link><published>2012-09-05T12:05:51+02:00</published><updated>2013-03-31T22:50:13+02:00</updated><author><name>admin</name><email>drh@arkoon.net</email></author><id>https://www.afpy.org/jobs/rbauzac-arkoonpython</id><summary type="html">Au sein d'une équipe de developpement Agile, vous developpez de nouvelle fonctionalité en Python pour des appliance de sécurité réseau.</summary><content type="html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US"&gt;&lt;head&gt;
+
+&lt;/head&gt;&lt;body&gt;
+&lt;em&gt;&lt;span style="text-decoration: underline;"&gt;« Bonjour Rémi, vous êtes le responsable d'une des équipes de développement et de R&amp;amp;D d'Arkoon. Quel est le profil que vous cherchez actuellement ? »&lt;/span&gt;&lt;/em&gt;
+&lt;p /&gt;
+     &lt;br /&gt;Notre entreprise est en pleine croissance et notre stratégie ambitieuse pour nos produits nous pousse à agrandir nos équipes. Nous recherchons un développeur expert Linux ( &lt;strong&gt;Python/C&lt;/strong&gt;), passionné par la technologies ou le réseau. Nous menons plusieurs projets d'envergure. Un d&amp;rsquo;eux vise à développer, à partir de &lt;strong&gt;Linux 3.6&lt;/strong&gt;, un Next Generation Firewall atteignant des débit jamais atteints par une plateforme Linux standard. Un autre vise à concevoir et implémenter un langage d'analyse réseau à la portée de tous. Avec l&amp;rsquo;explosion des débits, l&amp;rsquo;arrivée d&amp;rsquo;IPv6 et la complexification des attaques, les sujets ne manquent pas pour les passionnés de technologie.
+&lt;p /&gt;
+&lt;em&gt;&lt;span style="text-decoration: underline;"&gt;« Pouvez-vous nous en dire plus sur l'environnement de développement? Les outils que vous utilisez ? Vous travaillez avec Linux par exemple ? SVN/GIT ? »&lt;/span&gt;&lt;/em&gt;&lt;span style="text-decoration: underline;"&gt;   &lt;/span&gt;
+&lt;p /&gt;
+Notre environnement de développement est à l'image de l'équipe qui y travaille : ouvert. Nous travaillons sous Linux avec les outils OpenSource "classiques" : &lt;strong&gt;Emacs&lt;/strong&gt;, &lt;strong&gt;VIM&lt;/strong&gt;, &lt;strong&gt;GIT&lt;/strong&gt;, SVN, BugZilla, BuildBot, TestLink, ReviewBoard, etc...
+&lt;p /&gt;
+Mais chacun est libre d'utiliser l'éditeur de texte qu'il souhaite du moment que le code produit est de qualité et qu&amp;rsquo;il passe à la revue de code de ses pairs &amp;ndash; une institution chez nous ! &amp;ndash;.
+&lt;p /&gt;
+Nous utilisons aussi un panel varié de technologies OpenSource : nous développons dans le noyau Linux mais nous réalisons aussi des &lt;em&gt;daemons&lt;/em&gt; en &lt;strong&gt;Python&lt;/strong&gt;. Nous avons par exemple intégré un système de asynchrone de messagerie et de communication, entièrement écrit en Python, à nos appliances. Nous sommes aussi amené à développer des services Cloud en utilisant des technologies &lt;em&gt;scalables&lt;/em&gt; comme &lt;strong&gt;Twisted&lt;/strong&gt; ou &lt;strong&gt;Redis&lt;/strong&gt;.
+&lt;p /&gt;
+&lt;em&gt;&lt;span style="text-decoration: underline;"&gt;« Concernant les méthodes Agile, comment travaillez-vous avez les équipes produits ? » &lt;/span&gt;&lt;/em&gt;&lt;span style="text-decoration: underline;"&gt;&lt;br /&gt;&lt;/span&gt;Nous avons démocratisé les méthode Agile &amp;ndash; Scrum en particulier - il y a maintenant 4 ans. Les équipes R&amp;amp;D utilisent le principe d'équipe intégrée (Développeurs et Testeurs ensemble) par sprint de 3 semaines. Il y a beaucoup de communication et d'entraide entre les différents participants aux sprints. L&amp;rsquo;ambiance est très bonne dans l&amp;rsquo;équipe ! 
+&lt;p /&gt;
+&lt;br /&gt;Pour en savoir plus vous pouvez consulter notre site web ( &lt;a href="http://www.arkoon.net/" target="_top"&gt;http://www.arkoon.net&lt;/a&gt;) ou notre espace communautaire ( &lt;a href="http://open.arkoon.net/" target="_top"&gt;http://open.arkoon.net&lt;/a&gt;) pour de plus amples renseignements sur notre entreprise
+&lt;p /&gt;
+Arkoon est une grande famille rejoignez-nous !
+&lt;/body&gt;&lt;/html&gt;
+</content><company>Arkoon Network Security</company><address>1 place Verrazzano, 69009 Lyon</address><contact>Aurélie Chambard</contact><location></location><phone>04 72 53 01 01</phone><link href="http://www.arkoon.net" rel="about"></link></entry>

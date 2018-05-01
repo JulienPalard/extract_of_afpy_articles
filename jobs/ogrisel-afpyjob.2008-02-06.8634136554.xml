@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Python Software Engineer - Fluendo</title><link href="https://www.afpy.org/jobs/ogrisel-afpyjob.2008-02-06.8634136554" rel="alternate"></link><published>2008-02-06T14:01:04+01:00</published><updated>2013-03-31T22:50:32+02:00</updated><author><name>admin</name><email>rrhh@fluendo.com</email></author><id>https://www.afpy.org/jobs/ogrisel-afpyjob.2008-02-06.8634136554</id><summary type="html">
+Our streaming media platform is a loosely-coupled cluster system,
+designed to deliver tens to hundreds of gigabits per second to clients
+across the globe. It is written mostly in Python (using Twisted), and
+runs on Linux servers. The core streaming software, Flumotion, is an
+open-source project, available at http://www.flumotion.net/, whilst
+the advanced clustering software is proprietary.
+
+Fluendo is looking for a developer to join their team of streaming
+server developers and expand the video-on-demand functionality of
+Flumotion. Tasks include integrating new functionality in the
+streaming server core, adding functionality to clustering software,
+and providing a web-based frontend for managing and transcoding
+customers' VOD files.</summary><content type="html">&lt;div class="section" id="company-profile"&gt;
+&lt;h3&gt;&lt;a name="company-profile"&gt;Company Profile&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Our group is a multimedia product and services provider. Our
+innovation has positioned us as one of the leading companies in audio
+and video streaming via internet and mobile networks. Due to our
+growth, we are looking for an experienced Software Engineer.&lt;/p&gt;
+&lt;p&gt;You will have the opportunity to join a unique fast growing technology
+company with a very high skill, experienced team working with Open
+Source technologies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="position-requirements-skills-characteristics"&gt;
+&lt;h3&gt;&lt;a name="position-requirements-skills-characteristics"&gt;Position Requirements (skills, characteristics)&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Experience with software development in one or more of: multimedia
+systems, Linux/UNIX, Python, Twisted, Web services, distributed
+systems.&lt;/li&gt;
+&lt;li&gt;Fluency (both written and spoken) in English is required (this is
+the main operating language of the company). Working knowledge of
+Spanish is strongly desired, but excellent candidates without this
+will be considered.&lt;/li&gt;
+&lt;li&gt;Ability to learn new programming languages and libraries rapidly.&lt;/li&gt;
+&lt;li&gt;Must work well with the rest of the our team.&lt;/li&gt;
+&lt;li&gt;4 or more years of development experience.&lt;/li&gt;
+&lt;li&gt;Knowledge of Python or similar dynamic languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="position-special-skills-for-identifying-top-candidates"&gt;
+&lt;h3&gt;&lt;a name="position-special-skills-for-identifying-top-candidates"&gt;Position Special Skills (for identifying TOP candidates)&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Experience with open source development models.&lt;/li&gt;
+&lt;li&gt;Experience with multimedia frameworks (e.g. GStreamer, DirectShow).&lt;/li&gt;
+&lt;li&gt;Experience developing with Twisted.&lt;/li&gt;
+&lt;li&gt;Proven ability to diagnose and debug complex multi-level problems in
+large-scale software systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><company>Fluendo</company><address></address><contact>Cristina Cohí (HR Assistant)</contact><location></location><phone></phone><link href="http://www.flumotion.com" rel="via"></link></entry>

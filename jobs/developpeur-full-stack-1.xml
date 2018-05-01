@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur full-stack dans l'intelligence collective</title><link href="https://www.afpy.org/jobs/developpeur-full-stack-1" rel="alternate"></link><published>2016-08-17T15:25:23+02:00</published><updated>2016-08-18T10:11:32+02:00</updated><author><name>Quentin Grimaud</name><email>quentin.grimaud@bluenove.com</email></author><id>https://www.afpy.org/jobs/developpeur-full-stack-1</id><summary type="html">Vous êtes entreprenant et motivé par des projets visant à réinventer la façon de collaborer en entreprise et de vivre en démocratie. Vous avez une expertise du développement Python et Javascript. Vous maîtrisez les APIs Web ainsi que les architectures REST. Une expérience avec les technologies suivantes est un atout : Pyramid, SQLAlchemy, Backbone/Marionnette, le développement par promesses (ex: Bluebird), des frameworks de tests (ex: pytest, pymock, Mocha, Chai).
+
+
+Une compréhension des enjeux de l’architecture logicielle, de la conception d’API et de la modélisation de données est fortement souhaitée. Une expérience des technologies du Web sémantique (RDFLib) et de la visualisation de données (D3) serait des atouts supplémentaires.
+
+
+Enfin, vous faites preuve d’aisance à travailler à distance avec une équipe internationale et vous avez un intérêt marqué pour la production de « biens communs » (logique d’intérêt général, développement sous licence libre). Vous maîtrisez l’anglais et le français comme langues de travail.
+</summary><content type="html">&lt;h2&gt;&lt;span&gt;Recherche 1 développeur Full-Stack&lt;/span&gt;&lt;/h2&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;basé à Paris&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt; &lt;/p&gt;
+&lt;p dir="ltr"&gt; &lt;/p&gt;
+&lt;h3 dir="ltr"&gt;Notre mission&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Bluenove est une société de développement technologique et de conseil spécialisée en innovation ouverte et en intelligence collective, leader en France et au Canada. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt; &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Nos clients et partenaires&lt;/strong&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Bluenove compte parmi ses clients de grands groupes européens et mondiaux (Michelin, Société Générale, Sodexo, Pernod Ricard, Orange, Microsoft, Airbus, SNCF, etc.). bluenove est également partenaire de grands centres de recherche en intelligence collective (MIT, Open University). &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Notre produit&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://assembl.org"&gt;&lt;span&gt;Assembl&lt;/span&gt;&lt;/a&gt;&lt;span&gt; est un logiciel open source permettant des discussions en ligne à grande échelle visant à produire un livrable (plan stratégique, feuille de route, politiques publiques, etc.). Il s’agit du premier logiciel de structuration de débats, dont les applications relèvent à la fois de la résolution de problème à plusieurs centaines ou milliers de personnes pour les entreprises et de la participation citoyenne pour les collectivités.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Notre stack&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Assembl est une single-page application complexe. Le front-end (Backbone/Marionette) est synchronisé en temps réel (websocket) pour permettre l’utilisation simultanée entre utilisateurs. Le back-end utilise une Base de donnée Postgres à travers SQLAlchemy, et également une base de donnée graphe.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Vos responsabilités&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Nous recherchons un développeur full-stack basé à Paris.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Vous serez amené à être en contact avec les clients et les consultants de bluenove à Paris afin de faire en sorte que la plateforme réponde à leurs besoins, notamment au niveau UX. À cette fin, vous aurez à exercer un jugement critique sur les demandes d’évolution faites en lien avec l’architecture globale et la vision du produit. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;D’autre part, vous devrez faire preuve d’une expérience suffisamment transversale (backend, frontend, CSS, tests) pour profiter de votre proximité avec les clients et consultants afin de réaliser vous-même certains projets de développement de façon autonome, dans une logique agile.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Dans l’optique où notre équipe de développement à Paris est appelée à grandir à moyen terme, vous pourriez être amené à prendre plus de responsabilités. Aussi, vous bénéficierez du soutien et de l’expérience de développeurs seniors.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Votre profil&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Vous êtes entreprenant et motivé par des projets visant à réinventer la façon de collaborer en entreprise et de vivre en démocratie. Vous avez une expertise du développement Python et Javascript. Vous maîtrisez les APIs Web ainsi que les architectures REST. Une expérience avec les technologies suivantes est un atout : Pyramid, SQLAlchemy, Backbone/Marionnette, le développement par promesses (ex: Bluebird), des frameworks de tests (ex: pytest, pymock, Mocha, Chai).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Une compréhension des enjeux de l’architecture logicielle, de la conception d’API et de la modélisation de données est fortement souhaitée. Une expérience des technologies du Web sémantique (RDFLib) et de la visualisation de données (D3) serait des atouts supplémentaires.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Enfin, vous faites preuve d’aisance à travailler à distance avec une équipe internationale et vous avez un intérêt marqué pour la production de « biens communs » (logique d’intérêt général, développement sous licence libre). Vous maîtrisez l’anglais et le français comme langues de travail.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Modalités&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Contrat permanent basé à Paris, à pourvoir dès maintenant. Rémunération en fonction des compétences et de l’expérience. Adressez vos références (CV, lettre de motivation et profil GitHub) à Quentin Grimaud : &lt;/span&gt;&lt;a href="mailto:quentin.grimaud@bluenove.com"&gt;&lt;span&gt;quentin.grimaud@bluenove.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt; &lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://www.imaginationforpeople.org"&gt;&lt;span&gt;www.bluenove.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-e5e7282a-98a8-b54a-349e-d473e382f0cd"&gt;&lt;br /&gt;&lt;img height="117" src="https://lh4.googleusercontent.com/ktI2MmC3i8HsiD1MXNDjczpuFaBCTtctZDrukHRoJ61JM9GWm90IAVaqaUzcWEUCRV6yUFE4-s555_aZex5DUfOe4ll6h_GFFQES4Q3TpmQ6B-vRbR_J3P24MbJCKe0dAp2TGszW" width="420" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content><company>bluenove</company><address>96 rue Edouard Vaillant, 92300 Levallois-Perret, France</address><contact>Quentin Grimaud</contact><location>Paris</location><phone></phone><link href="http://bluenove.com" rel="about"></link></entry>

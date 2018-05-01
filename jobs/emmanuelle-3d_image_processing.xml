@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Ingénieur junior en traitement d'images 3-D</title><link href="https://www.afpy.org/jobs/emmanuelle-3d_image_processing" rel="alternate"></link><published>2011-11-14T17:33:49+01:00</published><updated>2013-03-31T22:50:19+02:00</updated><author><name>admin</name><email>emmanuelle.gouillart@nsup.org</email></author><id>https://www.afpy.org/jobs/emmanuelle-3d_image_processing</id><summary type="html">Le laboratoire de recherche mixte CNRS/Saint-Gobain recherche un ingénieur junior en traitement d'images 3-D, pour un CDD d'un an dans le cadre d'une collaboration entre plusieurs laboratoires.</summary><content type="html">&lt;div class="section" id="description-du-poste"&gt;
+&lt;h3&gt;&lt;a name="description-du-poste"&gt;Description du poste&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ce projet d'un an a pour but de mettre au point un module de traitement d'images tri-dimensionnelles, à la fois performant et d'utilisation facile. Ce module sera écrit à partir des différentes bases de code de plusieurs équipes de recherche travaillant ensemble sur la tomographie X. Dans une première phase, vous interagirez fortement avec les chercheurs des différentes équipes, afin de recenser et rassembler les différents algorithmes utilisés dans les équipes (y compris quelques algorithmes au niveau de l'état de l'art, utilisés par des spécialistes en traitement d'image avec lesquels nous collaborons). Vous intégrerez ensuite ces algorithmes dans un nouveau module, en commençant par ceux dont l'utilité est la plus répandue, et en prêtant une attention particulière à l'utilisabilité (documentation, installation, ...) et à la robustesse du code (tests, prise en compte de différents formats de fichiers). Le module sera constitué d'un package Python, et d'un ensemble de routines ImageJ. Pour une meilleure pérennisation du code et pour le diffuser dans un cadre plus général, certains algorithmes d'intérêt général seront proposés pour être intégrés dans le module open-source Python scikits-image (scikit de traitement d'image).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="contexte-scientifique"&gt;
+&lt;h3&gt;&lt;a name="contexte-scientifique"&gt;Contexte scientifique&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Le projet ANR français EDDAM (&lt;a class="reference" href="http://www.svi.cnrs-bellevue.fr/wikimedia/index.php/EDDAM"&gt;http://www.svi.cnrs-bellevue.fr/wikimedia/index.php/EDDAM&lt;/a&gt;) porte sur l'imagerie X 3-D ultra-rapide des matériaux amorphes lors de traitements thermiques ou de chargements mécaniques. Grâce aux nouveaux développements de de la tomographie synchrotron, il est maintenant possible d'imager l'évolution de matériaux sur des échelles de temps inférieures à la seconde, et d'aller ainsi sonder des mécanismes jusqu'ici inexplorés de la transformation de ces matériaux. De telles expériences produisent en général des jeux de données de très grande taille, pour lesquelles il est important d'avoir des méthodes de traitement d'image automatisées.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="profil-recherch"&gt;
+&lt;h3&gt;&lt;a name="profil-recherch"&gt;Profil recherché&lt;/a&gt;&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Vous aimez travailler en équipe, vous  savez fixer des objectifs réalistes en accord avec l'équipe et mettre en oeuvre de façon autonome les moyens pour atteindre ces objectifs.&lt;/li&gt;
+&lt;li&gt;Vous avez des connaissances en programmation et en informatique scientifique. La connaissance d'un des langages ou logiciels utilisés par l'équipe (Python, ImageJ, Matlab) est un plus.&lt;/li&gt;
+&lt;li&gt;Vous aimez le travail bien fait et vous utilisez certaines des &amp;quot;bonnes pratiques&amp;quot; du développement logiciel : documentation, tests, contrôle de version, ...&lt;/li&gt;
+&lt;li&gt;Intérêt et curiosité pour le traitement d'image. Une première expérience en traitement d'images, ou un goût pour les raisonnements mathématiques, sont un plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="aspects-pratiques"&gt;
+&lt;h3&gt;&lt;a name="aspects-pratiques"&gt;Aspects pratiques&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Cet emploi est un CDD d'un an, qui peut commencer à partir de février 2012. Le salaire proposé dépend du niveau d'expérience. Il est possible de faire un stage avant ce CDD d'un an si vous finissez un diplôme de master.&lt;/p&gt;
+&lt;p&gt;Votre employeur sera le CNRS, et vous travaillerez principalement au sein du laboratoire mixte CNRS/Saint-Gobain (&lt;a class="reference" href="http://www.svi.cnrs-bellevue.fr"&gt;http://www.svi.cnrs-bellevue.fr&lt;/a&gt;) à Aubervilliers, près de Paris (France).&lt;/p&gt;
+&lt;p&gt;Les candidats intéressés sont priés d'envoyer leur CV et une lettre de motivation à Emmanuelle Gouillart (contact ci-dessous).&lt;/p&gt;
+&lt;/div&gt;
+</content><company>Unité mixte CNRS/Saint-Gobain</company><address>Unité mixte CNRS/Saint-Gobain
+39 quai Lucien Lefranc
+93303 Aubervilliers Cedex</address><contact>Emmanuelle Gouillart</contact><location></location><phone>0033(0)148395752</phone><link href="http://www.svi.cnrs-bellevue.fr" rel="about"></link><link href="http://www.svi.cnrs-bellevue.fr/wikimedia/index.php/EDDAM_developer_position" rel="via"></link></entry>

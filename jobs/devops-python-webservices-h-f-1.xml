@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>DevOps Python / Webservices (H/F) - Paris 15</title><link href="https://www.afpy.org/jobs/devops-python-webservices-h-f-1" rel="alternate"></link><published>2018-03-20T16:20:43+01:00</published><updated>2018-03-20T16:38:26+01:00</updated><author><name>yallusse</name><email>yallusse@ltutech.com</email></author><id>https://www.afpy.org/jobs/devops-python-webservices-h-f-1</id><summary type="html">Vos responsabilités
+
+En charge du bon fonctionnement et de l'optimisation de notre plateforme en Production, vous êtes le point de contact et accompagnez notre hébergeur Cloud sur nos environnements de développement et production (Maintien en condition opérationnel, sécurisation, monitoring…).
+
+Vous menez des projets d'évolution des outils et pratiques d'intégration/déploiement continus, d'automatisation (Jenkins, Gitlab, Docker, Ansible...).
+
+Enfin, une petite partie de nos clients ayant leur propre infrastructure, vous assurez le support opérationnel de notre plateforme chez eux.</summary><content type="html">&lt;h3&gt;A propos de LTUTech&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;LTUTech &lt;/span&gt;, fondé en 2015 mène une activité de R&amp;amp;D dans le domaine du traitement et de la reconnaissance d'image. Notre expertise en reconnaissance d'images s'appuie sur 18 années d'expérience au sein de différentes structures, LTU Technologies puis JASTEC France au sein du groupe Japonais JASTEC Co.&lt;/p&gt;
+&lt;p&gt;Le rapprochement fin 2017 avec notre partenaire OnPrint nous permet de nous implanter durablement sur le marché mobile en France ainsi qu'à l'étranger.&lt;/p&gt;
+&lt;p&gt;La technologie LTU permet d'indexer, de reconnaître et de comparer des images à partir de leur contenu visuel, dans des environnements aussi variés que les applications mobiles, le contrôle de copyright, la protection des marques, la lutte contre les contrefaçons ou l'aide à l'investigation.&lt;/p&gt;
+&lt;p&gt;Ces technologies sont intégrées dans notre produit LTU Engine que nous mettons à disposition sur notre plateforme SaaS ou chez nos clients sous forme de serveurs indépendants. Le processus d'analyse est basé sur l'extraction de composantes visuelles, qui forment la signature numérique de l'image, appelée « ADN de l'image ». Une fois indexée nous sommes capable de retrouver 1 image dans une base d'1 million d'images en 1 seconde sur 1 seul coeur CPU.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;Notre projet&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;LTUTech se positionne comme un leader français du traitement, reconnaissance et recherche d'images.&lt;/p&gt;
+&lt;p&gt;Dans la continuité de notre rapprochement avec Onprint, nos objectifs 2018 et long-terme sont ambitieux. Alors qu'au niveau commercial, l'offre est en train d'être revue et les projets clients toujours plus nombreux et divers, sur le plan technique il s'agit de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Faire évoluer notre infrastructure et nos déploiements vers de plus en plus de Cloud et d'automatisation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Améliorer nos algorithmes de traitement et recherche&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consolider et harmoniser nos API&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si vous souhaitez rejoindre une équipe ou les développeurs, les opérationnels, la vente travaillent, cherchent de nouvelles stratégie et fêtent les succès ensemble, où vos propositions sont écoutées et où toutes les chances de réussir vous sont données, venez nous rencontrer à Paris 15ème, cela devrait vous plaire.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 data-reactid=".1c305mse0w0.4.1.1.1.0.0.3.0"&gt;PROFIL RECHERCHÉ&lt;/h3&gt;
+&lt;div class="text" data-reactid=".1c305mse0w0.4.1.1.1.0.0.3.1"&gt;
+&lt;p class=" "&gt;&lt;strong&gt;Nous recherchons…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un·e passionné·e qui ait une formation d'ingénieur développeur, intéressé·e par les problématiques de déploiement continu, d'automatisation, de conteneurisation, de sécurité…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Vous avez déjà travaillé avec les outils suivants: Jenkins, Ansible, PostgreSQL, NGINX, VMWare, Docker, GITLAB.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vous avez des connaissances en architecture distribuée (microservices, communications asynchrones, …)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vous avez de bonnes connaissances en réseau et en administration de systèmes Linux.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La connaissance des clouds publics (parmi AWS, Google, Azure) est un plus même si nous travaillons avec un autre provider d'infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A cela s'ajoutent...&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;5 ans d'expérience minimum dans un poste similaire en DevOps,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A l'aise avec l'anglais oral et écrit pour pouvoir échanger avec nos clients internationaux,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sensible à l'aspect métier, fonctionnel, à ces problématiques de reconnaissance d'images et les possibilités que cela offre,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Une énergie positive, un bon esprit d'équipe, une polyvalence, des passions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</content><company>LTU Tech</company><address>Rue Violet, 75015 Paris</address><contact>Yannick Allusse</contact><location>Paris</location><phone></phone><link href="http://www.ltutech.com" rel="about"></link></entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Développeur Python / Web expérimenté (CDI, Paris)</title><link href="https://www.afpy.org/jobs/ludao-optiflows_web_developer" rel="alternate"></link><published>2012-11-23T18:02:02+01:00</published><updated>2013-03-31T22:50:10+02:00</updated><author><name>admin</name><email>contact@optiflows.com</email></author><id>https://www.afpy.org/jobs/ludao-optiflows_web_developer</id><summary type="html">Optiflows développe Surycat, la 1ère plateforme modulaire dédiée aux communications critiques : envoi d’alarmes, notifications, gestion des demandes d’intervention. Notre produit est typiquement déployé sur des sites industiels, dans des hôpitaux, etc. Nous recherchons un développeur Web expérimenté pour assurer l'évolution de l'interface utilisateur du produit.
+</summary><content type="html">&lt;p&gt;Le produit Surycat se présente sous la forme d’une appliance – physique ou virtuelle –  sur laquelle tournent en permanence des démons de supervision. En résumé, l’environnement technique de Surycat est le suivant&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Système&amp;nbsp;: Linux (Debian Wheezy), Virtualisation (KVM)&lt;/li&gt;
+&lt;li&gt;Briques logicielles&amp;nbsp;: PostgreSQL, Asterisk, Jabberd2, Django, Lighttpd…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Surycat est principalement développé en Python autour d’une architecture orientée agents. L’ensemble des agents forme un réseau qui échange sous la forme de messages Jabber/XMPP. L'interface d'administration est assurée par une application Web développée avec Django.&lt;/p&gt;
+&lt;div class="section" id="mission"&gt;
+&lt;h3&gt;&lt;a name="mission"&gt;Mission&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Vous serez rattaché au Team leader R&amp;amp;D pour un poste de développeur Web et Python centré sur le produit Surycat et son écosystème d’outils.&lt;/p&gt;
+&lt;p&gt;Vous serez force de proposition à la fois sur des questions d'ergonomie, d'interface utilisateur, et de conception technique. Dans l’idéal, vous serez amené à être autonome sur la définition des spécifications fonctionnelles et techniques, et contribuerez à la définition de la roadmap.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="profil"&gt;
+&lt;h3&gt;&lt;a name="profil"&gt;Profil&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Vous êtes passionné de technologies Web et développeur Python confirmé&amp;nbsp;; titulaire a minima d’un bac+3 en informatique, ou autodidacte pointu.&lt;/p&gt;
+&lt;p&gt;Idéalement, vous êtes contributeur actif d’un projet logiciel libre (en Python ou tout autre langage). Vous maîtrisez Linux et les codes du monde Open Source. Vous portez un regard critique sur votre propre code comme sur celui des autres.&lt;/p&gt;
+&lt;p&gt;Vos compétences incluent&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Design d’interfaces graphiques modernes (présentation simple et claire, ergonomie d’accès, création de composants graphiques)&lt;/li&gt;
+&lt;li&gt;maîtrise des frameworks Web modernes (Django ou autre)&lt;/li&gt;
+&lt;li&gt;HTML5, Javascript, CSS &amp;amp; technologies associées (ex: JQuery, twitter-bootstrap)&lt;/li&gt;
+&lt;li&gt;programmation asynchrone (AJAX)&lt;/li&gt;
+&lt;li&gt;bases de données relationnelles&lt;/li&gt;
+&lt;li&gt;écriture de tests automatisés (unitaires et fonctionnels)&lt;/li&gt;
+&lt;li&gt;développement collaboratif (gestion de versions, revues de code)&lt;/li&gt;
+&lt;li&gt;déploiement, industrialisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous présentez également les qualités suivantes&amp;nbsp;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Vous aimez les challenges et faites preuve de créativité pour les relever.&lt;/li&gt;
+&lt;li&gt;Vous êtes autonome et voulez être moteur dans vos fonctions. Vous êtes rigoureux et avez un bon sens de la communication à la fois en interne (avec vos collaborateurs) qu’en externe (interface partenaires technologiques ou clients).&lt;/li&gt;
+&lt;li&gt;Vous maîtrisez l'anglais pour la communication orale (Partenaires technologiques internationaux) et la compréhension et/ou rédaction de documentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour les contributeurs de projets Open Source, nous pouvons réserver du temps libre pour la poursuite de leur projet sur leur temps de travail.
+Enfin, si vous avez envie d’évoluer dans une jeune startup innovante à fort potentiel de croissance nous sommes faits pour nous entendre&amp;nbsp;!&lt;/p&gt;
+&lt;/div&gt;
+</content><company>Optiflows</company><address>Optiflows
+Pôle OLEGA
+141 Avenue de Verdun
+92130 Issy-les-Moulineaux</address><contact>Optiflows R&amp;D</contact><location></location><phone></phone></entry>

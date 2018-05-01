@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Python Data Software Engineer - Startup en pleine croissance</title><link href="https://www.afpy.org/jobs/python-data-software-engineer-startup-en-pleine-croissance" rel="alternate"></link><published>2016-08-05T16:28:34+02:00</published><updated>2016-08-06T00:56:04+02:00</updated><author><name>meilleursagents</name><email>recrutement@meilleursagents.com</email></author><id>https://www.afpy.org/jobs/python-data-software-engineer-startup-en-pleine-croissance</id><summary type="html">Le rôle de l’équipe « Data » de MeilleursAgents est de produire et diffuser les données immobilières les plus pertinentes aux différents acteurs de l’immobilier (vendeurs, acheteurs, agents immobiliers, institutions, etc.).
+
+Au sein de cette équipe, composée de Software Engineers &amp; Data Scientists, vous aurez pour rôle de concevoir les différents algorithmes et applications, et de les implémenter pour produire ces données immobilières, qui font de MeilleursAgents.com la référence en la matière.
+
+Nous vous proposons de travailler dans une équipe de haut niveau, sur les problématiques suivantes :
+
+Traitement de volume important de données : développement et optimisation d'un moteur d'estimation des prix de l'immobilier
+Développement d'algorithmes complexes
+Machine Learning (Clustering, Text mining, etc?)
+Quelques mots clés : Python, Scikit-learn, Pandas, Postgres, Couchbase, Celery, Redis
+L'équipe data travaille en complète autonomie et à la responsabilité de sa stack techno, du buikd au run (Elle gère sa propre infrastructure).</summary><content type="html">&lt;p&gt;Vous justifiez d’une première expérience en Software Development.&lt;/p&gt;
+&lt;p&gt;Vous avez de très fortes compétences &amp;amp; connaissances sur :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python et son écosystème&lt;/li&gt;
+&lt;li&gt;la modélisation et le traitement de volume important de données&lt;/li&gt;
+&lt;li&gt;l’administration système et de base de données&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous êtes rigoureux, curieux, autonome, team-player, constructif dans vos discussions.&lt;/p&gt;
+&lt;p&gt;Les plus :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;goût pour les stats et les maths&lt;/li&gt;
+&lt;li&gt;fan de visualisation de données (dataviz) et de cartographie&lt;/li&gt;
+&lt;li&gt;la maintenabilité et le devenir de ce que vous réalisez vous importe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;Les outils&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Nous utilisons les meilleures technologies à notre disposition telles que GNU/Linux, PostgreSQL, PostGIS, HAProxy, Redis et, concernant Python plus spécifiquement, GEvent, Numpy, Scipy et Panda. Nous les testons en continu à l’aide de Jenkins. Au-delà de ces choix, nous restons avides de découvrir quelles autres technologies peuvent nous aider dans la réalisation de nos projets, comme Couchbase, Docker et Grafana tout récemment.&lt;/p&gt;</content><company>Meilleursagents.com</company><address>8 rue du sentier</address><contact>Anne-Charlotte Lebrun</contact><location></location><phone>143205862</phone><link href="http://www.meilleursagents.com/" rel="about"></link><link href="https://carriere.meilleursagents.com/fr/annonce/506-python-data-software-engineer-75002-paris" rel="via"></link></entry>

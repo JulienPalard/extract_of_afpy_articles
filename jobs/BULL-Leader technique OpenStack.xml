@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Leader technique OpenStack (H/F) </title><link href="https://www.afpy.org/jobs/BULL-Leader%20technique%20OpenStack" rel="alternate"></link><published>2012-10-05T10:32:13+02:00</published><updated>2013-03-31T22:50:13+02:00</updated><author><name>admin</name><email>Bull.Recrutement@bull.net</email></author><id>https://www.afpy.org/jobs/BULL-Leader technique OpenStack</id><summary type="html">Bull, Groupe Informatique International en pleine croissance se positionne comme Leader Européen des systèmes numériques critiques.
+Les 9 000 collaborateurs de Bull - dont 5 000 en France - mettent nos valeurs d'engagement et d'entrepreneuriat au service de l'innovation depuis 80 ans. 
+Les femmes &amp; les hommes de Bull, présents dans plus de 50 pays, constituent la première richesse de notre Groupe et portent une attention particulière à chacun de nos clients. 
+Vous avez le talent et l'ambition, nous avons les projets et l'expertise, rejoignez Bull !
+
+Bull Innovative Products développe et fabrique des systèmes destinés aux clients qui, en matière de performance, de robustesse et de fiabilité ont les exigences les plus élevées. Ce segment regroupe les solutions matérielles du Groupe : offres supercalculateurs, qui permettent de développer les produits et solutions capables de relever les enjeux énergétiques, écologiques, de santé ou de sécurité du futur, et grands serveurs d'entreprise qui supportent les nouveaux services dématérialisés, le cloud computing et l'internet des objets. 
+
+
+Bull SAS is seeking a senior software engineers with experiences in distributed systems, virtualization, networking, and open-source development to join the Cloud Computing Engineering Team.
+
+As a leader of the Cloud Computing Engineering Team, you will work closely with the project manager and principal architect to deliver a high-performance cloud computing platform based on quickly evolving requirements.
+
+You will have to provide expertize and technical leadership acumen to the other members of team on a broad range of cutting-edge technologies including OpenStack, REST Web Services, and DevOps automation tools to name a few.</summary><content type="html">&lt;p&gt;Mission
+&lt;br /&gt;Au sein de la R&amp;amp;D Bull, l'entité &amp;quot;Innovation&amp;quot; a pour mission de fournir des solutions
+&lt;br /&gt;innovantes de gestion de cloud privé ou public s'appuyant sur des projets opensource et
+&lt;br /&gt;sur l'expertise reconnue de Bull dans le domaine du HPC (High Performance Computing).
+&lt;br /&gt;
+&lt;br /&gt;Votre mission consiste à :
+&lt;br /&gt;- Piloter la conception et la mise en œuvre d'un projet très avancé de Cloud Computing pour les applications hautes performances, basé sur l'utilisation d'OpenStack et les technologies open source connexes
+&lt;br /&gt;- Travailler en étroite relation avec le responsable de projet, l'architecte, les managers et les ingénieurs de l'équipe pour fournir la meilleure solution en réponse aux besoins clients
+&lt;br /&gt;- Au-delà des responsabilités de teamleader, contribuer au développement d'extensions et/ou de modifications dans OpenStack et s'assurer qu'elles soient adoptées et intégrées dans le code OpenStack
+&lt;br /&gt;
+&lt;br /&gt;Compétences requises :
+&lt;br /&gt;- Expertise Linux avec des compétences en virtualisation et administration système.
+&lt;br /&gt;- Expérience de 3 ans minimum en programmation Python. La connaissance d'autres langages tels que Ruby et Java est souhaitable.
+&lt;br /&gt;- Expérience en QEMU-KVM, conteneurs Linux et cgroups.
+&lt;br /&gt;- Bonne compréhension des systèmes complexes de réseaux, de stockage et de serveurs.
+&lt;br /&gt;- Bonne connaissance d'Amazon Web Services ou de services de cloud similaires.
+&lt;br /&gt;- Contribution au développement logiciel dans des projets open source. Une expérience concrète du développement logiciel dans OpenStack est un plus significatif.
+&lt;br /&gt;- Expérience dans les tests et outils d'intégration comme Jenkins.
+&lt;br /&gt;- Expérience dans les systèmes distribués de contrôle de révision comme Git. 
+&lt;br /&gt;
+&lt;br /&gt;Compétences appréciées :
+&lt;br /&gt;- Systèmes de gestion de configuration tels que Chef et/ou Puppet
+&lt;br /&gt;- OpenFlow et OpenVSwitch 
+&lt;br /&gt;- Ceph et/ou GlusterFS  
+&lt;br /&gt;
+&lt;br /&gt;Profil
+&lt;br /&gt;Bac + 5, école d'Ingénieur ou Universitaire avec un minimum de 3 ans d'expérience.
+&lt;br /&gt;
+&lt;br /&gt;Vous avez un excellent esprit d'équipe, vous êtes capable de travailler en environnement multiculturel, multi-sites, avec des process agiles. 
+&lt;br /&gt;Vous êtes capable d'obtenir un consensus sur des propositions de conception et de réalisation au sein de votre équipe. 
+&lt;br /&gt;Passionné(e) et expérimenté(e), vous disposez de bonnes capacités de dialogue et d'échange.
+&lt;br /&gt;Vous êtes force de proposition et faites la différence sur des projets à forte valeur ajoutée.
+&lt;br /&gt;Vous disposez d'excellentes compétences en résolution de problèmes.
+&lt;br /&gt;Enfin, vous communiquez parfaitement en anglais, tant à l'oral qu'à l’écrit.
+&lt;br /&gt;
+&lt;br /&gt;Langues : Anglais opérationnel 
+&lt;br /&gt;
+&lt;br /&gt;Lieu : Grenoble 
+&lt;br /&gt;Type de contrat : CDI 
+&lt;br /&gt;
+&lt;br /&gt;Responsibilities :
+&lt;br /&gt;
+&lt;br /&gt;Provide technical expertize on OpenStack's internals and general distributed systems architecture
+&lt;br /&gt;Work closely with the project manager, principal architect and other team members on the design and implementation of a high-performance cloud computing platform
+&lt;br /&gt;Communicate effectively with all the stakeholders of the project, including the members of a cross-cultural and distributed team organization
+&lt;br /&gt;
+&lt;br /&gt;Requirements : 
+&lt;br /&gt;
+&lt;br /&gt;Deep knowledge of Linux operating system and virtualization technologies.
+&lt;br /&gt;Strong coding skills in Python with an emphasis on writing modular and scalable code. 
+&lt;br /&gt;Experience working with open-source software
+&lt;br /&gt;Experience with testing and continuous integration tools like Jenkins
+&lt;br /&gt;Strong English oral and written communication skills. Good French communication skills is a strong plus
+&lt;br /&gt;Hands-on experience with coding OpenStack's internals
+&lt;br /&gt;Experience with submitting code to OpenStack's mainstream (Gerrit workflow)
+&lt;br /&gt;Knowledge of other IaaS platforms like AWS is a strong plus
+&lt;br /&gt;
+&lt;br /&gt;Desired skills:
+&lt;br /&gt;
+&lt;br /&gt;Experience with layer-2, layer-3 network protocols and technologies.
+&lt;br /&gt;Experience with InfiniBand interconnet
+&lt;br /&gt;Experience with other programming languages like Java and Ruby is a strong plus
+&lt;br /&gt;Experience with contributing software to the OpenStack community is a strong plus
+&lt;br /&gt;Experience with troubleshooting and analyzing complex distributed systems
+&lt;br /&gt;Strong ability to influence others and build consensus using good written and verbal communication skills
+&lt;br /&gt;Experience with REST Web Services design and implementation
+&lt;br /&gt;Ability to write tutorials and documentation
+&lt;br /&gt;Experience with configuration management tools like Chef or Puppet
+&lt;br /&gt;Knowledge of OpenFlow and OpenVSwitch
+&lt;br /&gt;
+&lt;br /&gt;Profil :
+&lt;br /&gt;
+&lt;br /&gt;The role involves being an excellent team leader able to work in a cross-cultural and agile organization. The ideal candidate should have excellent problem solving skills, be able to work independently but in tight collaboration with regular communications with other team members and  upstream contributors. He should be passionate about cutting-edge software development and be capable of driving consensus on proposed design and implementation solutions.
+&lt;br /&gt;
+&lt;br /&gt;Education:
+&lt;br /&gt;
+&lt;br /&gt;A Computer Science or related undergraduate and/or master’s degree is required. Any other demonstrated high technology aptitude is desired.&lt;/p&gt;</content><company>BULL</company><address>Bull SAS - DPT RECRUTEMENT AVENUE JEAN JAURES BP 68 - 78340 LES CLAYES SOUS BOIS France</address><contact>PERALDO</contact><location></location><phone></phone><link href="http://www.bull.fr/" rel="about"></link><link href="http://www.bull.fr/emploi/recrutement/emploicv.php?num=3326" rel="via"></link></entry>

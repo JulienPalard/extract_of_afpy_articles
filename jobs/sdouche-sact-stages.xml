@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf8"?>
+<entry><title>Stage développement Python</title><link href="https://www.afpy.org/jobs/sdouche-sact-stages" rel="alternate"></link><published>2008-05-26T10:59:16+02:00</published><updated>2013-03-31T22:50:31+02:00</updated><author><name>admin</name><email>rhdev@securactive.net</email></author><id>https://www.afpy.org/jobs/sdouche-sact-stages</id><summary type="html">Dans le cadre de la refonte de notre produit, nous recherchons des stagiaires pour travailler dans 3 domaines bien particulier : la génération de graphes complexes, le développement d'analyseur réseau et l'IHM.</summary><content type="html">&lt;div class="section" id="presentation-societe"&gt;
+&lt;h3&gt;&lt;a name="presentation-societe"&gt;PRESENTATION SOCIETE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Securactive est un fournisseur de solution d'aide à la décision réseau, donnant une visibilité aux équipes IT pour répondre de manière adéquate à toutes anomalies. Sous forme d'appliance, elles agissent de manière passive sur un réseau. Des alertes sont configurables permettant d’alerter immédiatement de tout fonctionnement anormal par rapport à une configuration réseau normée.&lt;/p&gt;
+&lt;p&gt;Créé en 2004, la société dispose de plus de 250 clients, entreprises de toutes tailles et présents sur tous les secteurs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="le-sujet-du-poste"&gt;
+&lt;h3&gt;&lt;a name="le-sujet-du-poste"&gt;LE SUJET DU POSTE&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Dans le cadre de notre développement, nous souhaitons mettre l'accent sur la qualité de notre solution dans l'ensemble du cycle de vie (installation, mise à jour). Les difficultés techniques sont multiples :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;nous gérons l'ensemble des composants (matériel, OS, applicatifs)&lt;/li&gt;
+&lt;li&gt;la sonde ne fonctionne que dans un environnement réseau réaliste, difficile à reproduire&lt;/li&gt;
+&lt;li&gt;les domaines d'expertises nombreux : Unix, réseau bas niveau (pile TCP/IP, protocoles) base de données, développement (C, Python, PHP), Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nous recherchons donc un (ou plusieurs) stagiaire(s) motivé(s) et passionné(s), afin de nous aider dans cette tâche. Intégré au pole R&amp;amp;D, en communication directe avec l'équipe de développement, le périmètre de son stage ne dépendra que de ses capacités et de sa motivation. L'équipe de développement est jeune, très technique et disposé à former toute personne motivée.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Intérêt du stage :&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;Participation à la R&amp;amp;D de l'entreprise, environnement purement technique (100% logiciel libre)&lt;/li&gt;
+&lt;li&gt;Utilisation poussée de Linux et du réseau&lt;/li&gt;
+&lt;li&gt;Utilisation de méthodes agiles (Scrum, XP) sous le contrôle d'un coach&lt;/li&gt;
+&lt;li&gt;Apprentissage de nombreux domaines techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Profil recherché :&lt;/dt&gt;
+&lt;dd&gt;Nous cherchons avant tout quelqu'un de passionné, disposant d'un bon bagage technique général et prêt à apprendre.&lt;/dd&gt;
+&lt;dt&gt;Durée du stage :&lt;/dt&gt;
+&lt;dd&gt;De plusieurs mois (plein temps ou alternance) et une embauche en CDI est possible en fin de stage.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;
+</content><company>Securactive</company><address>5bis, rue Rochechouart - Paris, 09eme
+Métro Cadet - ligne 7, Notre Dame de Lorette - ligne 12, Grand Boulevard - ligne 8</address><contact>Ressource humaine R&amp;D</contact><location></location><phone>0178090721</phone><link href="http://www.securactive.net" rel="about"></link></entry>
